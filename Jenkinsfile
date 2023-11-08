@@ -2,6 +2,12 @@ pipeline {
   agent any // This tells Jenkins to allocate a workspace and run the pipeline on any available agent
   
   stages {
+      stage('Pre') { // Stage 1: Build
+          steps {
+              echo 'Pre the project...'
+              // Insert build steps here
+          }
+      }
       stage('Build') { // Stage 1: Build
           steps {
               echo 'Building the project...'
