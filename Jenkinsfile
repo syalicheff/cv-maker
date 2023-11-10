@@ -2,9 +2,14 @@ pipeline {
   agent any
 
   stages {
+    stage('Pre') {
+      steps {
+        echo 'Pre hooking the project...'
+      }
+    }
     stage('Build') {
       steps {
-        echo 'Building the project...'  
+        echo 'Building the project...'
       }
     }
     stage('Test') {
