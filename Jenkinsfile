@@ -8,7 +8,12 @@ pipeline {
                     echo 'Pre building the project...'
 
                 }
-                sh 'npm install -g pnpm'
+                nodejs(nodeJSInstallationName: "20") {
+                    sh 'node -v'
+                    sh 'npm install -g pnpm'
+                    sh 'pnpm run build'
+                    sh 'pnpm test'
+                }
                 // Insert build steps here
             }
         }
