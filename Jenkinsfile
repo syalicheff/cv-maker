@@ -4,7 +4,11 @@ pipeline {
     stages {
         stage('Pre') { // Stage 1: Build
             steps {
-                echo 'Pre building the project...'
+                script {
+                    echo 'Pre building the project...'
+
+                }
+                sh 'npm install -g pnpm'
                 // Insert build steps here
             }
         }
