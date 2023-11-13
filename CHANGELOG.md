@@ -1,5 +1,13 @@
 
 
+## [0.8.2](https://github.com/MohammadBnei/cv-maker/compare/0.8.1...0.8.2) (2023-11-13)
+
+
+### Bug Fixes
+
+* **pdf:** removing shadow from bonus icons ([afb3658](https://github.com/MohammadBnei/cv-maker/commit/afb36580650f42737bbe948ed0d4965c7ae752b9))
+* **pdf:** removing shadow from lang ([1d39bd2](https://github.com/MohammadBnei/cv-maker/commit/1d39bd292441256d21f036c9f7b8524573d16e56))
+
 ## [0.8.1](https://github.com/MohammadBnei/cv-maker/compare/0.8.0...0.8.1) (2023-11-13)
 
 
