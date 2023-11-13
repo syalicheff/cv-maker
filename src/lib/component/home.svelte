@@ -22,7 +22,7 @@
 	$: experiences.set(experience);
 </script>
 
-<div class="py-0 dark:bg-base-100 shadow-sm rounded-sm navbar {$snapshotMode ? 'py-6' : ''}">
+<div class="py-0 dark:bg-base-100 {$snapshotMode ? 'py-6' : 'shadow-sm'} rounded-sm navbar">
 	<Title {title} />
 	<div class="flex flex-col sm:flex-row w-full">
 		<Contact {contactInfo} />
@@ -41,7 +41,7 @@
 	</div>
 </div>
 <div class="hero grow pt-1 pb-2">
-	<div class="text-center lg:text-left desktop-grid w-screen h-full place-items-center gap-2">
+	<div class="text-center sm:text-left desktop-grid w-screen place-items-center gap-2">
 		<!-- <div style="grid-area: picture;">
 			<img src="/photo_cv.jpg" alt="Mohammad-Amine Banaei" class="mask mask-squircle w-32" />
 		</div> -->
@@ -52,7 +52,10 @@
 			<Experience experience={$experiences} />
 		</div>
 		<div class="divider sm:hidden mx-2 {$snapshotMode ? 'my-14' : 'my-1'}"></div>
-		<div class="px-2 self-center w-full" style="grid-area: education;">
+		<div
+			class="px-2 {$snapshotMode ? 'self-start' : 'self-center'} w-full"
+			style="grid-area: education;"
+		>
 			<Education {education} />
 			<div class="divider {$snapshotMode ? 'my-14' : 'my-1'}"></div>
 			<Lang {langs} />
@@ -64,7 +67,7 @@
 					<BonusIcons />
 				</div>
 			{/if}
-			<div class="mb-4 lg:mb-0"></div>
+			<div class="mb-4 sm:mb-0"></div>
 		</div>
 	</div>
 </div>
@@ -75,7 +78,7 @@
 {/if}
 
 <style>
-	@media (min-width: 1024px) {
+	@media (min-width: 640px) {
 		.desktop-grid {
 			display: grid;
 			grid-template-columns: 30% auto;

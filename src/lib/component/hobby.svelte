@@ -7,6 +7,8 @@
 </script>
 
 <script lang="ts">
+	import { snapshotMode } from '../../store';
+	
 	export let hobbies: IHobby[] = [
 		{
 			name: 'Boxe',
@@ -15,12 +17,12 @@
 	];
 </script>
 
-<div class="stats shadow stats-vertical  w-full">
+<div class="stats {$snapshotMode ? '' : 'shadow'} stats-vertical w-full">
 	{#each hobbies as hobby}
 		<div class="stat">
 			{#if hobby.svg}
 				<!-- content here -->
-				<div class="stat-figure justify-self-center flex flex-col justify-center  text-secondary">
+				<div class="stat-figure justify-self-center flex flex-col justify-center text-secondary">
 					<div class="avatar">
 						<div class="w-8">
 							<img src={hobby.svg} alt={hobby.name} />

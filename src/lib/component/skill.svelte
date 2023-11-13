@@ -28,7 +28,7 @@
 	];
 </script>
 
-<div class="stats shadow h-fit hidden lg:inline-grid">
+<div class="stats shadow h-fit hidden sm:inline-grid">
 	{#each categories as category}
 		<div class="stat w-44 ">
 			<div class="stat-title capitalize text-center h-fit">{category}</div>
@@ -41,7 +41,7 @@
 	{/each}
 </div>
 
-<div class="lg:hidden">
+<div class="sm:hidden">
 	{#each mobileCategories as mCategories}
 		<div class="stats shadow mb-2 mx-2">
 			{#each mCategories as mCategory}

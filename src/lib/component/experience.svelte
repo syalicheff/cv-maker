@@ -1,5 +1,4 @@
 <script context="module" lang="ts">
-	import Badge from './ui/badge.svelte';
 	import { formatDate } from '$lib/utils';
 
 	export interface IExperience {
@@ -45,15 +44,21 @@
 	];
 </script>
 
-<div class={$snapshotMode ? '' : 'lg:columns-2'}>
-	<ol class="relative border-l-2 border-lime-200 dark:border-green-700">
+<div class={$snapshotMode ? '' : 'sm:columns-2'}>
+	<ol
+		class="relative border-l-2 border-lime-200 dark:border-green-700 {$snapshotMode
+			? 'flex flex-col flex-shrink'
+			: ''} "
+	>
 		{#each experience.sort((a, b) => b.endDate.getTime() - a.endDate.getTime()) as item, i}
 			<li class="ml-4 {i !== 0 ? 'mt-2' : ''} break-inside-avoid" transition:fly>
 				<div
 					class="absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -left-[6.5px] border border-white dark:border-gray-900 dark:bg-gray-700"
 				></div>
 				<div
-					class="card dark:bg-neutral-800 shadow-lg rounded-sm hover:scale-[1.025] transition hover:cursor-pointer"
+					class="card dark:bg-neutral-800 {$snapshotMode
+						? ''
+						: 'shadow-lg'} rounded-sm hover:scale-[1.025] transition hover:cursor-pointer"
 					on:click|stopPropagation={() =>
 						document.getElementById(`${item.enterprise}-modal`)?.click()}
 					on:keyup={(k) =>
@@ -82,8 +87,9 @@
 										class="btn btn-sm btn-outline"
 										id="{item.enterprise}-modal"
 										on:click={() => document.getElementById(item.enterprise)?.showModal()}
-										><Detail width={20} /></button
 									>
+										<Detail width={20} />
+									</button>
 								</div>
 							{/if}
 						</div>

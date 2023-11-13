@@ -39,7 +39,7 @@
 			<time class="mb-1 text-sm font-normal leading-none text-accent">
 				{formatDate(item.startDate)} - {formatDate(item.endDate)}
 			</time>
-			<div class="card bg-stone-200 dark:bg-stone-600 shadow-xl rounded-sm">
+			<div class="card bg-stone-200 dark:bg-stone-600 {$snapshotMode ? '': 'shadow-xl'} rounded-sm">
 				<div class="card-body p-2">
 					<div class="collapse {$snapshotMode ? 'collapse-open' : 'collapse-arrow'}">
 						<input aria-label="collapse education details" type="checkbox" />

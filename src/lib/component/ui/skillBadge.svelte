@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { selectedSkills } from '../../../store';
+	import { selectedSkills, snapshotMode } from '../../../store';
 	import type { ISkill } from '../skill.svelte';
 
 	export let skill: ISkill;
@@ -7,7 +7,9 @@
 </script>
 
 <span
-	class="inline-flex items-center font-bold rounded-md {skill.category} default px-2 py-1 ring-1 ring-inset {scale
+	class="inline-flex items-center {snapshotMode
+		? 'text-xs'
+		: ''} font-bold rounded-md {skill.category} default px-2 py-1 ring-1 ring-inset {scale
 		? 'hover:scale-[1.03]'
 		: 'hover:skew-y-2'} transition
 		{$selectedSkills.includes(skill) ? 'outline outline-2' : ''}
