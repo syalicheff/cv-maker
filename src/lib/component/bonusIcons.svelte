@@ -9,7 +9,7 @@
 </script>
 
 <div class="flex {!$snapshotMode ? 'flex-col sm:flex-row' : 'flex-col'} items-center gap-2">
-	<div class="stats shadow w-min">
+	<div class="stats {$snapshotMode ? '' : 'shadow'} w-min">
 		<div class="stat">
 			<FootballKick width={44} />
 		</div>
@@ -18,7 +18,7 @@
 		</div>
 	</div>
 	<div class="flex flex-col items-center gap-2">
-		<div class="stats shadow w-min">
+		<div class="stats {$snapshotMode ? '' : 'shadow'} w-min">
 			<div class="stat">
 				<img src="/strategy.png" class="max-w-none w-[44px]" alt="chess" />
 			</div>
@@ -27,7 +27,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="stats shadow w-min">
+	<div class="stats {$snapshotMode ? '' : 'shadow'} w-min">
 		<div class="stat">
 			<Docker width={44} />
 		</div>
@@ -35,7 +35,7 @@
 			<Gopher width={44} />
 		</div>
 	</div>
-	<div class="stats shadow w-min">
+	<div class="stats {$snapshotMode ? '' : 'shadow'} w-min">
 		<div class="stat">
 			<Elk width={44} />
 		</div>
