@@ -51,7 +51,7 @@
 	}
 </script>
 
-<div class="stats shadow w-full">
+<div class="stats {$snapshotMode ? '' : 'shadow'} w-full">
 	<div class="stat p-0 justify-between">
 		<!-- svelte-ignore a11y-no-static-element-interactions -->
 		<div
