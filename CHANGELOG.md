@@ -1,5 +1,12 @@
 
 
+## [0.8.1](https://github.com/MohammadBnei/cv-maker/compare/0.8.0...0.8.1) (2023-11-13)
+
+
+### Bug Fixes
+
+* **pdf:** fixing pdf export ([64e0e21](https://github.com/MohammadBnei/cv-maker/commit/64e0e212e540722f1354fea4b10230283850dc5a))
+
 # [0.8.0](https://github.com/MohammadBnei/cv-maker/compare/0.7.6...0.8.0) (2023-11-13)
 
 
