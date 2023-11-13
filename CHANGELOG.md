@@ -1,5 +1,12 @@
 
 
+# [0.8.0](https://github.com/MohammadBnei/cv-maker/compare/0.7.6...0.8.0) (2023-11-13)
+
+
+### Features
+
+* **Intro-CI.md:** add content for the Introduction chapter of the CI/CD presentation ([af72b24](https://github.com/MohammadBnei/cv-maker/commit/af72b2424412bdc038ca7eed8bf161c4465f84f7))
+
 ## [0.7.6](https://github.com/MohammadBnei/cv-maker/compare/0.7.5...0.7.6) (2023-09-09)
 
 ## [0.7.5](https://github.com/MohammadBnei/cv-maker/compare/0.7.4...0.7.5) (2023-09-09)
