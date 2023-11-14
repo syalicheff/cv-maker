@@ -213,6 +213,21 @@ export const experience: IExperience[] = [
 				skills: [{ name: 'reactjs', category: 'frontend' }]
 			},
 			{
+				title: 'AI Integration',
+				description: `Integration of artificial intelligence model via API. Construction of vector space, connection to search engines to create specific AI.`,
+				skills: [{ name: 'python', category: 'backend' }]
+			},
+			{
+				title: 'Web realtime',
+				description: `Presentation of different technologies enabling real-time for the web. Implementation of real-time projects.`,
+				skills: [
+					{ name: 'redis', category: 'data' },
+					{ name: 'websocket', category: 'backend' },
+					{ name: 'socket.io', category: 'backend' },
+					{ name: 'webRTC', category: 'frontend' }
+				]
+			},
+			{
 				title: 'Other',
 				description: `Participation in the organization of joint exams between the subjects, accompanying students in the design and realization of a Udemy type course, course on performance testing, integration of AI to the web via API.`,
 				skills: []

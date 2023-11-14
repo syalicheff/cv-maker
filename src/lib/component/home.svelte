@@ -19,6 +19,19 @@
 	export let contactInfo: IContactInfo;
 	export let skills: ISkill[];
 
+	let allSkills = new Map<string, ISkill>();
+
+	$: {
+		skills.forEach((skill) => allSkills.set(skill.name, skill));
+		experience
+			.flatMap((exp) => exp.missions)
+			.flatMap(({ skills }) => skills)
+			.map((skill) => allSkills.set(skill.name, skill));
+		education
+			.flatMap(({ skills }) => skills)
+			.map((skill) => skill && allSkills.set(skill.name, skill));
+	}
+
 	$: experiences.set(experience);
 </script>
 
@@ -46,7 +59,7 @@
 			<img src="/photo_cv.jpg" alt="Mohammad-Amine Banaei" class="mask mask-squircle w-32" />
 		</div> -->
 		<div class="my-4 flex justify-center self-start w-full" style="grid-area: skill;">
-			<Skill {skills} />
+			<Skill {skills} allSkills={Array.from(allSkills.values())} />
 		</div>
 		<div class="px-2 self-start w-full" style="grid-area: experience;">
 			<Experience experience={$experiences} />

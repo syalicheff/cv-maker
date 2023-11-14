@@ -211,8 +211,26 @@ export const experience: IExperience[] = [
 			},
 			{
 				title: 'React',
-				description: `Introduction au langage de programation React.`,
-				skills: [{ name: 'reactjs', category: 'frontend' }]
+				description: `Introduction au langage de programation React via NextJS.`,
+				skills: [
+					{ name: 'reactjs', category: 'frontend' },
+					{ name: 'nextjs', category: 'frontend' }
+				]
+			},
+			{
+				title: "Intégration d'IA",
+				description: `Intégration de modèle d'intelligence artificielle via API. Construction d'espace vectoriel, connexion aux moteurs de recherches pour créer des IA spécifiques.`,
+				skills: [{ name: 'python', category: 'backend' }]
+			},
+			{
+				title: 'Web realtime',
+				description: `Présentation des différentes technologies permettant le temps réel pour le web. Implémentation de projets en temps réel.`,
+				skills: [
+					{ name: 'redis', category: 'data' },
+					{ name: 'websocket', category: 'backend' },
+					{ name: 'socket.io', category: 'backend' },
+					{ name: 'webRTC', category: 'frontend' }
+				]
 			},
 			{
 				title: 'Autres',

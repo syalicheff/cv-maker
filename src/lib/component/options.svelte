@@ -10,6 +10,7 @@
 	import Pdf from './ui/svg/pdf.svelte';
 	import Html from './ui/svg/html.svelte';
 	import Download from './ui/svg/download.svelte';
+	import RemoveFilteredSkills from './removeFilteredSkills.svelte';
 
 	let pulseCount = 0;
 	let pulse = false;
@@ -57,14 +58,7 @@
 		</li>
 		{#if $selectedSkills.length > 0}
 			<li class:animate-ping={pulse}>
-				<a
-					transition:slide
-					on:click|preventDefault={() => selectedSkills.reset()}
-					href="/"
-					class="p-2 m-auto"
-				>
-					<FilterMinus width={22} />
-				</a>
+				<RemoveFilteredSkills width={22} />
 			</li>
 		{/if}
 	</ul>
