@@ -27,7 +27,9 @@
 	export let allSkills: ISkill[] = [];
 
 	$: searchedSkills = skillSearch
-		? allSkills.filter((skill) => skill.name.includes(skillSearch))
+		? allSkills.filter((skill) =>
+				skill.name.toLocaleLowerCase().includes(skillSearch.toLocaleLowerCase())
+		  )
 		: allSkills;
 
 	$: reducedAllSkills = searchedSkills.reduce((acc, skill) => {
