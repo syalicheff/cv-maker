@@ -1,5 +1,12 @@
 
 
+## [0.9.1](https://github.com/MohammadBnei/cv-maker/compare/0.9.0...0.9.1) (2023-11-21)
+
+
+### Bug Fixes
+
+* **skill.svelte:** improve skill search functionality to be case-insensitive ([bba5287](https://github.com/MohammadBnei/cv-maker/commit/bba528721323f6955efe478f18b23ccb469dabdf))
+
 # [0.9.0](https://github.com/MohammadBnei/cv-maker/compare/0.8.2...0.9.0) (2023-11-14)
 
 
