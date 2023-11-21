@@ -1,16 +1,16 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://cv.bnei.dev/en?snapshot
 Subject: Mohammad-Amine BANAEI - Resume
-Date: Tue, 14 Nov 2023 14:13:55 +0000
+Date: Tue, 21 Nov 2023 10:11:18 +0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----"
+	boundary="----MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----"
 
 
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----
 Content-Type: text/html
-Content-ID: <frame-963999CC854A8561A3ED484C71ED9920@mhtml.blink>
+Content-ID: <frame-121B1C8414720E19AA2BA6BD770646AC@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/en?snapshot
 
@@ -20,30 +20,30 @@ ttp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
 		<link rel=3D"icon" href=3D"https://cv.bnei.dev/favicon.ico">
 		<meta name=3D"viewport" content=3D"width=3Ddevice-width">
 	=09
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/0.2429151a.css"=
+		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/0.4580f4f6.css"=
  rel=3D"stylesheet">
 		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/HeadTags.ab8afc=
 07.css" rel=3D"stylesheet">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/start.1f394286.js">
+entry/start.07ec9c95.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
 chunks/scheduler.bff07679.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/singletons.2fd6d4bf.js">
+chunks/singletons.5f75c402.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/app.00b4a226.js">
+entry/app.e3bc14f7.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
 chunks/index.07efb5e0.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/0.d7fd71c9.js">
+nodes/0.c0f6e4b6.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/index.23b89773.js">
+chunks/index.15c0bfb0.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/stores.429ad5cf.js">
+chunks/stores.2b76460c.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/3.86854794.js">
+nodes/3.6142be1f.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/HeadTags.2c77ebb1.js"><title>Mohammad-Amine BANAEI - Resume</title><=
+chunks/HeadTags.86e3e0f8.js"><title>Mohammad-Amine BANAEI - Resume</title><=
 meta http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge,chrome=3D1"><meta =
 name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><meta=
  name=3D"robots" content=3D"index,follow"><meta name=3D"googlebot" content=
@@ -69,7 +69,7 @@ arding my experiences, skills, training and contact details. Feel free to c=
 ontact me for any offers or for more information."><!-- HTML_TAG_START --><=
 !-- HTML_TAG_END --><!-- HTML_TAG_START --><!-- HTML_TAG_END -->
 	<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"http://=
-127.0.0.1:4173/_app/immutable/nodes/1.d83ca7c1.js"></head>
+127.0.0.1:4173/_app/immutable/nodes/1.882c6e3b.js"></head>
 	<body data-sveltekit-preload-data=3D"hover">
 		<div style=3D"display: contents"><div class=3D"min-h-screen dark:bg-base-=
 300"> <div class=3D"py-0 dark:bg-base-100 py-6 rounded-sm navbar"><div clas=
@@ -2226,10 +2226,10 @@ iv></div>
 =09
 
 </body></html>
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/0.2429151a.css
+Content-Location: https://cv.bnei.dev/_app/immutable/assets/0.4580f4f6.css
 
 @charset "utf-8";
 
@@ -2371,44 +2371,42 @@ on-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-border: 1px=
 572 .199 27.33; }
 }
 
-[data-theme=3D"professionnal"], :root:has(input.theme-controller[value=3D"p=
-rofessionnal"]:checked) { --p: .666867 .085981 51.13212; --b2: .93 0 0; --b=
-3: .86 0 0; --bc: .2 0 0; --pc: .133373 .017196 51.13212; --sc: .127101 .03=
-3247 45.819942; --ac: .896131 .019868 39.886199; --nc: .877082 .004808 262.=
-829219; --inc: .151705 .027481 231.6166; --suc: .154663 .030576 163.102898;=
- --wac: .166604 .032836 83.424292; --erc: .142439 .032979 22.150603; --roun=
+[data-theme=3D"professionnal"] { --p: .666867 .085981 51.13212; --b2: .93 0=
+ 0; --b3: .86 0 0; --bc: .2 0 0; --pc: .133373 .017196 51.13212; --sc: .127=
+101 .033247 45.819942; --ac: .896131 .019868 39.886199; --nc: .877082 .0048=
+08 262.829219; --inc: .151705 .027481 231.6166; --suc: .154663 .030576 163.=
+102898; --wac: .166604 .032836 83.424292; --erc: .142439 .032979 22.150603;=
+ --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --anim=
+ation-btn: .25s; --animation-input: .2s; --btn-focus-scale: .95; --border-b=
+tn: 1px; --tab-border: 1px; --tab-radius: .5rem; --s: .635504 .166237 45.81=
+9942; --a: .480653 .09934 39.886199; --n: .385412 .024038 262.829219; --b1:=
+ 1 0 0; --in: .758525 .137405 231.6166; --su: .773316 .152882 163.102898; -=
+-wa: .83302 .164179 83.424292; --er: .712196 .164893 22.150603; }
+
+[data-theme=3D"halloween"] { color-scheme: dark; --b2: .230416 0 0; --b3: .=
+213072 0 0; --bc: .849552 0 0; --sc: .89196 .0496 305.03; --nc: .848742 .00=
+9322 65.681484; --inc: .90923 .043042 262.880917; --suc: .12541 .033982 149=
+.213788; --wac: .133168 .031484 58.31834; --erc: .13144 .0398 27.33; --roun=
 ded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-b=
 tn: .25s; --animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px=
-; --tab-border: 1px; --tab-radius: .5rem; --s: .635504 .166237 45.819942; -=
--a: .480653 .09934 39.886199; --n: .385412 .024038 262.829219; --b1: 1 0 0;=
- --in: .758525 .137405 231.6166; --su: .773316 .152882 163.102898; --wa: .8=
-3302 .164179 83.424292; --er: .712196 .164893 22.150603; }
+; --tab-border: 1px; --tab-radius: .5rem; --p: .7748 .204 60.62; --pc: .196=
+935 .004671 196.779412; --s: .4598 .248 305.03; --a: .648 .223 136.073479; =
+--ac: 0 0 0; --n: .24371 .046608 65.681484; --b1: .247759 0 0; --in: .54615=
+ .215208 262.880917; --su: .627052 .169912 149.213788; --wa: .66584 .157422=
+ 58.31834; --er: .6572 .199 27.33; }
 
-[data-theme=3D"halloween"], :root:has(input.theme-controller[value=3D"hallo=
-ween"]:checked) { color-scheme: dark; --b2: .230416 0 0; --b3: .213072 0 0;=
- --bc: .849552 0 0; --sc: .89196 .0496 305.03; --nc: .848742 .009322 65.681=
-484; --inc: .90923 .043042 262.880917; --suc: .12541 .033982 149.213788; --=
-wac: .133168 .031484 58.31834; --erc: .13144 .0398 27.33; --rounded-box: 1r=
-em; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s; -=
--animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-bor=
-der: 1px; --tab-radius: .5rem; --p: .7748 .204 60.62; --pc: .196935 .004671=
- 196.779412; --s: .4598 .248 305.03; --a: .648 .223 136.073479; --ac: 0 0 0=
-; --n: .24371 .046608 65.681484; --b1: .247759 0 0; --in: .54615 .215208 26=
-2.880917; --su: .627052 .169912 149.213788; --wa: .66584 .157422 58.31834; =
---er: .6572 .199 27.33; }
-
-[data-theme=3D"dark"], :root:has(input.theme-controller[value=3D"dark"]:che=
-cked) { --p: .951917 .005998 223.457408; --b2: .169449 0 0; --b3: .156695 0=
- 0; --bc: .836441 0 0; --pc: .190383 .0012 223.457408; --sc: .127101 .03324=
-7 45.819942; --ac: .896131 .019868 39.886199; --nc: .877082 .004808 262.829=
-219; --inc: .151705 .027481 231.6166; --suc: .154663 .030576 163.102898; --=
-wac: .166604 .032836 83.424292; --erc: .142439 .032979 22.150603; --rounded=
--box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn:=
- .25s; --animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; -=
--tab-border: 1px; --tab-radius: .5rem; --s: .635504 .166237 45.819942; --a:=
- .480653 .09934 39.886199; --n: .385412 .024038 262.829219; --b1: .182204 0=
- 0; --in: .758525 .137405 231.6166; --su: .773316 .152882 163.102898; --wa:=
- .83302 .164179 83.424292; --er: .712196 .164893 22.150603; }
+[data-theme=3D"dark"] { --p: .951917 .005998 223.457408; --b2: .169449 0 0;=
+ --b3: .156695 0 0; --bc: .836441 0 0; --pc: .190383 .0012 223.457408; --sc=
+: .127101 .033247 45.819942; --ac: .896131 .019868 39.886199; --nc: .877082=
+ .004808 262.829219; --inc: .151705 .027481 231.6166; --suc: .154663 .03057=
+6 163.102898; --wac: .166604 .032836 83.424292; --erc: .142439 .032979 22.1=
+50603; --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; =
+--animation-btn: .25s; --animation-input: .2s; --btn-focus-scale: .95; --bo=
+rder-btn: 1px; --tab-border: 1px; --tab-radius: .5rem; --s: .635504 .166237=
+ 45.819942; --a: .480653 .09934 39.886199; --n: .385412 .024038 262.829219;=
+ --b1: .182204 0 0; --in: .758525 .137405 231.6166; --su: .773316 .152882 1=
+63.102898; --wa: .83302 .164179 83.424292; --er: .712196 .164893 22.150603;=
+ }
 
 *, ::before, ::after { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; =
 --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; -=
@@ -2580,14 +2578,14 @@ elf: stretch; margin-top: 1rem; margin-bottom: 1rem; height: 1rem; white-sp=
 ace: nowrap; }
 
 .divider::before, .divider::after { height: 0.125rem; width: 100%; flex-gro=
-w: 1; --tw-content: ""; content: var(--tw-content); --tw-bg-opacity: 1; bac=
-kground-color: var(--fallback-b3,oklch(var(--b3)/var(--tw-bg-opacity))); }
+w: 1; --tw-content: ""; content: var(--tw-content); background-color: var(-=
+-fallback-bc,oklch(var(--bc)/.1)); }
 
 @media (hover: hover) {
   .btn:hover { --tw-border-opacity: 1; border-color: color-mix(in oklab,okl=
-ch(var(--btn-color, var(--b2)) / var(--tw-border-opacity)) 90%,black); --tw=
--bg-opacity: 1; background-color: color-mix(in oklab,oklch(var(--btn-color,=
- var(--b2)) / var(--tw-bg-opacity)) 90%,black); }
+ch(var(--btn-color, var(--b2)) / var(--tw-border-opacity, 1)) 90%,black); -=
+-tw-bg-opacity: 1; background-color: color-mix(in oklab,oklch(var(--btn-col=
+or, var(--b2)) / var(--tw-bg-opacity, 1)) 90%,black); }
   @supports not (color: oklch(0 0 0)) {
   .btn:hover { background-color: var(--btn-color, var(--fallback-b2)); bord=
 er-color: var(--btn-color, var(--fallback-b2)); }
@@ -3966,7 +3964,7 @@ b(38 38 38 / var(--tw-bg-opacity)); }
   .sm\:pb-2 { padding-bottom: 0.5rem; }
   .sm\:text-left { text-align: left; }
 }
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/_app/immutable/assets/HeadTags.ab8afc07.css
@@ -4068,7 +4066,7 @@ rgb(31 41 55 / var(--tw-bg-opacity)); }
   .desktop-grid.svelte-r3efyy { display: grid; grid-template: "skill skill"=
  min-content "education experience" / 30% auto; gap: 0px; }
 }
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://voconsteroid.com/voconsteroidLogoNT384.png
@@ -4218,7 +4216,7 @@ AABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABG
 EQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAA
 YBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYFEURf8P1Rxy/6Nu9+AAAAAASUVORK5CYII=
 
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/boxing-glove.svg
@@ -4240,7 +4238,7 @@ Content-Location: https://cv.bnei.dev/boxing-glove.svg
 333c0 .92-1.221 1.208-2.326 1.208h-5C15.57 34 15 33.712 15 32.792v-3.333c0-=
 .921.57-1.459 1.674-1.459h5z"/>
 </svg>
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/reading.svg
@@ -4257,7 +4255,7 @@ Content-Location: https://cv.bnei.dev/reading.svg
 3-3-3z"/>
     </g>
 </svg>
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://cv.bnei.dev/strategy.png
@@ -4624,7 +4622,7 @@ FqIAAADQQhQAAABaiAIAAEALUQAAAGghCgAAAC1EAQAAoIUoAAAAtBAFAACAFqIAAADQQhQAAABa
 KJL0R+sQAABguFxVVdYZAADAkLEFAABAC1EAAABoIQoAAAAt9F9LL9PzoI2q/QAAAABJRU5ErkJg
 gg==
 
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://cv.bnei.dev/harmony.png
@@ -5417,4 +5415,4 @@ owdgNNkCABdQC1QaPRAhhBAJsQHoDzQbPRAjyQoANAHnksT1oIUQIonsB84jySd/kADgK+uAmqN/
 CyGE6JxqgWpgvdEDMQPZAmjLAVwCTAIGArmANIwXQghragV2AquBmag5X0l99O9Y/weMQl/eslRo
 8gAAAABJRU5ErkJggg==
 
-------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG------
+------MultipartBoundary--vahm7VUyC3CsP7rXbYjtcxYX0MuNht1iVdScfwk1Nq------
