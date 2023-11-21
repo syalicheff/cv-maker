@@ -1,5 +1,12 @@
 
 
+# [0.9.0](https://github.com/MohammadBnei/cv-maker/compare/0.8.2...0.9.0) (2023-11-14)
+
+
+### Features
+
+* **skills:** added an all section to search through all the skills ([1a3aa7d](https://github.com/MohammadBnei/cv-maker/commit/1a3aa7d1206b9d97ff3e16a7d83d08ebd8bb7a93))
+
 ## [0.8.2](https://github.com/MohammadBnei/cv-maker/compare/0.8.1...0.8.2) (2023-11-13)
 
 

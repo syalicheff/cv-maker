@@ -1,16 +1,16 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://cv.bnei.dev/en?snapshot
 Subject: Mohammad-Amine BANAEI - Resume
-Date: Mon, 13 Nov 2023 15:01:14 +0000
+Date: Tue, 14 Nov 2023 14:13:55 +0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----"
+	boundary="----MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----"
 
 
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
 Content-Type: text/html
-Content-ID: <frame-245BC5F6FE134C9B9DB3814EB55CB07F@mhtml.blink>
+Content-ID: <frame-963999CC854A8561A3ED484C71ED9920@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/en?snapshot
 
@@ -20,30 +20,30 @@ ttp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
 		<link rel=3D"icon" href=3D"https://cv.bnei.dev/favicon.ico">
 		<meta name=3D"viewport" content=3D"width=3Ddevice-width">
 	=09
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/0.73ebf9e4.css"=
+		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/0.2429151a.css"=
  rel=3D"stylesheet">
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/HeadTags.40ce05=
-76.css" rel=3D"stylesheet">
+		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/HeadTags.ab8afc=
+07.css" rel=3D"stylesheet">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/start.61c320b4.js">
+entry/start.1f394286.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
 chunks/scheduler.bff07679.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/singletons.b5c851c0.js">
+chunks/singletons.2fd6d4bf.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/app.21e86123.js">
+entry/app.00b4a226.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/index.b63196fe.js">
+chunks/index.07efb5e0.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/0.c5f5e352.js">
+nodes/0.d7fd71c9.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/index.095194f5.js">
+chunks/index.23b89773.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/stores.7172ee7d.js">
+chunks/stores.429ad5cf.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/3.72fb6cf4.js">
+nodes/3.86854794.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/HeadTags.6fbf1c82.js"><title>Mohammad-Amine BANAEI - Resume</title><=
+chunks/HeadTags.2c77ebb1.js"><title>Mohammad-Amine BANAEI - Resume</title><=
 meta http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge,chrome=3D1"><meta =
 name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><meta=
  name=3D"robots" content=3D"index,follow"><meta name=3D"googlebot" content=
@@ -69,7 +69,7 @@ arding my experiences, skills, training and contact details. Feel free to c=
 ontact me for any offers or for more information."><!-- HTML_TAG_START --><=
 !-- HTML_TAG_END --><!-- HTML_TAG_START --><!-- HTML_TAG_END -->
 	<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"http://=
-127.0.0.1:4173/_app/immutable/nodes/1.7b0c37e9.js"></head>
+127.0.0.1:4173/_app/immutable/nodes/1.d83ca7c1.js"></head>
 	<body data-sveltekit-preload-data=3D"hover">
 		<div style=3D"display: contents"><div class=3D"min-h-screen dark:bg-base-=
 300"> <div class=3D"py-0 dark:bg-base-100 py-6 rounded-sm navbar"><div clas=
@@ -142,46 +142,48 @@ ound" stroke-width=3D"32" d=3D"M384 224v184a40 40 0 0 1-40 40H104a40 40 0 0=
 div class=3D"text-center sm:text-left desktop-grid w-screen place-items-cen=
 ter gap-2 svelte-r3efyy"><div class=3D"my-4 flex justify-center self-start =
 w-full" style=3D"grid-area: skill;"><div class=3D"stats shadow h-fit hidden=
- sm:inline-grid"><div class=3D"stat w-44 "><div class=3D"stat-title capital=
-ize text-center h-fit">devops</div> <button aria-label=3D"filter by skill k=
-ubernetes" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs f=
-ont-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-=
-[1.03] transition  svelte-116z7kx">KUBERNETES</span></button><button aria-l=
-abel=3D"filter by skill docker" class=3D"mb-1"><span class=3D"inline-flex i=
-tems-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ri=
-ng-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER</span></butt=
-on> </div><div class=3D"stat w-44 "><div class=3D"stat-title capitalize tex=
-t-center h-fit">backend</div> <button aria-label=3D"filter by skill golang"=
- class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold r=
-ounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tr=
-ansition  svelte-116z7kx">GOLANG</span></button><button aria-label=3D"filte=
-r by skill nodejs" class=3D"mb-1"><span class=3D"inline-flex items-center t=
-ext-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hov=
-er:scale-[1.03] transition  svelte-116z7kx">NODEJS</span></button> </div><d=
-iv class=3D"stat w-44 "><div class=3D"stat-title capitalize text-center h-f=
-it">frontend</div> <button aria-label=3D"filter by skill reactjs" class=3D"=
-mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md =
-frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition =
- svelte-116z7kx">REACTJS</span></button><button aria-label=3D"filter by ski=
-ll sveltekit" class=3D"mb-1"><span class=3D"inline-flex items-center text-x=
-s font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:s=
-cale-[1.03] transition  svelte-116z7kx">SVELTEKIT</span></button> </div><di=
-v class=3D"stat w-44 "><div class=3D"stat-title capitalize text-center h-fi=
-t">system</div> <button aria-label=3D"filter by skill gcp" class=3D"mb-1"><=
-span class=3D"inline-flex items-center text-xs font-bold rounded-md system =
-default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1=
-16z7kx">GCP</span></button><button aria-label=3D"filter by skill linux" cla=
-ss=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold round=
-ed-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transit=
-ion  svelte-116z7kx">LINUX</span></button> </div><div class=3D"stat w-44 ">=
-<div class=3D"stat-title capitalize text-center h-fit">data</div> <button a=
-ria-label=3D"filter by skill sql" class=3D"mb-1"><span class=3D"inline-flex=
- items-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ri=
-ng-inset hover:scale-[1.03] transition  svelte-116z7kx">SQL</span></button>=
-<button aria-label=3D"filter by skill mongodb" class=3D"mb-1"><span class=
-=3D"inline-flex items-center text-xs font-bold rounded-md data default px-2=
- py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MONG=
-ODB</span></button> </div></div> <div class=3D"sm:hidden"><div class=3D"sta=
+ sm:inline-grid"><div class=3D"stat w-44"><div class=3D"stat-title capitali=
+ze text-center h-fit">devops</div> <button aria-label=3D"filter by skill ku=
+bernetes" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs fo=
+nt-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[=
+1.03] transition  svelte-116z7kx">KUBERNETES</span></button><button aria-la=
+bel=3D"filter by skill docker" class=3D"mb-1"><span class=3D"inline-flex it=
+ems-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 rin=
+g-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER</span></butto=
+n></div><div class=3D"stat w-44"><div class=3D"stat-title capitalize text-c=
+enter h-fit">backend</div> <button aria-label=3D"filter by skill golang" cl=
+ass=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold roun=
+ded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] trans=
+ition  svelte-116z7kx">GOLANG</span></button><button aria-label=3D"filter b=
+y skill nodejs" class=3D"mb-1"><span class=3D"inline-flex items-center text=
+-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:=
+scale-[1.03] transition  svelte-116z7kx">NODEJS</span></button></div><div c=
+lass=3D"stat w-44"><div class=3D"stat-title capitalize text-center h-fit">f=
+rontend</div> <button aria-label=3D"filter by skill reactjs" class=3D"mb-1"=
+><span class=3D"inline-flex items-center text-xs font-bold rounded-md front=
+end default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svel=
+te-116z7kx">REACTJS</span></button><button aria-label=3D"filter by skill sv=
+eltekit" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs fon=
+t-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-=
+[1.03] transition  svelte-116z7kx">SVELTEKIT</span></button></div><div clas=
+s=3D"stat w-44"><div class=3D"stat-title capitalize text-center h-fit">syst=
+em</div> <button aria-label=3D"filter by skill gcp" class=3D"mb-1"><span cl=
+ass=3D"inline-flex items-center text-xs font-bold rounded-md system default=
+ px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx"=
+>GCP</span></button><button aria-label=3D"filter by skill linux" class=3D"m=
+b-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md s=
+ystem default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sv=
+elte-116z7kx">LINUX</span></button></div><div class=3D"stat w-44"><div clas=
+s=3D"stat-title capitalize text-center h-fit">data</div> <button aria-label=
+=3D"filter by skill sql" class=3D"mb-1"><span class=3D"inline-flex items-ce=
+nter text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset =
+hover:scale-[1.03] transition  svelte-116z7kx">SQL</span></button><button a=
+ria-label=3D"filter by skill mongodb" class=3D"mb-1"><span class=3D"inline-=
+flex items-center text-xs font-bold rounded-md data default px-2 py-1 ring-=
+1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MONGODB</span><=
+/button></div> <div class=3D"stat w-44"><div class=3D"stat-title capitalize=
+ text-center h-fit">All</div> <button class=3D"btn" data-svelte-h=3D"svelte=
+-1fzijdc">+</button></div></div> <div class=3D"sm:hidden"><div class=3D"sta=
 ts shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"stat-title capi=
 talize text-center">backend</div> <button aria-label=3D"filter by skill gol=
 ang" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bo=
@@ -197,40 +199,245 @@ tend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
 lte-116z7kx">REACTJS</span></button><button aria-label=3D"filter by skill s=
 veltekit" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs fo=
 nt-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale=
--[1.03] transition  svelte-116z7kx">SVELTEKIT</span></button></div> </div><=
-div class=3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D=
-"stat-title capitalize text-center">devops</div> <button aria-label=3D"filt=
-er by skill kubernetes" class=3D"mb-1"><span class=3D"inline-flex items-cen=
-ter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset=
- hover:scale-[1.03] transition  svelte-116z7kx">KUBERNETES</span></button><=
-button aria-label=3D"filter by skill docker" class=3D"mb-1"><span class=3D"=
-inline-flex items-center text-xs font-bold rounded-md devops default px-2 p=
-y-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER=
-</span></button></div><div class=3D"stat w-44"><div class=3D"stat-title cap=
-italize text-center">system</div> <button aria-label=3D"filter by skill gcp=
-" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold =
-rounded-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tr=
-ansition  svelte-116z7kx">GCP</span></button><button aria-label=3D"filter b=
-y skill linux" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
-xs font-bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:sc=
-ale-[1.03] transition  svelte-116z7kx">LINUX</span></button></div> </div><d=
+-[1.03] transition  svelte-116z7kx">SVELTEKIT</span></button></div></div><d=
 iv class=3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"=
-stat-title capitalize text-center">data</div> <button aria-label=3D"filter =
-by skill sql" class=3D"mb-1"><span class=3D"inline-flex items-center text-x=
-s font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale=
--[1.03] transition  svelte-116z7kx">SQL</span></button><button aria-label=
-=3D"filter by skill mongodb" class=3D"mb-1"><span class=3D"inline-flex item=
-s-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-in=
-set hover:scale-[1.03] transition  svelte-116z7kx">MONGODB</span></button><=
-/div> </div></div></div> <div class=3D"px-2 self-start w-full" style=3D"gri=
-d-area: experience;"><div class=3D""><ol class=3D"relative border-l-2 borde=
-r-lime-200 dark:border-green-700 flex flex-col flex-shrink"><li class=3D"ml=
--4  break-inside-avoid"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-=
-full mt-5 -left-[6.5px] border border-white dark:border-gray-900 dark:bg-gr=
-ay-700"></div> <div class=3D"card dark:bg-neutral-800  rounded-sm hover:sca=
-le-[1.025] transition hover:cursor-pointer" aria-label=3D"open details" rol=
-e=3D"button" tabindex=3D"0"><div class=3D"card-body py-4"><time class=3D"te=
-xt-sm font-normal text-accent self-start -mb-2">Sep 2020 -
+stat-title capitalize text-center">devops</div> <button aria-label=3D"filte=
+r by skill kubernetes" class=3D"mb-1"><span class=3D"inline-flex items-cent=
+er text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset =
+hover:scale-[1.03] transition  svelte-116z7kx">KUBERNETES</span></button><b=
+utton aria-label=3D"filter by skill docker" class=3D"mb-1"><span class=3D"i=
+nline-flex items-center text-xs font-bold rounded-md devops default px-2 py=
+-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER<=
+/span></button></div><div class=3D"stat w-44"><div class=3D"stat-title capi=
+talize text-center">system</div> <button aria-label=3D"filter by skill gcp"=
+ class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold r=
+ounded-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tra=
+nsition  svelte-116z7kx">GCP</span></button><button aria-label=3D"filter by=
+ skill linux" class=3D"mb-1"><span class=3D"inline-flex items-center text-x=
+s font-bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:sca=
+le-[1.03] transition  svelte-116z7kx">LINUX</span></button></div></div><div=
+ class=3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"st=
+at-title capitalize text-center">data</div> <button aria-label=3D"filter by=
+ skill sql" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs =
+font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale-[=
+1.03] transition  svelte-116z7kx">SQL</span></button><button aria-label=3D"=
+filter by skill mongodb" class=3D"mb-1"><span class=3D"inline-flex items-ce=
+nter text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset =
+hover:scale-[1.03] transition  svelte-116z7kx">MONGODB</span></button></div=
+></div> <div class=3D"stat w-44"><div class=3D"stat-title capitalize text-c=
+enter">All</div> <button class=3D"btn" data-svelte-h=3D"svelte-1fzijdc">+</=
+button></div></div> <dialog id=3D"allSkillModal" class=3D"modal"><div class=
+=3D"modal-box"><div class=3D"flex gap-2 my-3"><input type=3D"text" class=3D=
+"input input-bordered w-full" placeholder=3D"Filter"> </div> <div class=3D"=
+flex flex-wrap justify-center"><div class=3D"flex flex-col"><h5 class=3D"st=
+at-title capitalize text-center my-3">backend</h5> <button aria-label=3D"fi=
+lter by skill c# .net" class=3D"mb-1"><span class=3D"inline-flex items-cent=
+er text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset=
+ hover:scale-[1.03] transition  svelte-116z7kx">C# .NET</span></button><but=
+ton aria-label=3D"filter by skill c++" class=3D"mb-1"><span class=3D"inline=
+-flex items-center text-xs font-bold rounded-md backend default px-2 py-1 r=
+ing-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">C++</span><=
+/button><button aria-label=3D"filter by skill express" class=3D"mb-1"><span=
+ class=3D"inline-flex items-center text-xs font-bold rounded-md backend def=
+ault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z=
+7kx">EXPRESS</span></button><button aria-label=3D"filter by skill flask" cl=
+ass=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold roun=
+ded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] trans=
+ition  svelte-116z7kx">FLASK</span></button><button aria-label=3D"filter by=
+ skill golang" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
+xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:s=
+cale-[1.03] transition  svelte-116z7kx">GOLANG</span></button><button aria-=
+label=3D"filter by skill hapi" class=3D"mb-1"><span class=3D"inline-flex it=
+ems-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ri=
+ng-inset hover:scale-[1.03] transition  svelte-116z7kx">HAPI</span></button=
+><button aria-label=3D"filter by skill hibernate" class=3D"mb-1"><span clas=
+s=3D"inline-flex items-center text-xs font-bold rounded-md backend default =
+px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">=
+HIBERNATE</span></button><button aria-label=3D"filter by skill java j2e" cl=
+ass=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold roun=
+ded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] trans=
+ition  svelte-116z7kx">JAVA J2E</span></button><button aria-label=3D"filter=
+ by skill JUnits" class=3D"mb-1"><span class=3D"inline-flex items-center te=
+xt-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hove=
+r:scale-[1.03] transition  svelte-116z7kx">JUNITS</span></button><button ar=
+ia-label=3D"filter by skill kotlin" class=3D"mb-1"><span class=3D"inline-fl=
+ex items-center text-xs font-bold rounded-md backend default px-2 py-1 ring=
+-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">KOTLIN</span><=
+/button><button aria-label=3D"filter by skill log4j" class=3D"mb-1"><span c=
+lass=3D"inline-flex items-center text-xs font-bold rounded-md backend defau=
+lt px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7k=
+x">LOG4J</span></button><button aria-label=3D"filter by skill nestjs" class=
+=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
+-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transiti=
+on  svelte-116z7kx">NESTJS</span></button><button aria-label=3D"filter by s=
+kill python" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs=
+ font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:sca=
+le-[1.03] transition  svelte-116z7kx">PYTHON</span></button><button aria-la=
+bel=3D"filter by skill socket.io" class=3D"mb-1"><span class=3D"inline-flex=
+ items-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1=
+ ring-inset hover:scale-[1.03] transition  svelte-116z7kx">SOCKET.IO</span>=
+</button><button aria-label=3D"filter by skill websocket" class=3D"mb-1"><s=
+pan class=3D"inline-flex items-center text-xs font-bold rounded-md backend =
+default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1=
+16z7kx">WEBSOCKET</span></button> </div><div class=3D"flex flex-col"><h5 cl=
+ass=3D"stat-title capitalize text-center my-3">frontend</h5> <button aria-l=
+abel=3D"filter by skill angularjs" class=3D"mb-1"><span class=3D"inline-fle=
+x items-center text-xs font-bold rounded-md frontend default px-2 py-1 ring=
+-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">ANGULARJS</spa=
+n></button><button aria-label=3D"filter by skill flutter" class=3D"mb-1"><s=
+pan class=3D"inline-flex items-center text-xs font-bold rounded-md frontend=
+ default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-=
+116z7kx">FLUTTER</span></button><button aria-label=3D"filter by skill nodej=
+s" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold=
+ rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03]=
+ transition  svelte-116z7kx">NODEJS</span></button><button aria-label=3D"fi=
+lter by skill Primefaces" class=3D"mb-1"><span class=3D"inline-flex items-c=
+enter text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-i=
+nset hover:scale-[1.03] transition  svelte-116z7kx">PRIMEFACES</span></butt=
+on><button aria-label=3D"filter by skill razorhtml" class=3D"mb-1"><span cl=
+ass=3D"inline-flex items-center text-xs font-bold rounded-md frontend defau=
+lt px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7k=
+x">RAZORHTML</span></button><button aria-label=3D"filter by skill reactjs" =
+class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold ro=
+unded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tr=
+ansition  svelte-116z7kx">REACTJS</span></button><button aria-label=3D"filt=
+er by skill sveltekit" class=3D"mb-1"><span class=3D"inline-flex items-cent=
+er text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inse=
+t hover:scale-[1.03] transition  svelte-116z7kx">SVELTEKIT</span></button><=
+button aria-label=3D"filter by skill vuejs" class=3D"mb-1"><span class=3D"i=
+nline-flex items-center text-xs font-bold rounded-md frontend default px-2 =
+py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">VUEJS=
+</span></button><button aria-label=3D"filter by skill webRTC" class=3D"mb-1=
+"><span class=3D"inline-flex items-center text-xs font-bold rounded-md fron=
+tend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
+lte-116z7kx">WEBRTC</span></button> </div><div class=3D"flex flex-col"><h5 =
+class=3D"stat-title capitalize text-center my-3">data</h5> <button aria-lab=
+el=3D"filter by skill elk" class=3D"mb-1"><span class=3D"inline-flex items-=
+center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inse=
+t hover:scale-[1.03] transition  svelte-116z7kx">ELK</span></button><button=
+ aria-label=3D"filter by skill mongodb" class=3D"mb-1"><span class=3D"inlin=
+e-flex items-center text-xs font-bold rounded-md data default px-2 py-1 rin=
+g-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MONGODB</span=
+></button><button aria-label=3D"filter by skill mssql " class=3D"mb-1"><spa=
+n class=3D"inline-flex items-center text-xs font-bold rounded-md data defau=
+lt px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7k=
+x">MSSQL </span></button><button aria-label=3D"filter by skill mysql" class=
+=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
+-md data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition =
+ svelte-116z7kx">MYSQL</span></button><button aria-label=3D"filter by skill=
+ nosql" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font=
+-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03=
+] transition  svelte-116z7kx">NOSQL</span></button><button aria-label=3D"fi=
+lter by skill redis" class=3D"mb-1"><span class=3D"inline-flex items-center=
+ text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hove=
+r:scale-[1.03] transition  svelte-116z7kx">REDIS</span></button><button ari=
+a-label=3D"filter by skill sql" class=3D"mb-1"><span class=3D"inline-flex i=
+tems-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring=
+-inset hover:scale-[1.03] transition  svelte-116z7kx">SQL</span></button> <=
+/div><div class=3D"flex flex-col"><h5 class=3D"stat-title capitalize text-c=
+enter my-3">devops</h5> <button aria-label=3D"filter by skill ansible" clas=
+s=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounde=
+d-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transiti=
+on  svelte-116z7kx">ANSIBLE</span></button><button aria-label=3D"filter by =
+skill architecture" class=3D"mb-1"><span class=3D"inline-flex items-center =
+text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hov=
+er:scale-[1.03] transition  svelte-116z7kx">ARCHITECTURE</span></button><bu=
+tton aria-label=3D"filter by skill aws" class=3D"mb-1"><span class=3D"inlin=
+e-flex items-center text-xs font-bold rounded-md devops default px-2 py-1 r=
+ing-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">AWS</span><=
+/button><button aria-label=3D"filter by skill azure" class=3D"mb-1"><span c=
+lass=3D"inline-flex items-center text-xs font-bold rounded-md devops defaul=
+t px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx=
+">AZURE</span></button><button aria-label=3D"filter by skill circleci" clas=
+s=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounde=
+d-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transiti=
+on  svelte-116z7kx">CIRCLECI</span></button><button aria-label=3D"filter by=
+ skill docker" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
+xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:sc=
+ale-[1.03] transition  svelte-116z7kx">DOCKER</span></button><button aria-l=
+abel=3D"filter by skill github action" class=3D"mb-1"><span class=3D"inline=
+-flex items-center text-xs font-bold rounded-md devops default px-2 py-1 ri=
+ng-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">GITHUB ACTIO=
+N</span></button><button aria-label=3D"filter by skill google cloud" class=
+=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
+-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transitio=
+n  svelte-116z7kx">GOOGLE CLOUD</span></button><button aria-label=3D"filter=
+ by skill grpc" class=3D"mb-1"><span class=3D"inline-flex items-center text=
+-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:s=
+cale-[1.03] transition  svelte-116z7kx">GRPC</span></button><button aria-la=
+bel=3D"filter by skill jenkins" class=3D"mb-1"><span class=3D"inline-flex i=
+tems-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ri=
+ng-inset hover:scale-[1.03] transition  svelte-116z7kx">JENKINS</span></but=
+ton><button aria-label=3D"filter by skill kong" class=3D"mb-1"><span class=
+=3D"inline-flex items-center text-xs font-bold rounded-md devops default px=
+-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">KO=
+NG</span></button><button aria-label=3D"filter by skill kubernetes" class=
+=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
+-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transitio=
+n  svelte-116z7kx">KUBERNETES</span></button><button aria-label=3D"filter b=
+y skill linux" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
+xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:sc=
+ale-[1.03] transition  svelte-116z7kx">LINUX</span></button><button aria-la=
+bel=3D"filter by skill microservices" class=3D"mb-1"><span class=3D"inline-=
+flex items-center text-xs font-bold rounded-md devops default px-2 py-1 rin=
+g-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MICROSERVICES=
+</span></button><button aria-label=3D"filter by skill rest" class=3D"mb-1">=
+<span class=3D"inline-flex items-center text-xs font-bold rounded-md devops=
+ default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-=
+116z7kx">REST</span></button><button aria-label=3D"filter by skill terrafor=
+m" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold=
+ rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] t=
+ransition  svelte-116z7kx">TERRAFORM</span></button><button aria-label=3D"f=
+ilter by skill tls" class=3D"mb-1"><span class=3D"inline-flex items-center =
+text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hov=
+er:scale-[1.03] transition  svelte-116z7kx">TLS</span></button><button aria=
+-label=3D"filter by skill traefik" class=3D"mb-1"><span class=3D"inline-fle=
+x items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1=
+ ring-inset hover:scale-[1.03] transition  svelte-116z7kx">TRAEFIK</span></=
+button> </div><div class=3D"flex flex-col"><h5 class=3D"stat-title capitali=
+ze text-center my-3">system</h5> <button aria-label=3D"filter by skill bare=
+ metal" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font=
+-bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.=
+03] transition  svelte-116z7kx">BARE METAL</span></button><button aria-labe=
+l=3D"filter by skill gcp" class=3D"mb-1"><span class=3D"inline-flex items-c=
+enter text-xs font-bold rounded-md system default px-2 py-1 ring-1 ring-ins=
+et hover:scale-[1.03] transition  svelte-116z7kx">GCP</span></button> </div=
+><div class=3D"flex flex-col"><h5 class=3D"stat-title capitalize text-cente=
+r my-3">other</h5> <button aria-label=3D"filter by skill agile" class=3D"mb=
+-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md ot=
+her default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svel=
+te-116z7kx">AGILE</span></button><button aria-label=3D"filter by skill git"=
+ class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold r=
+ounded-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tran=
+sition  svelte-116z7kx">GIT</span></button><button aria-label=3D"filter by =
+skill kanban" class=3D"mb-1"><span class=3D"inline-flex items-center text-x=
+s font-bold rounded-md other default px-2 py-1 ring-1 ring-inset hover:scal=
+e-[1.03] transition  svelte-116z7kx">KANBAN</span></button><button aria-lab=
+el=3D"filter by skill leaflet" class=3D"mb-1"><span class=3D"inline-flex it=
+ems-center text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring=
+-inset hover:scale-[1.03] transition  svelte-116z7kx">LEAFLET</span></butto=
+n><button aria-label=3D"filter by skill maven" class=3D"mb-1"><span class=
+=3D"inline-flex items-center text-xs font-bold rounded-md other default px-=
+2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MAV=
+EN</span></button><button aria-label=3D"filter by skill qt" class=3D"mb-1">=
+<span class=3D"inline-flex items-center text-xs font-bold rounded-md other =
+default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1=
+16z7kx">QT</span></button><button aria-label=3D"filter by skill redux" clas=
+s=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounde=
+d-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transitio=
+n  svelte-116z7kx">REDUX</span></button> </div></div> <div class=3D"modal-a=
+ction"><form method=3D"dialog"><button class=3D"btn">Close</button></form><=
+/div></div> <form method=3D"dialog" class=3D"modal-backdrop" data-svelte-h=
+=3D"svelte-k3gtt0"> <button>Close</button></form></dialog></div> <div class=
+=3D"px-2 self-start w-full" style=3D"grid-area: experience;"><div class=3D"=
+"><ol class=3D"relative border-l-2 border-lime-200 dark:border-green-700 fl=
+ex flex-col flex-shrink"><li class=3D"ml-4  break-inside-avoid"><div class=
+=3D"absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -left-[6.5px] border bor=
+der-white dark:border-gray-900 dark:bg-gray-700"></div> <div class=3D"card =
+dark:bg-neutral-800  rounded-sm hover:scale-[1.025] transition hover:cursor=
+-pointer" aria-label=3D"open details" role=3D"button" tabindex=3D"0"><div c=
+lass=3D"card-body py-4"><time class=3D"text-sm font-normal text-accent self=
+-start -mb-2">Sep 2020 -
 							Jul 2030</time> <h3 class=3D"font-bold text-xl capitalize card-title=
  text-left">Voc On Steroid - Entrepreneur</h3> <div class=3D"flex gap-2 ite=
 ms-center"><p class=3D"text-sm font-normal">Creation of an application to e=
@@ -469,19 +676,39 @@ on to React programming language.</p> <div class=3D"flex flex-wrap gap-2"><=
 span class=3D"inline-flex items-center text-xs font-bold rounded-md fronten=
 d default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116=
 z7kx">REACTJS</span></div> </li><div class=3D"divider"></div> <li class=3D"=
-mb-2"><h4 class=3D"font-semibold mr-2">Other</h4> <p class=3D"mb-2 text-sm =
-font-normal">Participation in the organization of joint exams between the s=
-ubjects, accompanying students in the design and realization of a Udemy typ=
-e course, course on performance testing, integration of AI to the web via A=
-PI.</p> <div class=3D"flex flex-wrap gap-2"></div> </li></ul></form> <form =
-method=3D"dialog" class=3D"modal-backdrop" data-svelte-h=3D"svelte-1d3wagh"=
-><button aria-label=3D"close modal">close</button></form> </dialog><li clas=
-s=3D"ml-4 mt-2 break-inside-avoid"><div class=3D"absolute w-3 h-3 bg-gray-2=
-00 rounded-full mt-5 -left-[6.5px] border border-white dark:border-gray-900=
- dark:bg-gray-700"></div> <div class=3D"card dark:bg-neutral-800  rounded-s=
-m hover:scale-[1.025] transition hover:cursor-pointer" aria-label=3D"open d=
-etails" role=3D"button" tabindex=3D"0"><div class=3D"card-body py-4"><time =
-class=3D"text-sm font-normal text-accent self-start -mb-2">Jan 2021 -
+mb-2"><h4 class=3D"font-semibold mr-2">AI Integration</h4> <p class=3D"mb-2=
+ text-sm font-normal">Integration of artificial intelligence model via API.=
+ Construction of vector space, connection to search engines to create speci=
+fic AI.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex =
+items-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 =
+ring-inset hover:skew-y-2 transition  svelte-116z7kx">PYTHON</span></div> <=
+/li><div class=3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"font-semi=
+bold mr-2">Web realtime</h4> <p class=3D"mb-2 text-sm font-normal">Presenta=
+tion of different technologies enabling real-time for the web. Implementati=
+on of real-time projects.</p> <div class=3D"flex flex-wrap gap-2"><span cla=
+ss=3D"inline-flex items-center text-xs font-bold rounded-md data default px=
+-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">REDIS<=
+/span><span class=3D"inline-flex items-center text-xs font-bold rounded-md =
+backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svel=
+te-116z7kx">WEBSOCKET</span><span class=3D"inline-flex items-center text-xs=
+ font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:ske=
+w-y-2 transition  svelte-116z7kx">SOCKET.IO</span><span class=3D"inline-fle=
+x items-center text-xs font-bold rounded-md frontend default px-2 py-1 ring=
+-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">WEBRTC</span></div=
+> </li><div class=3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"font-s=
+emibold mr-2">Other</h4> <p class=3D"mb-2 text-sm font-normal">Participatio=
+n in the organization of joint exams between the subjects, accompanying stu=
+dents in the design and realization of a Udemy type course, course on perfo=
+rmance testing, integration of AI to the web via API.</p> <div class=3D"fle=
+x flex-wrap gap-2"></div> </li></ul></form> <form method=3D"dialog" class=
+=3D"modal-backdrop" data-svelte-h=3D"svelte-1d3wagh"><button aria-label=3D"=
+close modal">close</button></form> </dialog><li class=3D"ml-4 mt-2 break-in=
+side-avoid"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -l=
+eft-[6.5px] border border-white dark:border-gray-900 dark:bg-gray-700"></di=
+v> <div class=3D"card dark:bg-neutral-800  rounded-sm hover:scale-[1.025] t=
+ransition hover:cursor-pointer" aria-label=3D"open details" role=3D"button"=
+ tabindex=3D"0"><div class=3D"card-body py-4"><time class=3D"text-sm font-n=
+ormal text-accent self-start -mb-2">Jan 2021 -
 							Jul 2021</time> <h3 class=3D"font-bold text-xl capitalize card-title=
  text-left">Fastory - Web developer</h3> <div class=3D"flex gap-2 items-cen=
 ter"><p class=3D"text-sm font-normal">Enterprise of creation of micro-sites=
@@ -724,37 +951,37 @@ v></div> <div class=3D"collapse-content"><p class=3D"mb-4 text-sm font-norm=
 al">Advanced training in GoLang, Python, NodeJS, React, Docker, Linux, Terr=
 aform, and Kubernetes. Explored cloud technologies and Agile methodology.</=
 p> <div><span class=3D"inline-flex items-center rounded-md none px-2 py-1 t=
-ext-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">GOLANG</=
+ext-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1cx5vnw">GOLANG</=
 span><span class=3D"inline-flex items-center rounded-md none px-2 py-1 text=
--xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">PYTHON</spa=
+-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1cx5vnw">PYTHON</spa=
 n><span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs=
- ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">NODEJS</span><=
+ ring-1 ring-inset hover:skew-y-2 transition svelte-1cx5vnw">NODEJS</span><=
 span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ri=
-ng-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">REACTJS</span><sp=
+ng-1 ring-inset hover:skew-y-2 transition svelte-1cx5vnw">REACTJS</span><sp=
 an class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring=
--1 ring-inset hover:skew-y-2 transition svelte-1e50scj">VUEJS</span><span c=
+-1 ring-inset hover:skew-y-2 transition svelte-1cx5vnw">VUEJS</span><span c=
 lass=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 r=
-ing-inset hover:skew-y-2 transition svelte-1e50scj">DOCKER</span><span clas=
+ing-inset hover:skew-y-2 transition svelte-1cx5vnw">DOCKER</span><span clas=
 s=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring=
--inset hover:skew-y-2 transition svelte-1e50scj">TERRAFORM</span><span clas=
+-inset hover:skew-y-2 transition svelte-1cx5vnw">TERRAFORM</span><span clas=
 s=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring=
--inset hover:skew-y-2 transition svelte-1e50scj">KUBERNETES</span><span cla=
+-inset hover:skew-y-2 transition svelte-1cx5vnw">KUBERNETES</span><span cla=
 ss=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 rin=
-g-inset hover:skew-y-2 transition svelte-1e50scj">GOOGLE CLOUD</span><span =
+g-inset hover:skew-y-2 transition svelte-1cx5vnw">GOOGLE CLOUD</span><span =
 class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 =
-ring-inset hover:skew-y-2 transition svelte-1e50scj">AWS</span><span class=
+ring-inset hover:skew-y-2 transition svelte-1cx5vnw">AWS</span><span class=
 =3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-=
-inset hover:skew-y-2 transition svelte-1e50scj">AZURE</span><span class=3D"=
+inset hover:skew-y-2 transition svelte-1cx5vnw">AZURE</span><span class=3D"=
 inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inse=
-t hover:skew-y-2 transition svelte-1e50scj">GIT</span><span class=3D"inline=
+t hover:skew-y-2 transition svelte-1cx5vnw">GIT</span><span class=3D"inline=
 -flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hove=
-r:skew-y-2 transition svelte-1e50scj">SQL</span><span class=3D"inline-flex =
+r:skew-y-2 transition svelte-1cx5vnw">SQL</span><span class=3D"inline-flex =
 items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew=
--y-2 transition svelte-1e50scj">MONGODB</span><span class=3D"inline-flex it=
+-y-2 transition svelte-1cx5vnw">MONGODB</span><span class=3D"inline-flex it=
 ems-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y=
--2 transition svelte-1e50scj">LINUX</span><span class=3D"inline-flex items-=
+-2 transition svelte-1cx5vnw">LINUX</span><span class=3D"inline-flex items-=
 center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 t=
-ransition svelte-1e50scj">AGILE</span></div></div></div></div></div> </li><=
+ransition svelte-1cx5vnw">AGILE</span></div></div></div></div></div> </li><=
 li class=3D"mb-5 ml-4"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-f=
 ull mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-=
 700"></div> <time class=3D"mb-1 text-sm font-normal leading-none text-accen=
@@ -768,23 +995,23 @@ s=3D"font-semibold card-title text-sm text-left">My Digital School - Paris<=
 ing in NodeJS, React, Python, Flutter, and Kotlin. Learned databases manage=
 ment SQL and NoSQL and Agile methodology.</p> <div><span class=3D"inline-fl=
 ex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:s=
-kew-y-2 transition svelte-1e50scj">NODEJS</span><span class=3D"inline-flex =
+kew-y-2 transition svelte-1cx5vnw">NODEJS</span><span class=3D"inline-flex =
 items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew=
--y-2 transition svelte-1e50scj">PYTHON</span><span class=3D"inline-flex ite=
+-y-2 transition svelte-1cx5vnw">PYTHON</span><span class=3D"inline-flex ite=
 ms-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-=
-2 transition svelte-1e50scj">KOTLIN</span><span class=3D"inline-flex items-=
+2 transition svelte-1cx5vnw">KOTLIN</span><span class=3D"inline-flex items-=
 center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 t=
-ransition svelte-1e50scj">REACTJS</span><span class=3D"inline-flex items-ce=
+ransition svelte-1cx5vnw">REACTJS</span><span class=3D"inline-flex items-ce=
 nter rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 tra=
-nsition svelte-1e50scj">FLUTTER</span><span class=3D"inline-flex items-cent=
+nsition svelte-1cx5vnw">FLUTTER</span><span class=3D"inline-flex items-cent=
 er rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 trans=
-ition svelte-1e50scj">SQL</span><span class=3D"inline-flex items-center rou=
+ition svelte-1cx5vnw">SQL</span><span class=3D"inline-flex items-center rou=
 nded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition =
-svelte-1e50scj">NOSQL</span><span class=3D"inline-flex items-center rounded=
+svelte-1cx5vnw">NOSQL</span><span class=3D"inline-flex items-center rounded=
 -md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svel=
-te-1e50scj">GIT</span><span class=3D"inline-flex items-center rounded-md no=
-ne px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e5=
-0scj">AGILE</span></div></div></div></div></div> </li></ol> <div class=3D"d=
+te-1cx5vnw">GIT</span><span class=3D"inline-flex items-center rounded-md no=
+ne px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1cx=
+5vnw">AGILE</span></div></div></div></div></div> </li></ol> <div class=3D"d=
 ivider my-14"></div> <div class=3D"stats  w-full"><div class=3D"stat p-0 ju=
 stify-between"><div class=3D"stat-figure text-primary w-72 hidden absolute =
 sm:grid hover:z-20 transform-gpu transition overflow-y-hidden"><svg version=
@@ -1999,10 +2226,10 @@ iv></div>
 =09
 
 </body></html>
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/0.73ebf9e4.css
+Content-Location: https://cv.bnei.dev/_app/immutable/assets/0.2429151a.css
 
 @charset "utf-8";
 
@@ -2094,66 +2321,94 @@ img, video { max-width: 100%; height: auto; }
 
 [hidden] { display: none; }
 
-:root, [data-theme] { background-color: hsl(var(--b1) / var(--tw-bg-opacity=
-, 1)); color: hsl(var(--bc) / var(--tw-text-opacity, 1)); }
+:root, [data-theme] { background-color: var(--fallback-b1,oklch(var(--b1)/1=
+)); color: var(--fallback-bc,oklch(var(--bc)/1)); }
+
+@supports not (color: oklch(0 0 0)) {
+  :root { color-scheme: light; --fallback-p: #491eff; --fallback-pc: #d4dbf=
+f; --fallback-s: #ff41c7; --fallback-sc: #fff9fc; --fallback-a: #00cfbd; --=
+fallback-ac: #00100d; --fallback-n: #2b3440; --fallback-nc: #d7dde4; --fall=
+back-b1: #ffffff; --fallback-b2: #e5e6e6; --fallback-b3: #e5e6e6; --fallbac=
+k-bc: #1f2937; --fallback-in: #00b3f0; --fallback-inc: #000000; --fallback-=
+su: #00ca92; --fallback-suc: #000000; --fallback-wa: #ffc22d; --fallback-wa=
+c: #000000; --fallback-er: #ff6f70; --fallback-erc: #000000; }
+  @media (prefers-color-scheme: dark) {
+  :root { color-scheme: dark; --fallback-p: #7582ff; --fallback-pc: #050617=
+; --fallback-s: #ff71cf; --fallback-sc: #190211; --fallback-a: #00c7b5; --f=
+allback-ac: #000e0c; --fallback-n: #2a323c; --fallback-nc: #a6adbb; --fallb=
+ack-b1: #1d232a; --fallback-b2: #191e24; --fallback-b3: #15191e; --fallback=
+-bc: #a6adbb; --fallback-in: #00b3f0; --fallback-inc: #000000; --fallback-s=
+u: #00ca92; --fallback-suc: #000000; --fallback-wa: #ffc22d; --fallback-wac=
+: #000000; --fallback-er: #ff6f70; --fallback-erc: #000000; }
+}
+}
 
 html { -webkit-tap-highlight-color: transparent; }
 
-:root { --p: 22 42% 57%; --pf: 22 42% 50%; --sf: 22 76% 41%; --af: 16 49% 3=
-0%; --nf: 219 14% 21%; --b2: 0 0% 93%; --b3: 0 0% 86%; --bc: 146 0% 19%; --=
-pc: 22 23% 12%; --sc: 20 95% 91%; --ac: 16 37% 87%; --nc: 221 6% 84%; --inc=
-: 202 34% 14%; --suc: 152 31% 13%; --wac: 39 47% 13%; --erc: 3 29% 15%; --r=
-ounded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animatio=
-n-btn: .25s; --animation-input: .2s; --btn-text-case: uppercase; --btn-focu=
-s-scale: .95; --border-btn: 1px; --tab-border: 1px; --tab-radius: .5rem; --=
-s: 22 76% 48%; --a: 16 49% 37%; --n: 219 14% 28%; --b1: 0 0% 100%; --in: 19=
-8 93% 60%; --su: 158 64% 52%; --wa: 43 96% 56%; --er: 0 91% 71%; }
+:root { --p: .666867 .085981 51.13212; --b2: .93 0 0; --b3: .86 0 0; --bc: =
+.2 0 0; --pc: .133373 .017196 51.13212; --sc: .127101 .033247 45.819942; --=
+ac: .896131 .019868 39.886199; --nc: .877082 .004808 262.829219; --inc: .15=
+1705 .027481 231.6166; --suc: .154663 .030576 163.102898; --wac: .166604 .0=
+32836 83.424292; --erc: .142439 .032979 22.150603; --rounded-box: 1rem; --r=
+ounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s; --animat=
+ion-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-border: 1p=
+x; --tab-radius: .5rem; --s: .635504 .166237 45.819942; --a: .480653 .09934=
+ 39.886199; --n: .385412 .024038 262.829219; --b1: 1 0 0; --in: .758525 .13=
+7405 231.6166; --su: .773316 .152882 163.102898; --wa: .83302 .164179 83.42=
+4292; --er: .712196 .164893 22.150603; }
 
 @media (prefers-color-scheme: dark) {
-  :root { color-scheme: dark; --pf: 32 89% 45%; --sf: 271 46% 35%; --af: 91=
- 100% 26%; --nf: 31 81% 3%; --b2: 0 0% 6%; --b3: 0 0% 0%; --bc: 145 0% 81%;=
- --sc: 275 36% 88%; --nc: 26 11% 80%; --inc: 239 85% 93%; --suc: 126 38% 89=
-%; --wac: 29 59% 11%; --erc: 11 100% 91%; --rounded-box: 1rem; --rounded-bt=
-n: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s; --animation-input=
-: .2s; --btn-text-case: uppercase; --btn-focus-scale: .95; --border-btn: 1p=
-x; --tab-border: 1px; --tab-radius: .5rem; --p: 32 89% 52%; --pc: 180 7% 8%=
-; --s: 271 46% 42%; --a: 91 100% 33%; --ac: 0 0% 0%; --n: 31 81% 10%; --b1:=
- 0 0% 13%; --in: 221 83% 53%; --su: 142 76% 36%; --wa: 32 95% 44%; --er: 0 =
-72% 51%; }
+  :root { color-scheme: dark; --b2: .230416 0 0; --b3: .213072 0 0; --bc: .=
+849552 0 0; --sc: .89196 .0496 305.03; --nc: .848742 .009322 65.681484; --i=
+nc: .90923 .043042 262.880917; --suc: .12541 .033982 149.213788; --wac: .13=
+3168 .031484 58.31834; --erc: .13144 .0398 27.33; --rounded-box: 1rem; --ro=
+unded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s; --animati=
+on-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-border: 1px=
+; --tab-radius: .5rem; --p: .7748 .204 60.62; --pc: .196935 .004671 196.779=
+412; --s: .4598 .248 305.03; --a: .648 .223 136.073479; --ac: 0 0 0; --n: .=
+24371 .046608 65.681484; --b1: .247759 0 0; --in: .54615 .215208 262.880917=
+; --su: .627052 .169912 149.213788; --wa: .66584 .157422 58.31834; --er: .6=
+572 .199 27.33; }
 }
 
-[data-theme=3D"professionnal"] { --p: 22 42% 57%; --pf: 22 42% 50%; --sf: 2=
-2 76% 41%; --af: 16 49% 30%; --nf: 219 14% 21%; --b2: 0 0% 93%; --b3: 0 0% =
-86%; --bc: 146 0% 19%; --pc: 22 23% 12%; --sc: 20 95% 91%; --ac: 16 37% 87%=
-; --nc: 221 6% 84%; --inc: 202 34% 14%; --suc: 152 31% 13%; --wac: 39 47% 1=
-3%; --erc: 3 29% 15%; --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-=
-badge: 1.9rem; --animation-btn: .25s; --animation-input: .2s; --btn-text-ca=
-se: uppercase; --btn-focus-scale: .95; --border-btn: 1px; --tab-border: 1px=
-; --tab-radius: .5rem; --s: 22 76% 48%; --a: 16 49% 37%; --n: 219 14% 28%; =
---b1: 0 0% 100%; --in: 198 93% 60%; --su: 158 64% 52%; --wa: 43 96% 56%; --=
-er: 0 91% 71%; }
+[data-theme=3D"professionnal"], :root:has(input.theme-controller[value=3D"p=
+rofessionnal"]:checked) { --p: .666867 .085981 51.13212; --b2: .93 0 0; --b=
+3: .86 0 0; --bc: .2 0 0; --pc: .133373 .017196 51.13212; --sc: .127101 .03=
+3247 45.819942; --ac: .896131 .019868 39.886199; --nc: .877082 .004808 262.=
+829219; --inc: .151705 .027481 231.6166; --suc: .154663 .030576 163.102898;=
+ --wac: .166604 .032836 83.424292; --erc: .142439 .032979 22.150603; --roun=
+ded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-b=
+tn: .25s; --animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px=
+; --tab-border: 1px; --tab-radius: .5rem; --s: .635504 .166237 45.819942; -=
+-a: .480653 .09934 39.886199; --n: .385412 .024038 262.829219; --b1: 1 0 0;=
+ --in: .758525 .137405 231.6166; --su: .773316 .152882 163.102898; --wa: .8=
+3302 .164179 83.424292; --er: .712196 .164893 22.150603; }
 
-[data-theme=3D"halloween"] { color-scheme: dark; --pf: 32 89% 45%; --sf: 27=
-1 46% 35%; --af: 91 100% 26%; --nf: 31 81% 3%; --b2: 0 0% 6%; --b3: 0 0% 0%=
-; --bc: 145 0% 81%; --sc: 275 36% 88%; --nc: 26 11% 80%; --inc: 239 85% 93%=
-; --suc: 126 38% 89%; --wac: 29 59% 11%; --erc: 11 100% 91%; --rounded-box:=
- 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s=
-; --animation-input: .2s; --btn-text-case: uppercase; --btn-focus-scale: .9=
-5; --border-btn: 1px; --tab-border: 1px; --tab-radius: .5rem; --p: 32 89% 5=
-2%; --pc: 180 7% 8%; --s: 271 46% 42%; --a: 91 100% 33%; --ac: 0 0% 0%; --n=
-: 31 81% 10%; --b1: 0 0% 13%; --in: 221 83% 53%; --su: 142 76% 36%; --wa: 3=
-2 95% 44%; --er: 0 72% 51%; }
+[data-theme=3D"halloween"], :root:has(input.theme-controller[value=3D"hallo=
+ween"]:checked) { color-scheme: dark; --b2: .230416 0 0; --b3: .213072 0 0;=
+ --bc: .849552 0 0; --sc: .89196 .0496 305.03; --nc: .848742 .009322 65.681=
+484; --inc: .90923 .043042 262.880917; --suc: .12541 .033982 149.213788; --=
+wac: .133168 .031484 58.31834; --erc: .13144 .0398 27.33; --rounded-box: 1r=
+em; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s; -=
+-animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-bor=
+der: 1px; --tab-radius: .5rem; --p: .7748 .204 60.62; --pc: .196935 .004671=
+ 196.779412; --s: .4598 .248 305.03; --a: .648 .223 136.073479; --ac: 0 0 0=
+; --n: .24371 .046608 65.681484; --b1: .247759 0 0; --in: .54615 .215208 26=
+2.880917; --su: .627052 .169912 149.213788; --wa: .66584 .157422 58.31834; =
+--er: .6572 .199 27.33; }
 
-[data-theme=3D"dark"] { --p: 197 21% 94%; --pf: 197 21% 87%; --sf: 22 76% 4=
-1%; --af: 16 49% 30%; --nf: 219 14% 21%; --b2: 0 0% 0%; --b3: 0 0% 0%; --bc=
-: 145 0% 79%; --pc: 197 1% 18%; --sc: 20 95% 91%; --ac: 16 37% 87%; --nc: 2=
-21 6% 84%; --inc: 202 34% 14%; --suc: 152 31% 13%; --wac: 39 47% 13%; --erc=
-: 3 29% 15%; --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.=
-9rem; --animation-btn: .25s; --animation-input: .2s; --btn-text-case: upper=
-case; --btn-focus-scale: .95; --border-btn: 1px; --tab-border: 1px; --tab-r=
-adius: .5rem; --s: 22 76% 48%; --a: 16 49% 37%; --n: 219 14% 28%; --b1: 0 0=
-% 7%; --in: 198 93% 60%; --su: 158 64% 52%; --wa: 43 96% 56%; --er: 0 91% 7=
-1%; }
+[data-theme=3D"dark"], :root:has(input.theme-controller[value=3D"dark"]:che=
+cked) { --p: .951917 .005998 223.457408; --b2: .169449 0 0; --b3: .156695 0=
+ 0; --bc: .836441 0 0; --pc: .190383 .0012 223.457408; --sc: .127101 .03324=
+7 45.819942; --ac: .896131 .019868 39.886199; --nc: .877082 .004808 262.829=
+219; --inc: .151705 .027481 231.6166; --suc: .154663 .030576 163.102898; --=
+wac: .166604 .032836 83.424292; --erc: .142439 .032979 22.150603; --rounded=
+-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn:=
+ .25s; --animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; -=
+-tab-border: 1px; --tab-radius: .5rem; --s: .635504 .166237 45.819942; --a:=
+ .480653 .09934 39.886199; --n: .385412 .024038 262.829219; --b1: .182204 0=
+ 0; --in: .758525 .137405 231.6166; --su: .773316 .152882 163.102898; --wa:=
+ .83302 .164179 83.424292; --er: .712196 .164893 22.150603; }
 
 *, ::before, ::after { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; =
 --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; -=
@@ -2202,54 +2457,52 @@ on-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-fi=
 lter, -webkit-backdrop-filter; transition-timing-function: cubic-bezier(0, =
 0, 0.2, 1); transition-duration: 0.2s; height: 1.25rem; font-size: 0.875rem=
 ; line-height: 1.25rem; width: fit-content; padding-left: 0.563rem; padding=
--right: 0.563rem; border-width: 1px; --tw-border-opacity: 1; border-color: =
-hsl(var(--b2) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-c=
-olor: hsl(var(--b1) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: h=
-sl(var(--bc) / var(--tw-text-opacity)); border-radius: var(--rounded-badge,=
- 1.9rem); }
+-right: 0.563rem; border-radius: var(--rounded-badge, 1.9rem); border-width=
+: 1px; --tw-border-opacity: 1; border-color: var(--fallback-b2,oklch(var(--=
+b2)/var(--tw-border-opacity))); --tw-bg-opacity: 1; background-color: var(-=
+-fallback-b1,oklch(var(--b1)/var(--tw-bg-opacity))); --tw-text-opacity: 1; =
+color: var(--fallback-bc,oklch(var(--bc)/var(--tw-text-opacity))); }
 
 @media (hover: hover) {
-  .label a:hover { --tw-text-opacity: 1; color: hsl(var(--bc) / var(--tw-te=
-xt-opacity)); }
+  .label a:hover { --tw-text-opacity: 1; color: var(--fallback-bc,oklch(var=
+(--bc)/var(--tw-text-opacity))); }
   .menu li > :not(ul):not(.menu-title):not(details):active, .menu li > :not=
 (ul):not(.menu-title):not(details).active, .menu li > details > summary:act=
-ive { --tw-bg-opacity: 1; background-color: hsl(var(--n) / var(--tw-bg-opac=
-ity)); --tw-text-opacity: 1; color: hsl(var(--nc) / var(--tw-text-opacity))=
-; }
+ive { --tw-bg-opacity: 1; background-color: var(--fallback-n,oklch(var(--n)=
+/var(--tw-bg-opacity))); --tw-text-opacity: 1; color: var(--fallback-nc,okl=
+ch(var(--nc)/var(--tw-text-opacity))); }
   .table tr.hover:hover, .table tr.hover:nth-child(2n):hover { --tw-bg-opac=
-ity: 1; background-color: hsl(var(--b2) / var(--tw-bg-opacity)); }
+ity: 1; background-color: var(--fallback-b2,oklch(var(--b2)/var(--tw-bg-opa=
+city))); }
   .table-zebra tr.hover:hover, .table-zebra tr.hover:nth-child(2n):hover { =
---tw-bg-opacity: 1; background-color: hsl(var(--b3) / var(--tw-bg-opacity))=
-; }
+--tw-bg-opacity: 1; background-color: var(--fallback-b3,oklch(var(--b3)/var=
+(--tw-bg-opacity))); }
 }
 
-.btn { display: inline-flex; flex-shrink: 0; cursor: pointer; user-select: =
-none; flex-wrap: wrap; align-items: center; justify-content: center; border=
--color: hsl(var(--b2) / var(--tw-border-opacity)); text-align: center; tran=
-sition-property: color, background-color, border-color, text-decoration-col=
-or, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, =
--webkit-backdrop-filter; transition-timing-function: cubic-bezier(0, 0, 0.2=
-, 1); transition-duration: 0.2s; border-radius: var(--rounded-btn, .5rem); =
-height: 3rem; padding-left: 1rem; padding-right: 1rem; min-height: 3rem; fo=
-nt-size: 0.875rem; line-height: 1em; gap: 0.5rem; font-weight: 600; text-de=
-coration-line: none; border-width: var(--border-btn, 1px); animation: butto=
-n-pop var(--animation-btn, .25s) ease-out; text-transform: var(--btn-text-c=
-ase, uppercase); --tw-border-opacity: 1; --tw-bg-opacity: 1; background-col=
-or: hsl(var(--b2) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl=
-(var(--bc) / var(--tw-text-opacity)); outline-color: hsl(var(--bc) / 1); }
+.btn { display: inline-flex; height: 3rem; min-height: 3rem; flex-shrink: 0=
+; cursor: pointer; user-select: none; flex-wrap: wrap; align-items: center;=
+ justify-content: center; border-radius: var(--rounded-btn, .5rem); border-=
+color: oklch(var(--btn-color, var(--b2)) / var(--tw-border-opacity, 1)); pa=
+dding-left: 1rem; padding-right: 1rem; text-align: center; font-size: 0.875=
+rem; line-height: 1em; gap: 0.5rem; font-weight: 600; text-decoration-line:=
+ none; transition-duration: 0.2s; transition-timing-function: cubic-bezier(=
+0, 0, 0.2, 1); border-width: var(--border-btn, 1px); animation: button-pop =
+var(--animation-btn, .25s) ease-out; transition-property: color, background=
+-color, border-color, opacity, box-shadow, transform; --tw-text-opacity: 1;=
+ color: var(--fallback-bc,oklch(var(--bc)/var(--tw-text-opacity))); --tw-sh=
+adow: 0 1px 2px 0 rgb(0 0 0 / .05); --tw-shadow-colored: 0 1px 2px 0 var(--=
+tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(-=
+-tw-ring-shadow, 0 0 #0000),var(--tw-shadow); outline-color: var(--fallback=
+-bc,oklch(var(--bc)/1)); background-color: oklch(var(--btn-color, var(--b2)=
+) / var(--tw-bg-opacity, 1)); }
 
 .btn-disabled, .btn[disabled], .btn:disabled { pointer-events: none; }
 
 .btn-circle { height: 3rem; width: 3rem; border-radius: 9999px; padding: 0p=
 x; }
 
-.btn-group > input[type=3D"radio"].btn { appearance: none; }
-
-.btn-group > input[type=3D"radio"].btn::before { content: attr(data-title);=
- }
-
-.btn:is(input[type=3D"checkbox"]), .btn:is(input[type=3D"radio"]) { width: =
-auto; appearance: none; }
+:where(.btn:is(input[type=3D"checkbox"])), :where(.btn:is(input[type=3D"rad=
+io"])) { width: auto; appearance: none; }
 
 .btn:is(input[type=3D"checkbox"])::after, .btn:is(input[type=3D"radio"])::a=
 fter { --tw-content: attr(aria-label); content: var(--tw-content); }
@@ -2269,9 +2522,9 @@ adius: var(--rounded-box, 1rem); }
 
 .card.image-full { display: grid; }
 
-.card.image-full::before { position: relative; content: ""; z-index: 10; --=
-tw-bg-opacity: 1; background-color: hsl(var(--n) / var(--tw-bg-opacity)); o=
-pacity: 0.75; border-radius: var(--rounded-box, 1rem); }
+.card.image-full::before { position: relative; content: ""; z-index: 10; bo=
+rder-radius: var(--rounded-box, 1rem); --tw-bg-opacity: 1; background-color=
+: var(--fallback-n,oklch(var(--n)/var(--tw-bg-opacity))); opacity: 0.75; }
 
 .card.image-full::before, .card.image-full > * { grid-column-start: 1; grid=
 -row-start: 1; }
@@ -2279,12 +2532,14 @@ pacity: 0.75; border-radius: var(--rounded-box, 1rem); }
 .card.image-full > figure img { height: 100%; object-fit: cover; }
 
 .card.image-full > .card-body { position: relative; z-index: 20; --tw-text-=
-opacity: 1; color: hsl(var(--nc) / var(--tw-text-opacity)); }
+opacity: 1; color: var(--fallback-nc,oklch(var(--nc)/var(--tw-text-opacity)=
+)); }
 
-.checkbox { flex-shrink: 0; --chkbg: var(--bc); --chkfg: var(--b1); height:=
- 1.5rem; width: 1.5rem; cursor: pointer; appearance: none; border-width: 1p=
-x; border-color: hsl(var(--bc) / var(--tw-border-opacity)); --tw-border-opa=
-city: .2; border-radius: var(--rounded-btn, .5rem); }
+.checkbox { flex-shrink: 0; --chkbg: var(--fallback-bc,oklch(var(--bc)/1));=
+ --chkfg: var(--fallback-b1,oklch(var(--b1)/1)); height: 1.5rem; width: 1.5=
+rem; cursor: pointer; appearance: none; border-radius: var(--rounded-btn, .=
+5rem); border-width: 1px; border-color: var(--fallback-bc,oklch(var(--bc)/v=
+ar(--tw-border-opacity))); --tw-border-opacity: .2; }
 
 .collapse:not(td):not(tr):not(colgroup) { visibility: visible; }
 
@@ -2317,66 +2572,85 @@ apse-close) > input[type=3D"checkbox"]:checked ~ .collapse-content, .collap=
 se:not(.collapse-close) > input[type=3D"radio"]:checked ~ .collapse-content=
  { visibility: visible; min-height: fit-content; }
 
+.diff { position: relative; display: grid; width: 100%; overflow: hidden; c=
+ontainer-type: inline-size; grid-template-columns: auto 1fr; }
+
 .divider { display: flex; flex-direction: row; align-items: center; align-s=
 elf: stretch; margin-top: 1rem; margin-bottom: 1rem; height: 1rem; white-sp=
 ace: nowrap; }
 
-.divider::before, .divider::after { content: ""; flex-grow: 1; height: 0.12=
-5rem; width: 100%; }
+.divider::before, .divider::after { height: 0.125rem; width: 100%; flex-gro=
+w: 1; --tw-content: ""; content: var(--tw-content); --tw-bg-opacity: 1; bac=
+kground-color: var(--fallback-b3,oklch(var(--b3)/var(--tw-bg-opacity))); }
 
 @media (hover: hover) {
-  .btn:hover { --tw-border-opacity: 1; border-color: hsl(var(--b3) / var(--=
-tw-border-opacity)); --tw-bg-opacity: 1; background-color: hsl(var(--b3) / =
-var(--tw-bg-opacity)); }
+  .btn:hover { --tw-border-opacity: 1; border-color: color-mix(in oklab,okl=
+ch(var(--btn-color, var(--b2)) / var(--tw-border-opacity)) 90%,black); --tw=
+-bg-opacity: 1; background-color: color-mix(in oklab,oklch(var(--btn-color,=
+ var(--b2)) / var(--tw-bg-opacity)) 90%,black); }
+  @supports not (color: oklch(0 0 0)) {
+  .btn:hover { background-color: var(--btn-color, var(--fallback-b2)); bord=
+er-color: var(--btn-color, var(--fallback-b2)); }
+}
   .btn.glass:hover { --glass-opacity: 25%; --glass-border-opacity: 15%; }
-  .btn-ghost:hover { --tw-border-opacity: 0; background-color: hsl(var(--bc=
-) / var(--tw-bg-opacity)); --tw-bg-opacity: .2; }
-  .btn-outline:hover { --tw-border-opacity: 1; border-color: hsl(var(--bc) =
-/ var(--tw-border-opacity)); --tw-bg-opacity: 1; background-color: hsl(var(=
---bc) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl(var(--b1) /=
- var(--tw-text-opacity)); }
-  .btn-outline.btn-primary:hover { --tw-border-opacity: 1; border-color: hs=
-l(var(--pf) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-col=
-or: hsl(var(--pf) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl=
-(var(--pc) / var(--tw-text-opacity)); }
-  .btn-outline.btn-secondary:hover { --tw-border-opacity: 1; border-color: =
-hsl(var(--sf) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-c=
-olor: hsl(var(--sf) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: h=
-sl(var(--sc) / var(--tw-text-opacity)); }
-  .btn-outline.btn-accent:hover { --tw-border-opacity: 1; border-color: hsl=
-(var(--af) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-colo=
-r: hsl(var(--af) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl(=
-var(--ac) / var(--tw-text-opacity)); }
-  .btn-outline.btn-success:hover { --tw-border-opacity: 1; border-color: hs=
-l(var(--su) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-col=
-or: hsl(var(--su) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl=
-(var(--suc) / var(--tw-text-opacity)); }
-  .btn-outline.btn-info:hover { --tw-border-opacity: 1; border-color: hsl(v=
-ar(--in) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-color:=
- hsl(var(--in) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl(va=
-r(--inc) / var(--tw-text-opacity)); }
-  .btn-outline.btn-warning:hover { --tw-border-opacity: 1; border-color: hs=
-l(var(--wa) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-col=
-or: hsl(var(--wa) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl=
-(var(--wac) / var(--tw-text-opacity)); }
-  .btn-outline.btn-error:hover { --tw-border-opacity: 1; border-color: hsl(=
-var(--er) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-color=
-: hsl(var(--er) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl(v=
-ar(--erc) / var(--tw-text-opacity)); }
+  .btn-ghost:hover { border-color: transparent; }
+  @supports (color: oklch(0 0 0)) {
+  .btn-ghost:hover { background-color: var(--fallback-bc,oklch(var(--bc)/.2=
+)); }
+}
+  .btn-outline:hover { --tw-border-opacity: 1; border-color: var(--fallback=
+-bc,oklch(var(--bc)/var(--tw-border-opacity))); --tw-bg-opacity: 1; backgro=
+und-color: var(--fallback-bc,oklch(var(--bc)/var(--tw-bg-opacity))); --tw-t=
+ext-opacity: 1; color: var(--fallback-b1,oklch(var(--b1)/var(--tw-text-opac=
+ity))); }
+  .btn-outline.btn-primary:hover { --tw-text-opacity: 1; color: var(--fallb=
+ack-pc,oklch(var(--pc)/var(--tw-text-opacity))); background-color: color-mi=
+x(in oklab,var(--fallback-p,oklch(var(--p)/1)) 90%,black); border-color: co=
+lor-mix(in oklab,var(--fallback-p,oklch(var(--p)/1)) 90%,black); }
+  .btn-outline.btn-secondary:hover { --tw-text-opacity: 1; color: var(--fal=
+lback-sc,oklch(var(--sc)/var(--tw-text-opacity))); background-color: color-=
+mix(in oklab,var(--fallback-s,oklch(var(--s)/1)) 90%,black); border-color: =
+color-mix(in oklab,var(--fallback-s,oklch(var(--s)/1)) 90%,black); }
+  .btn-outline.btn-accent:hover { --tw-text-opacity: 1; color: var(--fallba=
+ck-ac,oklch(var(--ac)/var(--tw-text-opacity))); background-color: color-mix=
+(in oklab,var(--fallback-a,oklch(var(--a)/1)) 90%,black); border-color: col=
+or-mix(in oklab,var(--fallback-a,oklch(var(--a)/1)) 90%,black); }
+  .btn-outline.btn-success:hover { --tw-text-opacity: 1; color: var(--fallb=
+ack-suc,oklch(var(--suc)/var(--tw-text-opacity))); background-color: color-=
+mix(in oklab,var(--fallback-su,oklch(var(--su)/1)) 90%,black); border-color=
+: color-mix(in oklab,var(--fallback-su,oklch(var(--su)/1)) 90%,black); }
+  .btn-outline.btn-info:hover { --tw-text-opacity: 1; color: var(--fallback=
+-inc,oklch(var(--inc)/var(--tw-text-opacity))); background-color: color-mix=
+(in oklab,var(--fallback-in,oklch(var(--in)/1)) 90%,black); border-color: c=
+olor-mix(in oklab,var(--fallback-in,oklch(var(--in)/1)) 90%,black); }
+  .btn-outline.btn-warning:hover { --tw-text-opacity: 1; color: var(--fallb=
+ack-wac,oklch(var(--wac)/var(--tw-text-opacity))); background-color: color-=
+mix(in oklab,var(--fallback-wa,oklch(var(--wa)/1)) 90%,black); border-color=
+: color-mix(in oklab,var(--fallback-wa,oklch(var(--wa)/1)) 90%,black); }
+  .btn-outline.btn-error:hover { --tw-text-opacity: 1; color: var(--fallbac=
+k-erc,oklch(var(--erc)/var(--tw-text-opacity))); background-color: color-mi=
+x(in oklab,var(--fallback-er,oklch(var(--er)/1)) 90%,black); border-color: =
+color-mix(in oklab,var(--fallback-er,oklch(var(--er)/1)) 90%,black); }
   .btn-disabled:hover, .btn[disabled]:hover, .btn:disabled:hover { --tw-bor=
-der-opacity: 0; background-color: hsl(var(--n) / var(--tw-bg-opacity)); --t=
-w-bg-opacity: .2; color: hsl(var(--bc) / var(--tw-text-opacity)); --tw-text=
--opacity: .2; }
+der-opacity: 0; background-color: var(--fallback-n,oklch(var(--n)/var(--tw-=
+bg-opacity))); --tw-bg-opacity: .2; color: var(--fallback-bc,oklch(var(--bc=
+)/var(--tw-text-opacity))); --tw-text-opacity: .2; }
   .btn:is(input[type=3D"checkbox"]:checked):hover, .btn:is(input[type=3D"ra=
-dio"]:checked):hover { --tw-border-opacity: 1; border-color: hsl(var(--pf) =
-/ var(--tw-border-opacity)); --tw-bg-opacity: 1; background-color: hsl(var(=
---pf) / var(--tw-bg-opacity)); }
+dio"]:checked):hover { background-color: color-mix(in oklab,var(--fallback-=
+p,oklch(var(--p)/1)) 90%,black); border-color: color-mix(in oklab,var(--fal=
+lback-p,oklch(var(--p)/1)) 90%,black); }
   :where(.menu li:not(.menu-title):not(.disabled) > :not(ul):not(details):n=
 ot(.menu-title)):not(.active):hover, :where(.menu li:not(.menu-title):not(.=
 disabled) > details > summary:not(.menu-title)):not(.active):hover { cursor=
-: pointer; background-color: hsl(var(--bc) / .1); --tw-text-opacity: 1; col=
-or: hsl(var(--bc) / var(--tw-text-opacity)); outline: transparent solid 2px=
-; outline-offset: 2px; }
+: pointer; --tw-text-opacity: 1; color: var(--fallback-bc,oklch(var(--bc)/v=
+ar(--tw-text-opacity))); outline: transparent solid 2px; outline-offset: 2p=
+x; }
+  @supports (color: oklch(0 0 0)) {
+  :where(.menu li:not(.menu-title):not(.disabled) > :not(ul):not(details):n=
+ot(.menu-title)):not(.active):hover, :where(.menu li:not(.menu-title):not(.=
+disabled) > details > summary:not(.menu-title)):not(.active):hover { backgr=
+ound-color: var(--fallback-bc,oklch(var(--bc)/.1)); }
+}
 }
 
 .footer { display: grid; width: 100%; grid-auto-flow: row; place-items: sta=
@@ -2398,15 +2672,10 @@ over; background-position: center center; }
 .hero > * { grid-column-start: 1; grid-row-start: 1; }
 
 .input { flex-shrink: 1; height: 3rem; padding-left: 1rem; padding-right: 1=
-rem; font-size: 1rem; line-height: 1.5rem; border-width: 1px; border-color:=
- hsl(var(--bc) / var(--tw-border-opacity)); --tw-border-opacity: 0; --tw-bg=
--opacity: 1; background-color: hsl(var(--b1) / var(--tw-bg-opacity)); borde=
-r-radius: var(--rounded-btn, .5rem); }
-
-.input-group > .input { isolation: isolate; }
-
-.input-group > *, .input-group > .input, .input-group > .textarea, .input-g=
-roup > .select { border-radius: 0px; }
+rem; font-size: 1rem; line-height: 1.5rem; border-radius: var(--rounded-btn=
+, .5rem); border-width: 1px; border-color: transparent; --tw-bg-opacity: 1;=
+ background-color: var(--fallback-b1,oklch(var(--b1)/var(--tw-bg-opacity)))=
+; }
 
 .join { display: inline-flex; align-items: stretch; border-radius: var(--ro=
 unded-btn, .5rem); }
@@ -2455,8 +2724,8 @@ er-end-end-radius: inherit; }
 .menu { display: flex; flex-flow: column wrap; font-size: 0.875rem; line-he=
 ight: 1.25rem; padding: 0.5rem; }
 
-.menu :where(li ul) { position: relative; white-space: nowrap; margin-left:=
- 1rem; padding-left: 0.5rem; }
+.menu :where(li ul) { position: relative; white-space: nowrap; margin-inlin=
+e-start: 1rem; padding-inline-start: 0.5rem; }
 
 .menu :where(li:not(.menu-title) > :not(ul):not(details):not(.menu-title)),=
  .menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) { d=
@@ -2464,8 +2733,8 @@ isplay: grid; grid-auto-flow: column; align-content: flex-start; align-item=
 s: center; gap: 0.5rem; grid-auto-columns: minmax(auto, max-content) auto m=
 ax-content; user-select: none; }
 
-.menu li.disabled { cursor: not-allowed; user-select: none; color: hsl(var(=
---bc) / .3); }
+.menu li.disabled { cursor: not-allowed; user-select: none; color: var(--fa=
+llback-bc,oklch(var(--bc)/.3)); }
 
 .menu :where(li > .menu-dropdown:not(.menu-dropdown-show)) { display: none;=
  }
@@ -2488,16 +2757,16 @@ ansition-property: transform, opacity, visibility; overflow-y: hidden; }
 start: 1; width: 91.6667%; max-width: 32rem; --tw-scale-x: .9; --tw-scale-y=
 : .9; transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rot=
 ate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX=
-(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); --tw-bg-opacity: 1; backgrou=
-nd-color: hsl(var(--b1) / var(--tw-bg-opacity)); padding: 1.5rem; transitio=
-n-property: color, background-color, border-color, text-decoration-color, f=
-ill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webk=
-it-backdrop-filter; transition-timing-function: cubic-bezier(0, 0, 0.2, 1);=
- transition-duration: 0.2s; border-top-left-radius: var(--rounded-box, 1rem=
-); border-top-right-radius: var(--rounded-box, 1rem); border-bottom-left-ra=
-dius: var(--rounded-box, 1rem); border-bottom-right-radius: var(--rounded-b=
-ox, 1rem); box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px; overflow-y:=
- auto; overscroll-behavior: contain; }
+(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); border-bottom-right-radius: =
+var(--rounded-box, 1rem); border-bottom-left-radius: var(--rounded-box, 1re=
+m); border-top-left-radius: var(--rounded-box, 1rem); border-top-right-radi=
+us: var(--rounded-box, 1rem); --tw-bg-opacity: 1; background-color: var(--f=
+allback-b1,oklch(var(--b1)/var(--tw-bg-opacity))); padding: 1.5rem; transit=
+ion-property: color, background-color, border-color, text-decoration-color,=
+ fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -we=
+bkit-backdrop-filter; transition-timing-function: cubic-bezier(0, 0, 0.2, 1=
+); transition-duration: 0.2s; box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px=
+ -12px; overflow-y: auto; overscroll-behavior: contain; }
 
 .modal-open, .modal:target, .modal-toggle:checked + .modal, .modal[open] { =
 pointer-events: auto; visibility: visible; opacity: 1; }
@@ -2513,27 +2782,28 @@ modal[open])) { overflow: hidden; }
 
 :where(.navbar > *) { display: inline-flex; align-items: center; }
 
-.stats { display: inline-grid; --tw-bg-opacity: 1; background-color: hsl(va=
-r(--b1) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl(var(--bc)=
- / var(--tw-text-opacity)); border-radius: var(--rounded-box, 1rem); }
+.stats { display: inline-grid; border-radius: var(--rounded-box, 1rem); --t=
+w-bg-opacity: 1; background-color: var(--fallback-b1,oklch(var(--b1)/var(--=
+tw-bg-opacity))); --tw-text-opacity: 1; color: var(--fallback-bc,oklch(var(=
+--bc)/var(--tw-text-opacity))); }
 
 :where(.stats) { grid-auto-flow: column; overflow-x: auto; }
 
 .stat { display: inline-grid; width: 100%; grid-template-columns: repeat(1,=
- 1fr); column-gap: 1rem; border-color: hsl(var(--bc) / var(--tw-border-opac=
-ity)); --tw-border-opacity: .1; padding: 1rem 1.5rem; }
+ 1fr); column-gap: 1rem; border-color: var(--fallback-bc,oklch(var(--bc)/va=
+r(--tw-border-opacity))); --tw-border-opacity: .1; padding: 1rem 1.5rem; }
 
 .stat-figure { grid-column-start: 2; grid-row: 1 / span 3; place-self: cent=
 er end; }
 
-.stat-title { grid-column-start: 1; white-space: nowrap; color: hsl(var(--b=
-c) / .6); }
+.stat-title { grid-column-start: 1; white-space: nowrap; color: var(--fallb=
+ack-bc,oklch(var(--bc)/.6)); }
 
 .stat-value { grid-column-start: 1; white-space: nowrap; font-size: 2.25rem=
 ; line-height: 2.5rem; font-weight: 800; }
 
 .stat-desc { grid-column-start: 1; white-space: nowrap; font-size: 0.75rem;=
- line-height: 1rem; color: hsl(var(--bc) / .6); }
+ line-height: 1rem; color: var(--fallback-bc,oklch(var(--bc)/.6)); }
 
 .swap { position: relative; display: inline-grid; user-select: none; place-=
 content: center; cursor: pointer; }
@@ -2554,13 +2824,18 @@ rminate ~ .swap-off { opacity: 0; }
 inate ~ .swap-indeterminate { opacity: 1; }
 
 .avatar-group :where(.avatar) { overflow: hidden; border-radius: 9999px; bo=
-rder-width: 4px; --tw-border-opacity: 1; border-color: hsl(var(--b1) / var(=
---tw-border-opacity)); }
+rder-width: 4px; --tw-border-opacity: 1; border-color: var(--fallback-b1,ok=
+lch(var(--b1)/var(--tw-border-opacity))); }
 
 .btm-nav > * .label { font-size: 1rem; line-height: 1.5rem; }
 
 .btn:active:hover, .btn:active:focus { animation: 0s ease-out 0s 1 normal n=
 one running button-pop; transform: scale(var(--btn-focus-scale, .97)); }
+
+@supports not (color: oklch(0 0 0)) {
+  .btn { background-color: var(--btn-color, var(--fallback-b2)); border-col=
+or: var(--btn-color, var(--fallback-b2)); }
+}
 
 .btn:focus-visible { outline-style: solid; outline-width: 2px; outline-offs=
 et: 2px; }
@@ -2577,98 +2852,91 @@ adow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #00=
 ored: 0 0 #0000; box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--=
 tw-ring-shadow, 0 0 #0000),var(--tw-shadow); outline-color: currentcolor; }
 
-.btn-ghost.btn-active { --tw-border-opacity: 0; background-color: hsl(var(-=
--bc) / var(--tw-bg-opacity)); --tw-bg-opacity: .2; }
+.btn-ghost.btn-active { border-color: transparent; background-color: var(--=
+fallback-bc,oklch(var(--bc)/.2)); }
 
 .btn-outline { border-color: currentcolor; background-color: transparent; -=
--tw-text-opacity: 1; color: hsl(var(--bc) / var(--tw-text-opacity)); --tw-s=
-hadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-shadow: var(--tw-ring=
--offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow=
-); }
+-tw-text-opacity: 1; color: var(--fallback-bc,oklch(var(--bc)/var(--tw-text=
+-opacity))); --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sh=
+adow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #00=
+00),var(--tw-shadow); }
 
-.btn-outline.btn-active { --tw-border-opacity: 1; border-color: hsl(var(--b=
-c) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-color: hsl(v=
-ar(--bc) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl(var(--b1=
-) / var(--tw-text-opacity)); }
+.btn-outline.btn-active { --tw-border-opacity: 1; border-color: var(--fallb=
+ack-bc,oklch(var(--bc)/var(--tw-border-opacity))); --tw-bg-opacity: 1; back=
+ground-color: var(--fallback-bc,oklch(var(--bc)/var(--tw-bg-opacity))); --t=
+w-text-opacity: 1; color: var(--fallback-b1,oklch(var(--b1)/var(--tw-text-o=
+pacity))); }
 
-.btn-outline.btn-primary { --tw-text-opacity: 1; color: hsl(var(--p) / var(=
---tw-text-opacity)); }
+.btn-outline.btn-primary { --tw-text-opacity: 1; color: var(--fallback-p,ok=
+lch(var(--p)/var(--tw-text-opacity))); }
 
-.btn-outline.btn-primary.btn-active { --tw-border-opacity: 1; border-color:=
- hsl(var(--pf) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-=
-color: hsl(var(--pf) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: =
-hsl(var(--pc) / var(--tw-text-opacity)); }
+.btn-outline.btn-primary.btn-active { --tw-text-opacity: 1; color: var(--fa=
+llback-pc,oklch(var(--pc)/var(--tw-text-opacity))); background-color: color=
+-mix(in oklab,var(--fallback-p,oklch(var(--p)/1)) 90%,black); border-color:=
+ color-mix(in oklab,var(--fallback-p,oklch(var(--p)/1)) 90%,black); }
 
-.btn-outline.btn-secondary { --tw-text-opacity: 1; color: hsl(var(--s) / va=
-r(--tw-text-opacity)); }
+.btn-outline.btn-secondary { --tw-text-opacity: 1; color: var(--fallback-s,=
+oklch(var(--s)/var(--tw-text-opacity))); }
 
-.btn-outline.btn-secondary.btn-active { --tw-border-opacity: 1; border-colo=
-r: hsl(var(--sf) / var(--tw-border-opacity)); --tw-bg-opacity: 1; backgroun=
-d-color: hsl(var(--sf) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color=
-: hsl(var(--sc) / var(--tw-text-opacity)); }
+.btn-outline.btn-secondary.btn-active { --tw-text-opacity: 1; color: var(--=
+fallback-sc,oklch(var(--sc)/var(--tw-text-opacity))); background-color: col=
+or-mix(in oklab,var(--fallback-s,oklch(var(--s)/1)) 90%,black); border-colo=
+r: color-mix(in oklab,var(--fallback-s,oklch(var(--s)/1)) 90%,black); }
 
-.btn-outline.btn-accent { --tw-text-opacity: 1; color: hsl(var(--a) / var(-=
--tw-text-opacity)); }
+.btn-outline.btn-accent { --tw-text-opacity: 1; color: var(--fallback-a,okl=
+ch(var(--a)/var(--tw-text-opacity))); }
 
-.btn-outline.btn-accent.btn-active { --tw-border-opacity: 1; border-color: =
-hsl(var(--af) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-c=
-olor: hsl(var(--af) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: h=
-sl(var(--ac) / var(--tw-text-opacity)); }
+.btn-outline.btn-accent.btn-active { --tw-text-opacity: 1; color: var(--fal=
+lback-ac,oklch(var(--ac)/var(--tw-text-opacity))); background-color: color-=
+mix(in oklab,var(--fallback-a,oklch(var(--a)/1)) 90%,black); border-color: =
+color-mix(in oklab,var(--fallback-a,oklch(var(--a)/1)) 90%,black); }
 
-.btn-outline.btn-success { --tw-text-opacity: 1; color: hsl(var(--su) / var=
-(--tw-text-opacity)); }
+.btn-outline.btn-success { --tw-text-opacity: 1; color: var(--fallback-su,o=
+klch(var(--su)/var(--tw-text-opacity))); }
 
-.btn-outline.btn-success.btn-active { --tw-border-opacity: 1; border-color:=
- hsl(var(--su) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-=
-color: hsl(var(--su) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: =
-hsl(var(--suc) / var(--tw-text-opacity)); }
+.btn-outline.btn-success.btn-active { --tw-text-opacity: 1; color: var(--fa=
+llback-suc,oklch(var(--suc)/var(--tw-text-opacity))); background-color: col=
+or-mix(in oklab,var(--fallback-su,oklch(var(--su)/1)) 90%,black); border-co=
+lor: color-mix(in oklab,var(--fallback-su,oklch(var(--su)/1)) 90%,black); }
 
-.btn-outline.btn-info { --tw-text-opacity: 1; color: hsl(var(--in) / var(--=
-tw-text-opacity)); }
+.btn-outline.btn-info { --tw-text-opacity: 1; color: var(--fallback-in,oklc=
+h(var(--in)/var(--tw-text-opacity))); }
 
-.btn-outline.btn-info.btn-active { --tw-border-opacity: 1; border-color: hs=
-l(var(--in) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-col=
-or: hsl(var(--in) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hsl=
-(var(--inc) / var(--tw-text-opacity)); }
+.btn-outline.btn-info.btn-active { --tw-text-opacity: 1; color: var(--fallb=
+ack-inc,oklch(var(--inc)/var(--tw-text-opacity))); background-color: color-=
+mix(in oklab,var(--fallback-in,oklch(var(--in)/1)) 90%,black); border-color=
+: color-mix(in oklab,var(--fallback-in,oklch(var(--in)/1)) 90%,black); }
 
-.btn-outline.btn-warning { --tw-text-opacity: 1; color: hsl(var(--wa) / var=
-(--tw-text-opacity)); }
+.btn-outline.btn-warning { --tw-text-opacity: 1; color: var(--fallback-wa,o=
+klch(var(--wa)/var(--tw-text-opacity))); }
 
-.btn-outline.btn-warning.btn-active { --tw-border-opacity: 1; border-color:=
- hsl(var(--wa) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-=
-color: hsl(var(--wa) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: =
-hsl(var(--wac) / var(--tw-text-opacity)); }
+.btn-outline.btn-warning.btn-active { --tw-text-opacity: 1; color: var(--fa=
+llback-wac,oklch(var(--wac)/var(--tw-text-opacity))); background-color: col=
+or-mix(in oklab,var(--fallback-wa,oklch(var(--wa)/1)) 90%,black); border-co=
+lor: color-mix(in oklab,var(--fallback-wa,oklch(var(--wa)/1)) 90%,black); }
 
-.btn-outline.btn-error { --tw-text-opacity: 1; color: hsl(var(--er) / var(-=
--tw-text-opacity)); }
+.btn-outline.btn-error { --tw-text-opacity: 1; color: var(--fallback-er,okl=
+ch(var(--er)/var(--tw-text-opacity))); }
 
-.btn-outline.btn-error.btn-active { --tw-border-opacity: 1; border-color: h=
-sl(var(--er) / var(--tw-border-opacity)); --tw-bg-opacity: 1; background-co=
-lor: hsl(var(--er) / var(--tw-bg-opacity)); --tw-text-opacity: 1; color: hs=
-l(var(--erc) / var(--tw-text-opacity)); }
+.btn-outline.btn-error.btn-active { --tw-text-opacity: 1; color: var(--fall=
+back-erc,oklch(var(--erc)/var(--tw-text-opacity))); background-color: color=
+-mix(in oklab,var(--fallback-er,oklch(var(--er)/1)) 90%,black); border-colo=
+r: color-mix(in oklab,var(--fallback-er,oklch(var(--er)/1)) 90%,black); }
 
 .btn.btn-disabled, .btn[disabled], .btn:disabled { --tw-border-opacity: 0; =
-background-color: hsl(var(--n) / var(--tw-bg-opacity)); --tw-bg-opacity: .2=
-; color: hsl(var(--bc) / var(--tw-text-opacity)); --tw-text-opacity: .2; }
-
-.btn-group > input[type=3D"radio"]:checked.btn, .btn-group > .btn-active { =
---tw-border-opacity: 1; border-color: hsl(var(--p) / var(--tw-border-opacit=
-y)); --tw-bg-opacity: 1; background-color: hsl(var(--p) / var(--tw-bg-opaci=
-ty)); --tw-text-opacity: 1; color: hsl(var(--pc) / var(--tw-text-opacity));=
- }
-
-.btn-group > input[type=3D"radio"]:checked.btn:focus-visible, .btn-group > =
-.btn-active:focus-visible { outline-style: solid; outline-width: 2px; outli=
-ne-color: hsl(var(--p) / 1); }
+background-color: var(--fallback-n,oklch(var(--n)/var(--tw-bg-opacity))); -=
+-tw-bg-opacity: .2; color: var(--fallback-bc,oklch(var(--bc)/var(--tw-text-=
+opacity))); --tw-text-opacity: .2; }
 
 .btn:is(input[type=3D"checkbox"]:checked), .btn:is(input[type=3D"radio"]:ch=
-ecked) { --tw-border-opacity: 1; border-color: hsl(var(--p) / var(--tw-bord=
-er-opacity)); --tw-bg-opacity: 1; background-color: hsl(var(--p) / var(--tw=
--bg-opacity)); --tw-text-opacity: 1; color: hsl(var(--pc) / var(--tw-text-o=
-pacity)); }
+ecked) { --tw-border-opacity: 1; border-color: var(--fallback-p,oklch(var(-=
+-p)/var(--tw-border-opacity))); --tw-bg-opacity: 1; background-color: var(-=
+-fallback-p,oklch(var(--p)/var(--tw-bg-opacity))); --tw-text-opacity: 1; co=
+lor: var(--fallback-pc,oklch(var(--pc)/var(--tw-text-opacity))); }
 
 .btn:is(input[type=3D"checkbox"]:checked):focus-visible, .btn:is(input[type=
-=3D"radio"]:checked):focus-visible { outline-color: hsl(var(--p) / 1); }
+=3D"radio"]:checked):focus-visible { outline-color: var(--fallback-p,oklch(=
+var(--p)/1)); }
 
 @keyframes button-pop {=20
   0% { transform: scale(var(--btn-focus-scale, .98)); }
@@ -2687,8 +2955,8 @@ us: unset; border-start-end-radius: unset; border-end-start-radius: inherit=
 .card:focus-visible { outline: currentcolor solid 2px; outline-offset: 2px;=
  }
 
-.card.bordered { border-width: 1px; --tw-border-opacity: 1; border-color: h=
-sl(var(--b2) / var(--tw-border-opacity)); }
+.card.bordered { border-width: 1px; --tw-border-opacity: 1; border-color: v=
+ar(--fallback-b2,oklch(var(--b2)/var(--tw-border-opacity))); }
 
 .card.compact .card-body { padding: 1rem; font-size: 0.875rem; line-height:=
  1.25rem; }
@@ -2699,43 +2967,37 @@ sl(var(--b2) / var(--tw-border-opacity)); }
 .card.image-full :where(figure) { overflow: hidden; border-radius: inherit;=
  }
 
+.checkbox:focus { box-shadow: none; }
+
 .checkbox:focus-visible { outline-style: solid; outline-width: 2px; outline=
--offset: 2px; outline-color: hsl(var(--bc) / 1); }
+-offset: 2px; outline-color: var(--fallback-bc,oklch(var(--bc)/1)); }
 
 .checkbox:checked, .checkbox[checked=3D"true"], .checkbox[aria-checked=3D"t=
-rue"] { --tw-bg-opacity: 1; background-color: hsl(var(--bc) / var(--tw-bg-o=
-pacity)); background-repeat: no-repeat; animation: checkmark var(--animatio=
-n-input, .2s) ease-out; background-image: linear-gradient(-45deg,transparen=
-t 65%,hsl(var(--chkbg)) 65.99%),linear-gradient(45deg,transparent 75%,hsl(v=
-ar(--chkbg)) 75.99%),linear-gradient(-45deg,hsl(var(--chkbg)) 40%,transpare=
-nt 40.99%),linear-gradient(45deg,hsl(var(--chkbg)) 30%,hsl(var(--chkfg)) 30=
-.99%,hsl(var(--chkfg)) 40%,transparent 40.99%),linear-gradient(-45deg,hsl(v=
-ar(--chkfg)) 50%,hsl(var(--chkbg)) 50.99%); }
+rue"] { --tw-bg-opacity: 1; background-color: var(--fallback-bc,oklch(var(-=
+-bc)/var(--tw-bg-opacity))); background-repeat: no-repeat; animation: check=
+mark var(--animation-input, .2s) ease-out; background-image: linear-gradien=
+t(-45deg,transparent 65%,var(--chkbg) 65.99%),linear-gradient(45deg,transpa=
+rent 75%,var(--chkbg) 75.99%),linear-gradient(-45deg,var(--chkbg) 40%,trans=
+parent 40.99%),linear-gradient(45deg,var(--chkbg) 30%,var(--chkfg) 30.99%,v=
+ar(--chkfg) 40%,transparent 40.99%),linear-gradient(-45deg,var(--chkfg) 50%=
+,var(--chkbg) 50.99%); }
 
-.checkbox:indeterminate { --tw-bg-opacity: 1; background-color: hsl(var(--b=
-c) / var(--tw-bg-opacity)); background-repeat: no-repeat; animation: checkm=
-ark var(--animation-input, .2s) ease-out; background-image: linear-gradient=
-(90deg,transparent 80%,hsl(var(--chkbg)) 80%),linear-gradient(-90deg,transp=
-arent 80%,hsl(var(--chkbg)) 80%),linear-gradient(0deg,hsl(var(--chkbg)) 43%=
-,hsl(var(--chkfg)) 43%,hsl(var(--chkfg)) 57%,hsl(var(--chkbg)) 57%); }
+.checkbox:indeterminate { --tw-bg-opacity: 1; background-color: var(--fallb=
+ack-bc,oklch(var(--bc)/var(--tw-bg-opacity))); background-repeat: no-repeat=
+; animation: checkmark var(--animation-input, .2s) ease-out; background-ima=
+ge: linear-gradient(90deg,transparent 80%,var(--chkbg) 80%),linear-gradient=
+(-90deg,transparent 80%,var(--chkbg) 80%),linear-gradient(0deg,var(--chkbg)=
+ 43%,var(--chkfg) 43%,var(--chkfg) 57%,var(--chkbg) 57%); }
 
 .checkbox:disabled { cursor: not-allowed; border-color: transparent; --tw-b=
-g-opacity: 1; background-color: hsl(var(--bc) / var(--tw-bg-opacity)); opac=
-ity: 0.2; }
+g-opacity: 1; background-color: var(--fallback-bc,oklch(var(--bc)/var(--tw-=
+bg-opacity))); opacity: 0.2; }
 
 @keyframes checkmark {=20
   0% { background-position-y: 5px; }
   50% { background-position-y: -2px; }
   100% { background-position-y: 0px; }
 }
-
-[dir=3D"rtl"] .checkbox:checked, [dir=3D"rtl"] .checkbox[checked=3D"true"],=
- [dir=3D"rtl"] .checkbox[aria-checked=3D"true"] { background-image: linear-=
-gradient(45deg,transparent 65%,hsl(var(--chkbg)) 65.99%),linear-gradient(-4=
-5deg,transparent 75%,hsl(var(--chkbg)) 75.99%),linear-gradient(45deg,hsl(va=
-r(--chkbg)) 40%,transparent 40.99%),linear-gradient(-45deg,hsl(var(--chkbg)=
-) 30%,hsl(var(--chkfg)) 30.99%,hsl(var(--chkfg)) 40%,transparent 40.99%),li=
-near-gradient(45deg,hsl(var(--chkfg)) 50%,hsl(var(--chkbg)) 50.99%); }
 
 details.collapse { width: 100%; }
 
@@ -2745,12 +3007,12 @@ nsparent solid 2px; outline-offset: 2px; }
 details.collapse summary::-webkit-details-marker { display: none; }
 
 .collapse:focus-visible { outline-style: solid; outline-width: 2px; outline=
--offset: 2px; outline-color: hsl(var(--bc) / 1); }
+-offset: 2px; outline-color: var(--fallback-bc,oklch(var(--bc)/1)); }
 
 .collapse:has(.collapse-title:focus-visible), .collapse:has(> input[type=3D=
 "checkbox"]:focus-visible), .collapse:has(> input[type=3D"radio"]:focus-vis=
 ible) { outline-style: solid; outline-width: 2px; outline-offset: 2px; outl=
-ine-color: hsl(var(--bc) / 1); }
+ine-color: var(--fallback-bc,oklch(var(--bc)/1)); }
 
 .collapse-arrow > .collapse-title::after { position: absolute; display: blo=
 ck; height: 0.5rem; width: 0.5rem; --tw-translate-y: -100%; --tw-rotate: 45=
@@ -2758,16 +3020,13 @@ deg; transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rota=
 te(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(=
 var(--tw-scale-x)) scaleY(var(--tw-scale-y)); transition-property: all; tra=
 nsition-timing-function: cubic-bezier(0, 0, 0.2, 1); transition-duration: 0=
-.2s; top: 50%; right: 1.4rem; content: ""; transform-origin: 75% 75%; box-s=
-hadow: 2px 2px; pointer-events: none; }
-
-[dir=3D"rtl"] .collapse-arrow > .collapse-title::after { --tw-rotate: -45de=
-g; }
+.2s; top: 50%; inset-inline-end: 1.4rem; content: ""; transform-origin: 75%=
+ 75%; box-shadow: 2px 2px; pointer-events: none; }
 
 .collapse-plus > .collapse-title::after { position: absolute; display: bloc=
 k; height: 0.5rem; width: 0.5rem; transition-property: all; transition-timi=
 ng-function: cubic-bezier(0, 0, 0.2, 1); transition-duration: 0.3s; top: 0.=
-9rem; right: 1.4rem; content: "+"; pointer-events: none; }
+9rem; inset-inline-end: 1.4rem; content: "+"; pointer-events: none; }
 
 .collapse:not(.collapse-open):not(.collapse-close) > input[type=3D"checkbox=
 "], .collapse:not(.collapse-open):not(.collapse-close) > input[type=3D"radi=
@@ -2783,8 +3042,9 @@ llapse-title { cursor: pointer; }
 =3D"radio"]) { z-index: 1; }
 
 .collapse-title, :where(.collapse > input[type=3D"checkbox"]), :where(.coll=
-apse > input[type=3D"radio"]) { width: 100%; padding: 1rem 3rem 1rem 1rem; =
-min-height: 3.75rem; transition: background-color 0.2s ease-out 0s; }
+apse > input[type=3D"radio"]) { width: 100%; padding: 1rem; padding-inline-=
+end: 3rem; min-height: 3.75rem; transition: background-color 0.2s ease-out =
+0s; }
 
 .collapse[open] > :where(.collapse-content), .collapse-open > :where(.colla=
 pse-content), .collapse:focus:not(.collapse-close) > :where(.collapse-conte=
@@ -2803,12 +3063,6 @@ t[type=3D"checkbox"]:checked ~ .collapse-title::after, .collapse-arrow:not(=
 -skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw=
 -scale-y)); }
 
-[dir=3D"rtl"] .collapse[open].collapse-arrow > .collapse-title::after, [dir=
-=3D"rtl"] .collapse-open.collapse-arrow > .collapse-title::after, [dir=3D"r=
-tl"] .collapse-arrow:focus:not(.collapse-close) .collapse-title::after, [di=
-r=3D"rtl"] .collapse-arrow:not(.collapse-close) input[type=3D"checkbox"]:ch=
-ecked ~ .collapse-title::after { --tw-rotate: 135deg; }
-
 .collapse[open].collapse-plus > .collapse-title::after, .collapse-open.coll=
 apse-plus > .collapse-title::after, .collapse-plus:focus:not(.collapse-clos=
 e) > .collapse-title::after, .collapse-plus:not(.collapse-close) > input[ty=
@@ -2816,32 +3070,31 @@ pe=3D"checkbox"]:checked ~ .collapse-title::after, .collapse-plus:not(.coll=
 apse-close) > input[type=3D"radio"]:checked ~ .collapse-title::after { cont=
 ent: "=E2=88=92"; }
 
-.divider::before { background-color: hsl(var(--bc) / var(--tw-bg-opacity));=
- --tw-bg-opacity: .1; }
-
-.divider::after { background-color: hsl(var(--bc) / var(--tw-bg-opacity)); =
---tw-bg-opacity: .1; }
-
 .divider:not(:empty) { gap: 1rem; }
 
 .input input:focus { outline: transparent solid 2px; outline-offset: 2px; }
 
 .input[list]::-webkit-calendar-picker-indicator { line-height: 1em; }
 
-.input:focus, .input:focus-within { outline-style: solid; outline-width: 2p=
-x; outline-offset: 2px; outline-color: hsl(var(--bc) / .2); }
+.input-bordered { border-color: var(--fallback-bc,oklch(var(--bc)/.2)); }
+
+.input:focus, .input:focus-within { box-shadow: none; border-color: var(--f=
+allback-bc,oklch(var(--bc)/.2)); outline-style: solid; outline-width: 2px; =
+outline-offset: 2px; outline-color: var(--fallback-bc,oklch(var(--bc)/.2));=
+ }
 
 .input-disabled, .input:disabled, .input[disabled] { cursor: not-allowed; -=
--tw-border-opacity: 1; border-color: hsl(var(--b2) / var(--tw-border-opacit=
-y)); --tw-bg-opacity: 1; background-color: hsl(var(--b2) / var(--tw-bg-opac=
-ity)); --tw-text-opacity: .2; }
+-tw-border-opacity: 1; border-color: var(--fallback-b2,oklch(var(--b2)/var(=
+--tw-border-opacity))); --tw-bg-opacity: 1; background-color: var(--fallbac=
+k-b2,oklch(var(--b2)/var(--tw-bg-opacity))); color: var(--fallback-bc,oklch=
+(var(--bc)/.4)); }
 
 .input-disabled::placeholder, .input:disabled::placeholder, .input[disabled=
-]::placeholder { color: hsl(var(--bc) / var(--tw-placeholder-opacity)); --t=
-w-placeholder-opacity: .2; }
+]::placeholder { color: var(--fallback-bc,oklch(var(--bc)/var(--tw-placehol=
+der-opacity))); --tw-placeholder-opacity: .2; }
 
 .join > :where(:not(:first-child)) { margin-top: 0px; margin-bottom: 0px; m=
-argin-left: -1px; }
+argin-inline-start: -1px; }
 
 .link:focus { outline: transparent solid 2px; outline-offset: 2px; }
 
@@ -2853,20 +3106,20 @@ argin-left: -1px; }
 'M100 0C20 0 0 20 0 100s20 100 100 100 100-20 100-100S180 0 100 0Z'/%3e%3c/=
 svg%3e"); }
 
-:where(.menu li:empty) { background-color: hsl(var(--bc) / .1); margin: 0.5=
-rem 1rem; height: 1px; }
+:where(.menu li:empty) { background-color: var(--fallback-bc,oklch(var(--bc=
+)/.1)); margin: 0.5rem 1rem; height: 1px; }
 
-.menu :where(li ul)::before { position: absolute; bottom: 0.75rem; left: 0p=
-x; top: 0.75rem; width: 1px; background-color: hsl(var(--bc) / .1); content=
-: ""; }
+.menu :where(li ul)::before { position: absolute; bottom: 0.75rem; inset-in=
+line-start: 0px; top: 0.75rem; width: 1px; background-color: var(--fallback=
+-bc,oklch(var(--bc)/.1)); content: ""; }
 
 .menu :where(li:not(.menu-title) > :not(ul):not(details):not(.menu-title)),=
- .menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) { p=
-adding: 0.5rem 1rem; text-align: left; transition-property: color, backgrou=
-nd-color, border-color, text-decoration-color, fill, stroke, opacity, box-s=
-hadow, transform, filter, backdrop-filter, -webkit-backdrop-filter; transit=
-ion-timing-function: cubic-bezier(0, 0, 0.2, 1); transition-duration: 0.2s;=
- border-radius: var(--rounded-btn, .5rem); text-wrap: balance; }
+ .menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) { b=
+order-radius: var(--rounded-btn, .5rem); padding: 0.5rem 1rem; text-align: =
+start; transition-property: color, background-color, border-color, text-dec=
+oration-color, fill, stroke, opacity, box-shadow, transform, filter, backdr=
+op-filter, -webkit-backdrop-filter; transition-timing-function: cubic-bezie=
+r(0, 0, 0.2, 1); transition-duration: 0.2s; text-wrap: balance; }
 
 :where(.menu li:not(.menu-title):not(.disabled) > :not(ul):not(details):not=
 (.menu-title)):not(summary):not(.active).focus, :where(.menu li:not(.menu-t=
@@ -2878,15 +3131,15 @@ enu-title)):not(summary):not(.active).focus, :where(.menu li:not(.menu-titl=
 e):not(.disabled) > details > summary:not(.menu-title)):not(summary):not(.a=
 ctive):focus, :where(.menu li:not(.menu-title):not(.disabled) > details > s=
 ummary:not(.menu-title)):is(summary):not(.active):focus-visible { cursor: p=
-ointer; background-color: hsl(var(--bc) / .1); --tw-text-opacity: 1; color:=
- hsl(var(--bc) / var(--tw-text-opacity)); outline: transparent solid 2px; o=
-utline-offset: 2px; }
+ointer; background-color: var(--fallback-bc,oklch(var(--bc)/.1)); --tw-text=
+-opacity: 1; color: var(--fallback-bc,oklch(var(--bc)/var(--tw-text-opacity=
+))); outline: transparent solid 2px; outline-offset: 2px; }
 
 .menu li > :not(ul):not(.menu-title):not(details):active, .menu li > :not(u=
 l):not(.menu-title):not(details).active, .menu li > details > summary:activ=
-e { --tw-bg-opacity: 1; background-color: hsl(var(--n) / var(--tw-bg-opacit=
-y)); --tw-text-opacity: 1; color: hsl(var(--nc) / var(--tw-text-opacity)); =
-}
+e { --tw-bg-opacity: 1; background-color: var(--fallback-n,oklch(var(--n)/v=
+ar(--tw-bg-opacity))); --tw-text-opacity: 1; color: var(--fallback-nc,oklch=
+(var(--nc)/var(--tw-text-opacity))); }
 
 .menu :where(li > details > summary)::-webkit-details-marker { display: non=
 e; }
@@ -2908,8 +3161,8 @@ gin-top: 0px; }
 .mockup-browser .mockup-browser-toolbar .input { position: relative; margin=
 -left: auto; margin-right: auto; display: block; height: 1.75rem; width: 24=
 rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; --tw-b=
-g-opacity: 1; background-color: hsl(var(--b2) / var(--tw-bg-opacity)); padd=
-ing-left: 2rem; }
+g-opacity: 1; background-color: var(--fallback-b2,oklch(var(--b2)/var(--tw-=
+bg-opacity))); padding-left: 2rem; direction: ltr; }
 
 .mockup-browser .mockup-browser-toolbar .input::before { content: ""; posit=
 ion: absolute; left: 0.5rem; top: 50%; aspect-ratio: 1 / 1; height: 0.75rem=
@@ -2952,12 +3205,12 @@ rem * calc(1 - var(--tw-space-x-reverse))); }
 }
 
 @keyframes radiomark {=20
-  0% { box-shadow: 0 0 0 12px hsl(var(--b1)) inset,0 0 0 12px hsl(var(--b1)=
-) inset; }
-  50% { box-shadow: 0 0 0 3px hsl(var(--b1)) inset,0 0 0 3px hsl(var(--b1))=
- inset; }
-  100% { box-shadow: 0 0 0 4px hsl(var(--b1)) inset,0 0 0 4px hsl(var(--b1)=
-) inset; }
+  0% { box-shadow: 0 0 0 12px var(--fallback-b1,oklch(var(--b1)/1)) inset,0=
+ 0 0 12px var(--fallback-b1,oklch(var(--b1)/1)) inset; }
+  50% { box-shadow: 0 0 0 3px var(--fallback-b1,oklch(var(--b1)/1)) inset,0=
+ 0 0 3px var(--fallback-b1,oklch(var(--b1)/1)) inset; }
+  100% { box-shadow: 0 0 0 4px var(--fallback-b1,oklch(var(--b1)/1)) inset,=
+0 0 0 4px var(--fallback-b1,oklch(var(--b1)/1)) inset; }
 }
 
 @keyframes rating-pop {=20
@@ -2966,11 +3219,19 @@ rem * calc(1 - var(--tw-space-x-reverse))); }
   100% { transform: translateY(0px); }
 }
 
+@keyframes skeleton {=20
+  0% { background-position: 150% center; }
+  100% { background-position: -50% center; }
+}
+
 :where(.stats) > :not([hidden]) ~ :not([hidden]) { --tw-divide-x-reverse: 0=
 ; border-right-width: calc(1px * var(--tw-divide-x-reverse)); border-left-w=
 idth: calc(1px * calc(1 - var(--tw-divide-x-reverse))); --tw-divide-y-rever=
 se: 0; border-top-width: calc(0px * calc(1 - var(--tw-divide-y-reverse))); =
 border-bottom-width: calc(0px * var(--tw-divide-y-reverse)); }
+
+:is([dir=3D"rtl"] .stats > :not([hidden]) ~ :not([hidden])) { --tw-divide-x=
+-reverse: 1; }
 
 .swap-rotate .swap-on, .swap-rotate .swap-indeterminate, .swap-rotate input=
 :indeterminate ~ .swap-on { --tw-rotate: 45deg; transform: translate(var(--=
@@ -3012,8 +3273,8 @@ Y(0deg); }
 .badge-lg { height: 1.5rem; font-size: 1rem; line-height: 1.5rem; padding-l=
 eft: 0.688rem; padding-right: 0.688rem; }
 
-.btn-sm { height: 2rem; padding-left: 0.75rem; padding-right: 0.75rem; min-=
-height: 2rem; font-size: 0.875rem; }
+.btn-sm { height: 2rem; min-height: 2rem; padding-left: 0.75rem; padding-ri=
+ght: 0.75rem; font-size: 0.875rem; }
 
 .btn-square:where(.btn-sm) { height: 2rem; width: 2rem; padding: 0px; }
 
@@ -3032,26 +3293,26 @@ px; padding: 0px; }
 .join.join-vertical { flex-direction: column; }
 
 .join.join-vertical .join-item:first-child:not(:last-child), .join.join-ver=
-tical :first-child:not(:last-child) .join-item { border-bottom-left-radius:=
- 0px; border-bottom-right-radius: 0px; border-top-left-radius: inherit; bor=
-der-top-right-radius: inherit; }
+tical :first-child:not(:last-child) .join-item { border-end-start-radius: 0=
+px; border-end-end-radius: 0px; border-start-start-radius: inherit; border-=
+start-end-radius: inherit; }
 
 .join.join-vertical .join-item:last-child:not(:first-child), .join.join-ver=
-tical :last-child:not(:first-child) .join-item { border-top-left-radius: 0p=
-x; border-top-right-radius: 0px; border-bottom-left-radius: inherit; border=
--bottom-right-radius: inherit; }
+tical :last-child:not(:first-child) .join-item { border-start-start-radius:=
+ 0px; border-start-end-radius: 0px; border-end-start-radius: inherit; borde=
+r-end-end-radius: inherit; }
 
 .join.join-horizontal { flex-direction: row; }
 
 .join.join-horizontal .join-item:first-child:not(:last-child), .join.join-h=
-orizontal :first-child:not(:last-child) .join-item { border-bottom-right-ra=
-dius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: inherit=
-; border-top-left-radius: inherit; }
+orizontal :first-child:not(:last-child) .join-item { border-end-end-radius:=
+ 0px; border-start-end-radius: 0px; border-end-start-radius: inherit; borde=
+r-start-start-radius: inherit; }
 
 .join.join-horizontal .join-item:last-child:not(:first-child), .join.join-h=
-orizontal :last-child:not(:first-child) .join-item { border-bottom-left-rad=
-ius: 0px; border-top-left-radius: 0px; border-bottom-right-radius: inherit;=
- border-top-right-radius: inherit; }
+orizontal :last-child:not(:first-child) .join-item { border-end-start-radiu=
+s: 0px; border-start-start-radius: 0px; border-end-end-radius: inherit; bor=
+der-start-end-radius: inherit; }
 
 .menu-horizontal { display: inline-flex; flex-direction: row; }
 
@@ -3075,49 +3336,16 @@ uto; left: 50%; right: auto; bottom: var(--tooltip-offset); }
 right: var(--tooltip-offset); bottom: auto; }
 
 .avatar.online::before { content: ""; position: absolute; z-index: 10; disp=
-lay: block; border-radius: 9999px; --tw-bg-opacity: 1; background-color: hs=
-l(var(--su) / var(--tw-bg-opacity)); outline-style: solid; outline-width: 2=
-px; outline-color: hsl(var(--b1) / 1); width: 15%; height: 15%; top: 7%; ri=
-ght: 7%; }
+lay: block; border-radius: 9999px; --tw-bg-opacity: 1; background-color: va=
+r(--fallback-su,oklch(var(--su)/var(--tw-bg-opacity))); outline-style: soli=
+d; outline-width: 2px; outline-color: var(--fallback-b1,oklch(var(--b1)/1))=
+; width: 15%; height: 15%; top: 7%; right: 7%; }
 
 .avatar.offline::before { content: ""; position: absolute; z-index: 10; dis=
-play: block; border-radius: 9999px; --tw-bg-opacity: 1; background-color: h=
-sl(var(--b3) / var(--tw-bg-opacity)); outline-style: solid; outline-width: =
-2px; outline-color: hsl(var(--b1) / 1); width: 15%; height: 15%; top: 7%; r=
-ight: 7%; }
-
-.btn-group .btn:not(:first-child):not(:last-child) { border-radius: 0px; }
-
-.btn-group .btn:first-child:not(:last-child) { margin-left: -1px; margin-to=
-p: 0px; border-top-left-radius: var(--rounded-btn, .5rem); border-top-right=
--radius: 0px; border-bottom-left-radius: var(--rounded-btn, .5rem); border-=
-bottom-right-radius: 0px; }
-
-.btn-group .btn:last-child:not(:first-child) { border-top-left-radius: 0px;=
- border-top-right-radius: var(--rounded-btn, .5rem); border-bottom-left-rad=
-ius: 0px; border-bottom-right-radius: var(--rounded-btn, .5rem); }
-
-.btn-group-horizontal .btn:not(:first-child):not(:last-child) { border-radi=
-us: 0px; }
-
-.btn-group-horizontal .btn:first-child:not(:last-child) { margin-left: -1px=
-; margin-top: 0px; border-top-left-radius: var(--rounded-btn, .5rem); borde=
-r-top-right-radius: 0px; border-bottom-left-radius: var(--rounded-btn, .5re=
-m); border-bottom-right-radius: 0px; }
-
-.btn-group-horizontal .btn:last-child:not(:first-child) { border-top-left-r=
-adius: 0px; border-top-right-radius: var(--rounded-btn, .5rem); border-bott=
-om-left-radius: 0px; border-bottom-right-radius: var(--rounded-btn, .5rem);=
- }
-
-.btn-group-vertical .btn:first-child:not(:last-child) { margin-left: 0px; m=
-argin-top: -1px; border-top-left-radius: var(--rounded-btn, .5rem); border-=
-top-right-radius: var(--rounded-btn, .5rem); border-bottom-left-radius: 0px=
-; border-bottom-right-radius: 0px; }
-
-.btn-group-vertical .btn:last-child:not(:first-child) { border-top-left-rad=
-ius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: var(--ro=
-unded-btn, .5rem); border-bottom-right-radius: var(--rounded-btn, .5rem); }
+play: block; border-radius: 9999px; --tw-bg-opacity: 1; background-color: v=
+ar(--fallback-b3,oklch(var(--b3)/var(--tw-bg-opacity))); outline-style: sol=
+id; outline-width: 2px; outline-color: var(--fallback-b1,oklch(var(--b1)/1)=
+); width: 15%; height: 15%; top: 7%; right: 7%; }
 
 .card-compact .card-body { padding: 1rem; font-size: 0.875rem; line-height:=
  1.25rem; }
@@ -3133,46 +3361,46 @@ em; line-height: 1.5rem; }
 -right: 0px; margin-top: -1px; }
 
 .join.join-horizontal > :where(:not(:first-child)) { margin-top: 0px; margi=
-n-bottom: 0px; margin-left: -1px; }
+n-bottom: 0px; margin-inline-start: -1px; }
 
-.menu-horizontal > li:not(.menu-title) > details > ul { margin-left: 0px; m=
-argin-top: 1rem; padding-top: 0.5rem; padding-bottom: 0.5rem; padding-right=
-: 0.5rem; }
+.menu-horizontal > li:not(.menu-title) > details > ul { margin-inline-start=
+: 0px; margin-top: 1rem; padding-top: 0.5rem; padding-bottom: 0.5rem; paddi=
+ng-inline-end: 0.5rem; }
 
 .menu-horizontal > li > details > ul::before { content: none; }
 
-:where(.menu-horizontal > li:not(.menu-title) > details > ul) { --tw-bg-opa=
-city: 1; background-color: hsl(var(--b1) / var(--tw-bg-opacity)); --tw-shad=
-ow: 0 20px 25px -5px rgb(0 0 0 / .1), 0 8px 10px -6px rgb(0 0 0 / .1); --tw=
--shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px v=
-ar(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),=
-var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow); border-radius: var(--rou=
-nded-box, 1rem); }
+:where(.menu-horizontal > li:not(.menu-title) > details > ul) { border-radi=
+us: var(--rounded-box, 1rem); --tw-bg-opacity: 1; background-color: var(--f=
+allback-b1,oklch(var(--b1)/var(--tw-bg-opacity))); --tw-shadow: 0 20px 25px=
+ -5px rgb(0 0 0 / .1), 0 8px 10px -6px rgb(0 0 0 / .1); --tw-shadow-colored=
+: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-=
+color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-s=
+hadow, 0 0 #0000),var(--tw-shadow); }
 
 .modal-top :where(.modal-box) { width: 100%; max-width: none; --tw-translat=
 e-y: -2.5rem; --tw-scale-x: 1; --tw-scale-y: 1; transform: translate(var(--=
 tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--=
 tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--=
-tw-scale-y)); border-top-left-radius: 0px; border-top-right-radius: 0px; bo=
-rder-bottom-left-radius: var(--rounded-box, 1rem); border-bottom-right-radi=
-us: var(--rounded-box, 1rem); }
+tw-scale-y)); border-bottom-right-radius: var(--rounded-box, 1rem); border-=
+bottom-left-radius: var(--rounded-box, 1rem); border-top-left-radius: 0px; =
+border-top-right-radius: 0px; }
 
 .modal-middle :where(.modal-box) { width: 91.6667%; max-width: 32rem; --tw-=
 translate-y: 0px; --tw-scale-x: .9; --tw-scale-y: .9; transform: translate(=
 var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(=
 var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(=
 var(--tw-scale-y)); border-top-left-radius: var(--rounded-box, 1rem); borde=
-r-top-right-radius: var(--rounded-box, 1rem); border-bottom-left-radius: va=
-r(--rounded-box, 1rem); border-bottom-right-radius: var(--rounded-box, 1rem=
+r-top-right-radius: var(--rounded-box, 1rem); border-bottom-right-radius: v=
+ar(--rounded-box, 1rem); border-bottom-left-radius: var(--rounded-box, 1rem=
 ); }
 
 .modal-bottom :where(.modal-box) { width: 100%; max-width: none; --tw-trans=
 late-y: 2.5rem; --tw-scale-x: 1; --tw-scale-y: 1; transform: translate(var(=
 --tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(=
 --tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(=
---tw-scale-y)); border-bottom-right-radius: 0px; border-bottom-left-radius:=
- 0px; border-top-left-radius: var(--rounded-box, 1rem); border-top-right-ra=
-dius: var(--rounded-box, 1rem); }
+--tw-scale-y)); border-top-left-radius: var(--rounded-box, 1rem); border-to=
+p-right-radius: var(--rounded-box, 1rem); border-bottom-right-radius: 0px; =
+border-bottom-left-radius: 0px; }
 
 .stats-vertical > :not([hidden]) ~ :not([hidden]) { --tw-divide-x-reverse: =
 0; border-right-width: calc(0px * var(--tw-divide-x-reverse)); border-left-=
@@ -3183,9 +3411,9 @@ rse: 0; border-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse)));=
 .stats-vertical { overflow-y: auto; }
 
 .tooltip { position: relative; display: inline-block; text-align: center; -=
--tooltip-tail: .1875rem; --tooltip-color: hsl(var(--n)); --tooltip-text-col=
-or: hsl(var(--nc)); --tooltip-tail-offset: calc(100% + .0625rem - var(--too=
-ltip-tail)); }
+-tooltip-tail: .1875rem; --tooltip-color: var(--fallback-n,oklch(var(--n)/1=
+)); --tooltip-text-color: var(--fallback-nc,oklch(var(--nc)/1)); --tooltip-=
+tail-offset: calc(100% + .0625rem - var(--tooltip-tail)); }
 
 .tooltip::before, .tooltip::after { opacity: 0; transition-property: color,=
  background-color, border-color, text-decoration-color, fill, stroke, opaci=
@@ -3243,6 +3471,8 @@ t: calc(var(--tooltip-tail-offset) + .0625rem); bottom: auto; }
 .my-1 { margin-top: 0.25rem; margin-bottom: 0.25rem; }
 
 .my-14 { margin-top: 3.5rem; margin-bottom: 3.5rem; }
+
+.my-3 { margin-top: 0.75rem; margin-bottom: 0.75rem; }
 
 .my-4 { margin-top: 1rem; margin-bottom: 1rem; }
 
@@ -3437,8 +3667,8 @@ var(--tw-bg-opacity)); }
 .bg-indigo-200 { --tw-bg-opacity: 1; background-color: rgb(199 210 254 / va=
 r(--tw-bg-opacity)); }
 
-.bg-neutral { --tw-bg-opacity: 1; background-color: hsl(var(--n) / var(--tw=
--bg-opacity)); }
+.bg-neutral { --tw-bg-opacity: 1; background-color: var(--fallback-n,oklch(=
+var(--n)/var(--tw-bg-opacity))); }
 
 .bg-pink-200 { --tw-bg-opacity: 1; background-color: rgb(251 207 232 / var(=
 --tw-bg-opacity)); }
@@ -3518,8 +3748,8 @@ r(--tw-bg-opacity)); }
 
 .leading-none { line-height: 1; }
 
-.text-accent { --tw-text-opacity: 1; color: hsl(var(--a) / var(--tw-text-op=
-acity)); }
+.text-accent { --tw-text-opacity: 1; color: var(--fallback-a,oklch(var(--a)=
+/var(--tw-text-opacity))); }
 
 .text-gray-400 { --tw-text-opacity: 1; color: rgb(156 163 175 / var(--tw-te=
 xt-opacity)); }
@@ -3533,14 +3763,14 @@ opacity)); }
 .text-gray-900 { --tw-text-opacity: 1; color: rgb(17 24 39 / var(--tw-text-=
 opacity)); }
 
-.text-neutral-content { --tw-text-opacity: 1; color: hsl(var(--nc) / var(--=
-tw-text-opacity)); }
+.text-neutral-content { --tw-text-opacity: 1; color: var(--fallback-nc,oklc=
+h(var(--nc)/var(--tw-text-opacity))); }
 
-.text-primary { --tw-text-opacity: 1; color: hsl(var(--p) / var(--tw-text-o=
-pacity)); }
+.text-primary { --tw-text-opacity: 1; color: var(--fallback-p,oklch(var(--p=
+)/var(--tw-text-opacity))); }
 
-.text-secondary { --tw-text-opacity: 1; color: hsl(var(--s) / var(--tw-text=
--opacity)); }
+.text-secondary { --tw-text-opacity: 1; color: var(--fallback-s,oklch(var(-=
+-s)/var(--tw-text-opacity))); }
 
 .shadow { --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / .1), 0 1px 2px -1px rgb(0 0 =
 0 / .1); --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px=
@@ -3575,8 +3805,8 @@ adow, 0 0 #0000); }
 
 .ring-backend-500\/10 { --tw-ring-color: rgb(249 103 22 / .1); }
 
-.ring-base-200 { --tw-ring-opacity: 1; --tw-ring-color: hsl(var(--b2) / var=
-(--tw-ring-opacity)); }
+.ring-base-200 { --tw-ring-opacity: 1; --tw-ring-color: var(--fallback-b2,o=
+klch(var(--b2)/var(--tw-ring-opacity))); }
 
 .ring-data-500\/10 { --tw-ring-color: rgb(120 158 191 / .1); }
 
@@ -3602,16 +3832,16 @@ ive; }
   .sm\:modal-middle { place-items: center; }
   .sm\:tooltip-left::before { transform: translateY(-50%); top: 50%; left: =
 auto; right: var(--tooltip-offset); bottom: auto; }
-  .sm\:menu-vertical > li:not(.menu-title) > details > ul { margin-left: 1r=
-em; margin-top: 0px; padding-top: 0px; padding-bottom: 0px; padding-right: =
-0px; }
+  .sm\:menu-vertical > li:not(.menu-title) > details > ul { margin-inline-s=
+tart: 1rem; margin-top: 0px; padding-top: 0px; padding-bottom: 0px; padding=
+-inline-end: 0px; }
   .sm\:modal-middle :where(.modal-box) { width: 91.6667%; max-width: 32rem;=
  --tw-translate-y: 0px; --tw-scale-x: .9; --tw-scale-y: .9; transform: tran=
 slate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate))=
  skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) s=
 caleY(var(--tw-scale-y)); border-top-left-radius: var(--rounded-box, 1rem);=
- border-top-right-radius: var(--rounded-box, 1rem); border-bottom-left-radi=
-us: var(--rounded-box, 1rem); border-bottom-right-radius: var(--rounded-box=
+ border-top-right-radius: var(--rounded-box, 1rem); border-bottom-right-rad=
+ius: var(--rounded-box, 1rem); border-bottom-left-radius: var(--rounded-box=
 , 1rem); }
   .sm\:tooltip-left::after { transform: translateY(-50%); border-color: tra=
 nsparent transparent transparent var(--tooltip-color); top: 50%; left: auto=
@@ -3652,11 +3882,11 @@ rgb(21 128 61 / var(--tw-border-opacity)); }
 :is(.dark .dark\:bg-backend-800) { --tw-bg-opacity: 1; background-color: rg=
 b(154 45 18 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-base-100) { --tw-bg-opacity: 1; background-color: hsl(v=
-ar(--b1) / var(--tw-bg-opacity)); }
+:is(.dark .dark\:bg-base-100) { --tw-bg-opacity: 1; background-color: var(-=
+-fallback-b1,oklch(var(--b1)/var(--tw-bg-opacity))); }
 
-:is(.dark .dark\:bg-base-300) { --tw-bg-opacity: 1; background-color: hsl(v=
-ar(--b3) / var(--tw-bg-opacity)); }
+:is(.dark .dark\:bg-base-300) { --tw-bg-opacity: 1; background-color: var(-=
+-fallback-b3,oklch(var(--b3)/var(--tw-bg-opacity))); }
 
 :is(.dark .dark\:bg-blue-800) { --tw-bg-opacity: 1; background-color: rgb(3=
 0 64 175 / var(--tw-bg-opacity)); }
@@ -3736,61 +3966,61 @@ b(38 38 38 / var(--tw-bg-opacity)); }
   .sm\:pb-2 { padding-bottom: 0.5rem; }
   .sm\:text-left { text-align: left; }
 }
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/HeadTags.40ce0576.css
+Content-Location: https://cv.bnei.dev/_app/immutable/assets/HeadTags.ab8afc07.css
 
 @charset "utf-8";
 
-.none.svelte-1e50scj { --tw-ring-opacity: 1; --tw-ring-color: hsl(var(--b2)=
- / var(--tw-ring-opacity)); }
+.none.svelte-1cx5vnw { --tw-ring-opacity: 1; --tw-ring-color: var(--fallbac=
+k-b2,oklch(var(--b2)/var(--tw-ring-opacity))); }
 
-.svelte-1e50scj:is(.dark .none) { --tw-ring-opacity: 1; --tw-ring-color: rg=
+.svelte-1cx5vnw:is(.dark .none) { --tw-ring-opacity: 1; --tw-ring-color: rg=
 b(107 114 128 / var(--tw-ring-opacity)); }
 
-.gray.svelte-1e50scj { --tw-ring-color: rgb(107 114 128 / .1); }
+.gray.svelte-1cx5vnw { --tw-ring-color: rgb(107 114 128 / .1); }
 
-.red.svelte-1e50scj { --tw-bg-opacity: 1; background-color: rgb(254 202 202=
+.red.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(254 202 202=
  / var(--tw-bg-opacity)); --tw-ring-color: rgb(239 68 68 / .1); }
 
-.svelte-1e50scj:is(.dark .red) { --tw-bg-opacity: 1; background-color: rgb(=
+.svelte-1cx5vnw:is(.dark .red) { --tw-bg-opacity: 1; background-color: rgb(=
 153 27 27 / var(--tw-bg-opacity)); }
 
-.yellow.svelte-1e50scj { --tw-bg-opacity: 1; background-color: rgb(254 240 =
+.yellow.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(254 240 =
 138 / var(--tw-bg-opacity)); --tw-ring-color: rgb(234 179 8 / .1); }
 
-.svelte-1e50scj:is(.dark .yellow) { --tw-bg-opacity: 1; background-color: r=
+.svelte-1cx5vnw:is(.dark .yellow) { --tw-bg-opacity: 1; background-color: r=
 gb(133 77 14 / var(--tw-bg-opacity)); }
 
-.green.svelte-1e50scj { --tw-bg-opacity: 1; background-color: rgb(187 247 2=
+.green.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(187 247 2=
 08 / var(--tw-bg-opacity)); --tw-ring-color: rgb(34 197 94 / .1); }
 
-.svelte-1e50scj:is(.dark .green) { --tw-bg-opacity: 1; background-color: rg=
+.svelte-1cx5vnw:is(.dark .green) { --tw-bg-opacity: 1; background-color: rg=
 b(22 101 52 / var(--tw-bg-opacity)); }
 
-.blue.svelte-1e50scj { --tw-bg-opacity: 1; background-color: rgb(191 219 25=
+.blue.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(191 219 25=
 4 / var(--tw-bg-opacity)); --tw-ring-color: rgb(59 130 246 / .1); }
 
-.svelte-1e50scj:is(.dark .blue) { --tw-bg-opacity: 1; background-color: rgb=
+.svelte-1cx5vnw:is(.dark .blue) { --tw-bg-opacity: 1; background-color: rgb=
 (30 64 175 / var(--tw-bg-opacity)); }
 
-.indigo.svelte-1e50scj { --tw-bg-opacity: 1; background-color: rgb(199 210 =
+.indigo.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(199 210 =
 254 / var(--tw-bg-opacity)); --tw-ring-color: rgb(99 102 241 / .1); }
 
-.svelte-1e50scj:is(.dark .indigo) { --tw-bg-opacity: 1; background-color: r=
+.svelte-1cx5vnw:is(.dark .indigo) { --tw-bg-opacity: 1; background-color: r=
 gb(55 48 163 / var(--tw-bg-opacity)); }
 
-.purple.svelte-1e50scj { --tw-bg-opacity: 1; background-color: rgb(233 213 =
+.purple.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(233 213 =
 255 / var(--tw-bg-opacity)); --tw-ring-color: rgb(168 85 247 / .1); }
 
-.svelte-1e50scj:is(.dark .purple) { --tw-bg-opacity: 1; background-color: r=
+.svelte-1cx5vnw:is(.dark .purple) { --tw-bg-opacity: 1; background-color: r=
 gb(107 33 168 / var(--tw-bg-opacity)); }
 
-.pink.svelte-1e50scj { --tw-bg-opacity: 1; background-color: rgb(251 207 23=
+.pink.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(251 207 23=
 2 / var(--tw-bg-opacity)); --tw-ring-color: rgb(236 72 153 / .1); }
 
-.svelte-1e50scj:is(.dark .pink) { --tw-bg-opacity: 1; background-color: rgb=
+.svelte-1cx5vnw:is(.dark .pink) { --tw-bg-opacity: 1; background-color: rgb=
 (157 23 77 / var(--tw-bg-opacity)); }
 
 .backend.svelte-116z7kx { --tw-bg-opacity: 1 !important; background-color: =
@@ -3838,7 +4068,7 @@ rgb(31 41 55 / var(--tw-bg-opacity)); }
   .desktop-grid.svelte-r3efyy { display: grid; grid-template: "skill skill"=
  min-content "education experience" / 30% auto; gap: 0px; }
 }
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://voconsteroid.com/voconsteroidLogoNT384.png
@@ -3988,7 +4218,7 @@ AABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABG
 EQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAA
 YBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYFEURf8P1Rxy/6Nu9+AAAAAASUVORK5CYII=
 
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/boxing-glove.svg
@@ -4010,7 +4240,7 @@ Content-Location: https://cv.bnei.dev/boxing-glove.svg
 333c0 .92-1.221 1.208-2.326 1.208h-5C15.57 34 15 33.712 15 32.792v-3.333c0-=
 .921.57-1.459 1.674-1.459h5z"/>
 </svg>
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/reading.svg
@@ -4027,7 +4257,7 @@ Content-Location: https://cv.bnei.dev/reading.svg
 3-3-3z"/>
     </g>
 </svg>
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://cv.bnei.dev/strategy.png
@@ -4394,7 +4624,7 @@ FqIAAADQQhQAAABaiAIAAEALUQAAAGghCgAAAC1EAQAAoIUoAAAAtBAFAACAFqIAAADQQhQAAABa
 KJL0R+sQAABguFxVVdYZAADAkLEFAABAC1EAAABoIQoAAAAt9F9LL9PzoI2q/QAAAABJRU5ErkJg
 gg==
 
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI----
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://cv.bnei.dev/harmony.png
@@ -5187,4 +5417,4 @@ owdgNNkCABdQC1QaPRAhhBAJsQHoDzQbPRAjyQoANAHnksT1oIUQIonsB84jySd/kADgK+uAmqN/
 CyGE6JxqgWpgvdEDMQPZAmjLAVwCTAIGArmANIwXQghragV2AquBmag5X0l99O9Y/weMQl/eslRo
 8gAAAABJRU5ErkJggg==
 
-------MultipartBoundary--LaJIfrJiaZRhPN7Wzj86dwKuq1PV4xmvGBJoKqijDI------
+------MultipartBoundary--mOKZPFwG3r2IVwlOEGla1EJlD7PlBWZv7SZUfA6eWG------
