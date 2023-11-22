@@ -1,5 +1,12 @@
 
 
+## [0.10.1](https://github.com/MohammadBnei/cv-maker/compare/0.10.0...0.10.1) (2023-11-22)
+
+
+### Bug Fixes
+
+* **snapshot.js:** fixed typo for last arg of saveToPdf ([90f017d](https://github.com/MohammadBnei/cv-maker/commit/90f017dd343e57ebab81f6ac0bf0f9a5a8043df6))
+
 # [0.10.0](https://github.com/MohammadBnei/cv-maker/compare/0.9.2...0.10.0) (2023-11-22)
 
 
