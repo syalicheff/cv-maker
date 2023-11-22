@@ -1,6 +1,6 @@
 <script context="module" lang="ts">
 	import { page } from '$app/stores';
-	import { selectedSkills } from '../../store';
+	import { selectedSkills, snapshotMode } from '../../store';
 	import type { IBadge } from './ui/badge.svelte';
 
 	export interface ISkill {
@@ -67,14 +67,17 @@
 			{/each}
 		</div>
 	{/each}
-	<div class="stat w-44">
-		<div class="stat-title capitalize text-center h-fit">
-			{english ? 'All' : 'Tous'}
+	{#if !snapshotMode}
+		<!-- content here -->
+		<div class="stat w-44">
+			<div class="stat-title capitalize text-center h-fit">
+				{english ? 'All' : 'Tous'}
+			</div>
+			<button class="btn" on:click={() => document.getElementById('allSkillModal')?.showModal()}
+				>+</button
+			>
 		</div>
-		<button class="btn" on:click={() => document.getElementById('allSkillModal')?.showModal()}
-			>+</button
-		>
-	</div>
+	{/if}
 </div>
 
 <div class="sm:hidden">
@@ -96,14 +99,16 @@
 			{/each}
 		</div>
 	{/each}
-	<div class="stat w-44">
-		<div class="stat-title capitalize text-center">
-			{english ? 'All' : 'Tous'}
+	{#if !snapshotMode}
+		<div class="stat w-44">
+			<div class="stat-title capitalize text-center">
+				{english ? 'All' : 'Tous'}
+			</div>
+			<button class="btn" on:click={() => document.getElementById('allSkillModal')?.showModal()}
+				>+</button
+			>
 		</div>
-		<button class="btn" on:click={() => document.getElementById('allSkillModal')?.showModal()}
-			>+</button
-		>
-	</div>
+	{/if}
 </div>
 
 <dialog id="allSkillModal" class="modal">

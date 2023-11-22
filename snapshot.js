@@ -45,7 +45,7 @@ const saveToPdf = async (page, { en, full } = { en: false, full: false }) => {
 		path: fileName,
 		scale: 0.5,
 		landscape: false,
-		pageRanges: '1',
+		pageRanges: full ? '2' : 	'1',
 		printBackground: true
 	});
 };
