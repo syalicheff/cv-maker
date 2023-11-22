@@ -43,7 +43,7 @@ const saveToPdf = async (page, { en, full } = { en: false, full: false }) => {
 	const fileName = path + '/' + (en ? 'cv-en' : 'cv') + (full ? '-full' : '') + '.pdf';
 	await page.pdf({
 		path: fileName,
-		scale: 0.57,
+		scale: 0.55,
 		landscape: false,
 		// pageRanges: full ? '2' : 	'1',
 		printBackground: true
