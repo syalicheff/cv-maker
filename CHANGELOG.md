@@ -1,5 +1,12 @@
 
 
+## [0.10.4](https://github.com/MohammadBnei/cv-maker/compare/0.10.3...0.10.4) (2023-11-22)
+
+
+### Bug Fixes
+
+* **snapshot.js:** testing without page range ([397227f](https://github.com/MohammadBnei/cv-maker/commit/397227f502ee8eef7ebf21a80471e6a8818e1eb7))
+
 ## [0.10.3](https://github.com/MohammadBnei/cv-maker/compare/0.10.2...0.10.3) (2023-11-22)
 
 
