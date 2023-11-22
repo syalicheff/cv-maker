@@ -1,5 +1,17 @@
 
 
+# [0.10.0](https://github.com/MohammadBnei/cv-maker/compare/0.9.2...0.10.0) (2023-11-22)
+
+
+### Bug Fixes
+
+* **export:** using global state to keep prerendering capacities ([0b8e919](https://github.com/MohammadBnei/cv-maker/commit/0b8e9196eb51a1523938a9ba59cf92c9a6f8d2fa))
+
+
+### Features
+
+* **export:** added cv with full missions to export with shift key pressed ([15794b2](https://github.com/MohammadBnei/cv-maker/commit/15794b2a6cb41116f4438376ec64975819bd8eba))
+
 ## [0.9.2](https://github.com/MohammadBnei/cv-maker/compare/0.9.1...0.9.2) (2023-11-21)
 
 ## [0.9.1](https://github.com/MohammadBnei/cv-maker/compare/0.9.0...0.9.1) (2023-11-21)
