@@ -1,6 +1,4 @@
 <script context="module" lang="ts">
-	import { page } from '$app/stores';
-	import { selectedSkills, snapshotMode } from '../../store';
 	import type { IBadge } from './ui/badge.svelte';
 
 	export interface ISkill {
@@ -11,6 +9,8 @@
 </script>
 
 <script lang="ts">
+	import { page } from '$app/stores';
+	import { selectedSkills, snapshotMode } from '../../store';
 	import RemoveFilteredSkills from './removeFilteredSkills.svelte';
 	import SkillBadge from './ui/skillBadge.svelte';
 
@@ -67,8 +67,7 @@
 			{/each}
 		</div>
 	{/each}
-	{#if !snapshotMode}
-		<!-- content here -->
+	{#if !$snapshotMode}
 		<div class="stat w-44">
 			<div class="stat-title capitalize text-center h-fit">
 				{english ? 'All' : 'Tous'}
@@ -99,7 +98,7 @@
 			{/each}
 		</div>
 	{/each}
-	{#if !snapshotMode}
+	{#if !$snapshotMode}
 		<div class="stat w-44">
 			<div class="stat-title capitalize text-center">
 				{english ? 'All' : 'Tous'}
