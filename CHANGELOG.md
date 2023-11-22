@@ -1,5 +1,12 @@
 
 
+## [0.10.5](https://github.com/MohammadBnei/cv-maker/compare/0.10.4...0.10.5) (2023-11-22)
+
+
+### Bug Fixes
+
+* **experience.svelte:** fix conditional class name in div element to correctly check for $fullExperienceExport variable ([5f74567](https://github.com/MohammadBnei/cv-maker/commit/5f74567cb8db5a1a079ff7fb632a9c5b8d165fbd))
+
 ## [0.10.4](https://github.com/MohammadBnei/cv-maker/compare/0.10.3...0.10.4) (2023-11-22)
 
 
