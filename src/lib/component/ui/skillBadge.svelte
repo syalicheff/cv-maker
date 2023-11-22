@@ -12,7 +12,7 @@
 		: ''} font-bold rounded-md {skill.category} default px-2 py-1 ring-1 ring-inset {scale
 		? 'hover:scale-[1.03]'
 		: 'hover:skew-y-2'} transition
-		{$selectedSkills.includes(skill) ? 'outline outline-2' : ''}
+		{$selectedSkills.some(({ name }) => name === skill?.name) ? 'outline outline-2' : ''}
 		"
 	>{skill?.name.toLocaleUpperCase()}
 </span>

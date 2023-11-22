@@ -1,3 +1,5 @@
+import { browser } from '$app/environment';
+import { goto } from '$app/navigation';
 import type { IExperience } from '$lib/component/experience.svelte';
 import type { ISkill } from '$lib/component/skill.svelte';
 import { writable } from 'svelte/store';
@@ -6,16 +8,29 @@ export const snapshotMode = writable(false);
 export const fullExperienceExport = writable(false);
 
 const selectedSkillStore = () => {
-	const { set, update, subscribe } = writable<ISkill[]>([]);
+	const selectedSkills = writable<ISkill[]>([]);
+
+	const { set, update, subscribe } = selectedSkills;
 
 	const reset = () => set([]);
 
-	const add = (skill: ISkill) =>
-		update((list) =>
-			list.some((a) => a.name === skill.name)
+	const add = (skill: ISkill) => {
+		update((list) => {
+			const updatedList = list.some((a) => a.name === skill.name)
 				? list.filter((a) => a.name !== skill.name)
-				: [...list, skill]
-		);
+				: [...list, skill];
+
+			if (browser) {
+				const currentUrl = new URL(window.location.href);
+				currentUrl.searchParams.set('skills', updatedList.map((s) => s.name).join(','));
+
+				goto(currentUrl, {
+					noScroll: true
+				});
+			}
+			return updatedList;
+		});
+	};
 
 	return {
 		set,
