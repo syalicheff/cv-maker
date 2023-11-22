@@ -1,5 +1,12 @@
 
 
+# [0.11.0](https://github.com/MohammadBnei/cv-maker/compare/0.10.9...0.11.0) (2023-11-22)
+
+
+### Features
+
+* **skills:** added possibility to use url search param to handle skill filtering ([32484e6](https://github.com/MohammadBnei/cv-maker/commit/32484e682d8896771419eb22cdb076c03e857c7d))
+
 ## [0.10.9](https://github.com/MohammadBnei/cv-maker/compare/0.10.8...0.10.9) (2023-11-22)
 
 ## [0.10.8](https://github.com/MohammadBnei/cv-maker/compare/0.10.7...0.10.8) (2023-11-22)
