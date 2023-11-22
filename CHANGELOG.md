@@ -1,5 +1,12 @@
 
 
+## [0.10.7](https://github.com/MohammadBnei/cv-maker/compare/0.10.6...0.10.7) (2023-11-22)
+
+
+### Bug Fixes
+
+* **export:** good looking export ([8b39dfd](https://github.com/MohammadBnei/cv-maker/commit/8b39dfdbff81e81c0183a92fcad2daed2e2cb3c6))
+
 ## [0.10.6](https://github.com/MohammadBnei/cv-maker/compare/0.10.5...0.10.6) (2023-11-22)
 
 ## [0.10.5](https://github.com/MohammadBnei/cv-maker/compare/0.10.4...0.10.5) (2023-11-22)
