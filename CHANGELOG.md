@@ -1,5 +1,12 @@
 
 
+## [0.10.8](https://github.com/MohammadBnei/cv-maker/compare/0.10.7...0.10.8) (2023-11-22)
+
+
+### Bug Fixes
+
+* **export:** pdf scale to 0.55 percent now ([861092f](https://github.com/MohammadBnei/cv-maker/commit/861092f1067a18729e09c5edec91ae8b49921eb4))
+
 ## [0.10.7](https://github.com/MohammadBnei/cv-maker/compare/0.10.6...0.10.7) (2023-11-22)
 
 
