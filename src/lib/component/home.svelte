@@ -7,7 +7,7 @@
 	import Options from '$lib/component/options.svelte';
 	import Skill, { type ISkill } from '$lib/component/skill.svelte';
 	import Title, { type ITitle } from '$lib/component/title.svelte';
-	import { experiences, snapshotMode } from '../../store';
+	import { experiences, fullExperienceExport, snapshotMode } from '../../store';
 	import BonusIcons from './bonusIcons.svelte';
 	import OpenIn from './ui/svg/openIn.svelte';
 
@@ -74,13 +74,21 @@
 			<Lang {langs} />
 			<div class="divider {$snapshotMode ? 'my-14' : 'my-1'}"></div>
 			<Hobby {hobbies} />
+			{#if $fullExperienceExport}
+				<div class="divider {$snapshotMode ? 'my-14' : 'my-1'}"></div>
+				<div class="ml-2 pt-2 pb-12 sm:pb-2">
+					<BonusIcons />
+				</div>
+			{/if}
 			<div class="mb-4 sm:mb-0"></div>
 		</div>
 	</div>
 </div>
-<div class="ml-2 pt-2 pb-12 sm:pb-2">
-	<BonusIcons />
-</div>
+{#if !$fullExperienceExport}
+	<div class="ml-2 pt-2 pb-12 sm:pb-2">
+		<BonusIcons />
+	</div>
+{/if}
 
 <style>
 	@media (min-width: 640px) {

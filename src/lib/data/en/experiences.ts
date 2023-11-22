@@ -142,7 +142,8 @@ export const experience: IExperience[] = [
 					{ name: 'hapi', category: 'backend' },
 					{ name: 'reactjs', category: 'frontend' },
 					{ name: 'mongodb', category: 'data' }
-				]
+				],
+				snapshot: true
 			},
 			{
 				title: 'Visual',
@@ -157,7 +158,8 @@ export const experience: IExperience[] = [
 					{ name: 'hapi', category: 'backend' },
 					{ name: 'reactjs', category: 'frontend' },
 					{ name: 'redis', category: 'data' }
-				]
+				],
+				snapshot: true
 			},
 			{
 				title: 'React Update',
