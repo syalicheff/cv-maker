@@ -44,7 +44,7 @@
 	];
 </script>
 
-<div class={$snapshotMode && !fullExperienceExport ? '' : 'sm:columns-2'}>
+<div class={$snapshotMode && !$fullExperienceExport ? '' : 'sm:columns-2'}>
 	<ol
 		class="relative border-l-2 border-lime-200 dark:border-green-700 {$snapshotMode
 			? 'flex flex-col flex-shrink'
@@ -95,7 +95,7 @@
 						</div>
 						{#if $snapshotMode}
 							<ul class="ml-4 mt-4">
-								{#each item.missions.filter(({ snapshot }) => fullExperienceExport || snapshot) || [] as mission, i (mission.title)}
+								{#each item.missions.filter(({ snapshot }) => $fullExperienceExport || snapshot) || [] as mission, i (mission.title)}
 									{#if i !== 0}
 										<div class="divider"></div>
 									{/if}
