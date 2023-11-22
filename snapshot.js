@@ -15,12 +15,14 @@ const fs = require('fs');
 	});
 
 	await Promise.all([
-		saveToPdf(await browser.newPage()),
-		saveToPdf(await browser.newPage(), true),
-		saveToPdf(await browser.newPage(), true, true),
-		saveToMhtml(await browser.newPage()),
-		saveToMhtml(await browser.newPage(), true),
-		saveToMhtml(await browser.newPage(), true, true)
+		saveToPdf(await browser.newPage(), { en: true, full: false }),
+		saveToPdf(await browser.newPage(), { en: false, full: false }),
+		saveToPdf(await browser.newPage(), { en: true, full: true }),
+		saveToPdf(await browser.newPage(), { en: false, full: true }),
+		saveToMhtml(await browser.newPage(), { en: true, full: false }),
+		saveToMhtml(await browser.newPage(), { en: false, full: false }),
+		saveToMhtml(await browser.newPage(), { en: true, full: true }),
+		saveToMhtml(await browser.newPage(), { en: false, full: true })
 	]);
 
 	console.log('Created PDFs and MHTMLs!');
@@ -35,7 +37,7 @@ const fs = require('fs');
  * @param {boolean} en - Whether to save the PDF in English.
  * @return {Promise<void>} - A promise that resolves when the PDF is saved.
  */
-const saveToPdf = async (page, en = false, full = false) => {
+const saveToPdf = async (page, { en, full } = { en: false, full: false }) => {
 	await page.goto(`${url}/${en ? 'en' : ''}?snapshot${full ? '&full' : ''}`);
 	await page.setViewport({ width: 1080, height: 1024 });
 	const fileName = path + '/' + (en ? 'cv-en' : 'cv') + (full ? '-full' : '') + '.pdf';
@@ -55,7 +57,7 @@ const saveToPdf = async (page, en = false, full = false) => {
  * @param {boolean} en - Determines if the page is in English (default: false).
  * @return {Promise<void>} - A promise that resolves when the save is complete.
  */
-const saveToMhtml = async (page, en = false, full = false) => {
+const saveToMhtml = async (page, { en, full } = { en: false, full: false }) => {
 	await page.goto(`${url}/${en ? 'en' : ''}?snapshot${full ? '&full' : ''}`);
 	const session = await page.target().createCDPSession();
 	await session.send('Page.enable');
