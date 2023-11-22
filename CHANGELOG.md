@@ -1,5 +1,12 @@
 
 
+## [0.10.2](https://github.com/MohammadBnei/cv-maker/compare/0.10.1...0.10.2) (2023-11-22)
+
+
+### Bug Fixes
+
+* **snapshot.js:** update pageRanges value to use '2' instead of '1' when full flag is true to include all pages in the PDF snapshot ([7ba759e](https://github.com/MohammadBnei/cv-maker/commit/7ba759e855eba7d528528343ee06c77ae6477e70))
+
 ## [0.10.1](https://github.com/MohammadBnei/cv-maker/compare/0.10.0...0.10.1) (2023-11-22)
 
 
