@@ -17,8 +17,7 @@ const fs = require('fs');
 	await Promise.all([
 		saveToPdf(await browser.newPage()),
 		saveToPdf(await browser.newPage(), true),
-		saveToPdf(await browser.newPage(), true),
-		true,
+		saveToPdf(await browser.newPage(), true, true),
 		saveToMhtml(await browser.newPage()),
 		saveToMhtml(await browser.newPage(), true),
 		saveToMhtml(await browser.newPage(), true, true)
