@@ -34,7 +34,7 @@ const fs = require('fs');
  * Saves the current page as a PDF.
  *
  * @param {Page} page - The page to save as a PDF.
- * @param {boolean} en - Whether to save the PDF in English.
+ * @param {en: boolean; full: boolean} en - Whether to save the PDF in English/French, and to get the full experiences version or no.
  * @return {Promise<void>} - A promise that resolves when the PDF is saved.
  */
 const saveToPdf = async (page, { en, full } = { en: false, full: false }) => {
@@ -45,7 +45,7 @@ const saveToPdf = async (page, { en, full } = { en: false, full: false }) => {
 		path: fileName,
 		scale: 0.5,
 		landscape: false,
-		pageRanges: full ? '2' : 	'1',
+		// pageRanges: full ? '2' : 	'1',
 		printBackground: true
 	});
 };
@@ -54,7 +54,7 @@ const saveToPdf = async (page, { en, full } = { en: false, full: false }) => {
  * Saves the current page as an MHTML file.
  *
  * @param {Page} page - The page to save as MHTML.
- * @param {boolean} en - Determines if the page is in English (default: false).
+ * @param {en: boolean; full: boolean} en - Whether to save the PDF in English/French, and to get the full experiences version or no.
  * @return {Promise<void>} - A promise that resolves when the save is complete.
  */
 const saveToMhtml = async (page, { en, full } = { en: false, full: false }) => {
