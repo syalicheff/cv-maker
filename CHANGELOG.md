@@ -1,5 +1,12 @@
 
 
+## [0.10.3](https://github.com/MohammadBnei/cv-maker/compare/0.10.2...0.10.3) (2023-11-22)
+
+
+### Bug Fixes
+
+* **skill.svelte:** fixed typo where it was using the store (snapshotMode) instead of its value ([6faa9c3](https://github.com/MohammadBnei/cv-maker/commit/6faa9c3fb5642643bc1f9b037b5ee3652ecd6219))
+
 ## [0.10.2](https://github.com/MohammadBnei/cv-maker/compare/0.10.1...0.10.2) (2023-11-22)
 
 
