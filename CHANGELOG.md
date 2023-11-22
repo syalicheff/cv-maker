@@ -1,5 +1,12 @@
 
 
+## [0.11.1](https://github.com/MohammadBnei/cv-maker/compare/0.11.0...0.11.1) (2023-11-22)
+
+
+### Bug Fixes
+
+* **experience.svelte:** remove unnecessary line breaks and improve code readability ([8b9540f](https://github.com/MohammadBnei/cv-maker/commit/8b9540f752b7f61e40daee5adec27c69a1a162ba))
+
 # [0.11.0](https://github.com/MohammadBnei/cv-maker/compare/0.10.9...0.11.0) (2023-11-22)
 
 
