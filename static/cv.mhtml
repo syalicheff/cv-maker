@@ -1,16 +1,16 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://cv.bnei.dev/?snapshot
 Subject: CV - Mohammad-Amine BANAEI
-Date: Wed, 22 Nov 2023 12:40:04 +0000
+Date: Wed, 22 Nov 2023 12:45:52 +0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----"
+	boundary="----MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----"
 
 
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----
 Content-Type: text/html
-Content-ID: <frame-E4945C614141D33D712559B2482C4E91@mhtml.blink>
+Content-ID: <frame-D4442EBBE3E3148D01F9428292E37A5F@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/?snapshot
 
@@ -25,25 +25,25 @@ P.css" rel=3D"stylesheet">
 		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/HeadTags.MRTein=
 X4.css" rel=3D"stylesheet">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/start.ZWv09kCZ.js">
+entry/start.7iXM_eHy.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
 chunks/scheduler.cDHN3BDo.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/singletons.ZX3LmyvI.js">
+chunks/singletons.CSRcMNGs.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/app.tWIfcYJF.js">
+entry/app.460Scw_e.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
 chunks/index.3Io3gqzq.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/0.jsf1EbSY.js">
+nodes/0.toHvqF-A.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/index.IaeEFoqt.js">
+chunks/index.1375wyCD.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/stores.PS_lFaoX.js">
+chunks/stores.FU2PMBMi.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/2.daB2xQAg.js">
+nodes/2.2A5t7Kgz.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/HeadTags.OAOVoDAq.js"><title>CV - Mohammad-Amine BANAEI</title><meta=
+chunks/HeadTags.sbOOJ6Dx.js"><title>CV - Mohammad-Amine BANAEI</title><meta=
  http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge,chrome=3D1"><meta name=
 =3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><meta nam=
 e=3D"robots" content=3D"index,follow"><meta name=3D"googlebot" content=3D"i=
@@ -72,7 +72,7 @@ itez pas =C3=A0 me contacter pour toute proposition ou pour plus d=E2=80=99=
 informations."><!-- HTML_TAG_START --><!-- HTML_TAG_END --><!-- HTML_TAG_ST=
 ART --><!-- HTML_TAG_END -->
 	<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"http://=
-127.0.0.1:4173/_app/immutable/nodes/1.XiOMwEdR.js"></head>
+127.0.0.1:4173/_app/immutable/nodes/1.zElsxJTh.js"></head>
 	<body data-sveltekit-preload-data=3D"hover">
 		<div style=3D"display: contents"><div class=3D"min-h-screen dark:bg-base-=
 300"> <div class=3D"py-0 dark:bg-base-100 py-6 rounded-sm navbar"><div clas=
@@ -184,266 +184,262 @@ hover:scale-[1.03] transition  svelte-116z7kx">SQL</span></button><button a=
 ria-label=3D"filter by skill mongodb" class=3D"mb-1"><span class=3D"inline-=
 flex items-center text-xs font-bold rounded-md data default px-2 py-1 ring-=
 1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MONGODB</span><=
-/button></div> <div class=3D"stat w-44"><div class=3D"stat-title capitalize=
- text-center h-fit">Tous</div> <button class=3D"btn" data-svelte-h=3D"svelt=
-e-1fzijdc">+</button></div></div> <div class=3D"sm:hidden"><div class=3D"st=
-ats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"stat-title cap=
-italize text-center">backend</div> <button aria-label=3D"filter by skill go=
-lang" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-b=
-old rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.0=
-3] transition  svelte-116z7kx">GOLANG</span></button><button aria-label=3D"=
-filter by skill nodejs" class=3D"mb-1"><span class=3D"inline-flex items-cen=
-ter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inse=
-t hover:scale-[1.03] transition  svelte-116z7kx">NODEJS</span></button></di=
-v><div class=3D"stat w-44"><div class=3D"stat-title capitalize text-center"=
->frontend</div> <button aria-label=3D"filter by skill reactjs" class=3D"mb-=
-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md fro=
-ntend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sv=
-elte-116z7kx">REACTJS</span></button><button aria-label=3D"filter by skill =
-sveltekit" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs f=
-ont-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:scal=
-e-[1.03] transition  svelte-116z7kx">SVELTEKIT</span></button></div></div><=
-div class=3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D=
-"stat-title capitalize text-center">devops</div> <button aria-label=3D"filt=
-er by skill kubernetes" class=3D"mb-1"><span class=3D"inline-flex items-cen=
-ter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset=
- hover:scale-[1.03] transition  svelte-116z7kx">KUBERNETES</span></button><=
-button aria-label=3D"filter by skill docker" class=3D"mb-1"><span class=3D"=
-inline-flex items-center text-xs font-bold rounded-md devops default px-2 p=
-y-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER=
-</span></button></div><div class=3D"stat w-44"><div class=3D"stat-title cap=
-italize text-center">system</div> <button aria-label=3D"filter by skill gcp=
-" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold =
-rounded-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tr=
-ansition  svelte-116z7kx">GCP</span></button><button aria-label=3D"filter b=
-y skill linux" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
-xs font-bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:sc=
-ale-[1.03] transition  svelte-116z7kx">LINUX</span></button></div></div><di=
-v class=3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"s=
-tat-title capitalize text-center">data</div> <button aria-label=3D"filter b=
-y skill sql" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs=
- font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale-=
-[1.03] transition  svelte-116z7kx">SQL</span></button><button aria-label=3D=
-"filter by skill mongodb" class=3D"mb-1"><span class=3D"inline-flex items-c=
-enter text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset=
- hover:scale-[1.03] transition  svelte-116z7kx">MONGODB</span></button></di=
-v></div> <div class=3D"stat w-44"><div class=3D"stat-title capitalize text-=
-center">Tous</div> <button class=3D"btn" data-svelte-h=3D"svelte-1fzijdc">+=
-</button></div></div> <dialog id=3D"allSkillModal" class=3D"modal"><div cla=
-ss=3D"modal-box"><div class=3D"flex gap-2 my-3"><input type=3D"text" class=
-=3D"input input-bordered w-full" placeholder=3D"Filtrer"> </div> <div class=
-=3D"flex flex-wrap justify-center"><div class=3D"flex flex-col"><h5 class=
-=3D"stat-title capitalize text-center my-3">backend</h5> <button aria-label=
-=3D"filter by skill c# .net" class=3D"mb-1"><span class=3D"inline-flex item=
+/button></div> </div> <div class=3D"sm:hidden"><div class=3D"stats shadow m=
+b-2 mx-2"><div class=3D"stat w-44"><div class=3D"stat-title capitalize text=
+-center">backend</div> <button aria-label=3D"filter by skill golang" class=
+=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
+-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transiti=
+on  svelte-116z7kx">GOLANG</span></button><button aria-label=3D"filter by s=
+kill nodejs" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs=
+ font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:sca=
+le-[1.03] transition  svelte-116z7kx">NODEJS</span></button></div><div clas=
+s=3D"stat w-44"><div class=3D"stat-title capitalize text-center">frontend</=
+div> <button aria-label=3D"filter by skill reactjs" class=3D"mb-1"><span cl=
+ass=3D"inline-flex items-center text-xs font-bold rounded-md frontend defau=
+lt px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7k=
+x">REACTJS</span></button><button aria-label=3D"filter by skill sveltekit" =
+class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold ro=
+unded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tr=
+ansition  svelte-116z7kx">SVELTEKIT</span></button></div></div><div class=
+=3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"stat-tit=
+le capitalize text-center">devops</div> <button aria-label=3D"filter by ski=
+ll kubernetes" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
+xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:sc=
+ale-[1.03] transition  svelte-116z7kx">KUBERNETES</span></button><button ar=
+ia-label=3D"filter by skill docker" class=3D"mb-1"><span class=3D"inline-fl=
+ex items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-=
+1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER</span></=
+button></div><div class=3D"stat w-44"><div class=3D"stat-title capitalize t=
+ext-center">system</div> <button aria-label=3D"filter by skill gcp" class=
+=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
+-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transitio=
+n  svelte-116z7kx">GCP</span></button><button aria-label=3D"filter by skill=
+ linux" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font=
+-bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.=
+03] transition  svelte-116z7kx">LINUX</span></button></div></div><div class=
+=3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"stat-tit=
+le capitalize text-center">data</div> <button aria-label=3D"filter by skill=
+ sql" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-b=
+old rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] =
+transition  svelte-116z7kx">SQL</span></button><button aria-label=3D"filter=
+ by skill mongodb" class=3D"mb-1"><span class=3D"inline-flex items-center t=
+ext-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:=
+scale-[1.03] transition  svelte-116z7kx">MONGODB</span></button></div></div=
+> </div> <dialog id=3D"allSkillModal" class=3D"modal"><div class=3D"modal-b=
+ox"><div class=3D"flex gap-2 my-3"><input type=3D"text" class=3D"input inpu=
+t-bordered w-full" placeholder=3D"Filtrer"> </div> <div class=3D"flex flex-=
+wrap justify-center"><div class=3D"flex flex-col"><h5 class=3D"stat-title c=
+apitalize text-center my-3">backend</h5> <button aria-label=3D"filter by sk=
+ill c# .net" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs=
+ font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:sca=
+le-[1.03] transition  svelte-116z7kx">C# .NET</span></button><button aria-l=
+abel=3D"filter by skill c++" class=3D"mb-1"><span class=3D"inline-flex item=
 s-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring=
--inset hover:scale-[1.03] transition  svelte-116z7kx">C# .NET</span></butto=
-n><button aria-label=3D"filter by skill c++" class=3D"mb-1"><span class=3D"=
+-inset hover:scale-[1.03] transition  svelte-116z7kx">C++</span></button><b=
+utton aria-label=3D"filter by skill express" class=3D"mb-1"><span class=3D"=
 inline-flex items-center text-xs font-bold rounded-md backend default px-2 =
-py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">C++</=
-span></button><button aria-label=3D"filter by skill express" class=3D"mb-1"=
-><span class=3D"inline-flex items-center text-xs font-bold rounded-md backe=
-nd default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelt=
-e-116z7kx">EXPRESS</span></button><button aria-label=3D"filter by skill fla=
-sk" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bol=
-d rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03]=
- transition  svelte-116z7kx">FLASK</span></button><button aria-label=3D"fil=
-ter by skill golang" class=3D"mb-1"><span class=3D"inline-flex items-center=
+py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">EXPRE=
+SS</span></button><button aria-label=3D"filter by skill flask" class=3D"mb-=
+1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md bac=
+kend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
+lte-116z7kx">FLASK</span></button><button aria-label=3D"filter by skill gol=
+ang" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bo=
+ld rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03=
+] transition  svelte-116z7kx">GOLANG</span></button><button aria-label=3D"f=
+ilter by skill hapi" class=3D"mb-1"><span class=3D"inline-flex items-center=
  text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset h=
-over:scale-[1.03] transition  svelte-116z7kx">GOLANG</span></button><button=
- aria-label=3D"filter by skill hapi" class=3D"mb-1"><span class=3D"inline-f=
-lex items-center text-xs font-bold rounded-md backend default px-2 py-1 rin=
-g-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">HAPI</span></=
-button><button aria-label=3D"filter by skill hibernate" class=3D"mb-1"><spa=
-n class=3D"inline-flex items-center text-xs font-bold rounded-md backend de=
-fault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116=
-z7kx">HIBERNATE</span></button><button aria-label=3D"filter by skill java j=
-2e" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bol=
-d rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03]=
- transition  svelte-116z7kx">JAVA J2E</span></button><button aria-label=3D"=
-filter by skill JUnits" class=3D"mb-1"><span class=3D"inline-flex items-cen=
-ter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inse=
-t hover:scale-[1.03] transition  svelte-116z7kx">JUNITS</span></button><but=
-ton aria-label=3D"filter by skill kotlin" class=3D"mb-1"><span class=3D"inl=
-ine-flex items-center text-xs font-bold rounded-md backend default px-2 py-=
-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">KOTLIN</=
-span></button><button aria-label=3D"filter by skill log4j" class=3D"mb-1"><=
-span class=3D"inline-flex items-center text-xs font-bold rounded-md backend=
- default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-=
-116z7kx">LOG4J</span></button><button aria-label=3D"filter by skill nestjs"=
- class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold r=
-ounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tr=
-ansition  svelte-116z7kx">NESTJS</span></button><button aria-label=3D"filte=
-r by skill python" class=3D"mb-1"><span class=3D"inline-flex items-center t=
-ext-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hov=
-er:scale-[1.03] transition  svelte-116z7kx">PYTHON</span></button><button a=
-ria-label=3D"filter by skill socket.io" class=3D"mb-1"><span class=3D"inlin=
+over:scale-[1.03] transition  svelte-116z7kx">HAPI</span></button><button a=
+ria-label=3D"filter by skill hibernate" class=3D"mb-1"><span class=3D"inlin=
 e-flex items-center text-xs font-bold rounded-md backend default px-2 py-1 =
-ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">SOCKET.IO<=
-/span></button><button aria-label=3D"filter by skill websocket" class=3D"mb=
--1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md ba=
-ckend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sv=
-elte-116z7kx">WEBSOCKET</span></button> </div><div class=3D"flex flex-col">=
-<h5 class=3D"stat-title capitalize text-center my-3">frontend</h5> <button =
-aria-label=3D"filter by skill angularjs" class=3D"mb-1"><span class=3D"inli=
-ne-flex items-center text-xs font-bold rounded-md frontend default px-2 py-=
-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">ANGULARJ=
-S</span></button><button aria-label=3D"filter by skill flutter" class=3D"mb=
--1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md fr=
-ontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  s=
-velte-116z7kx">FLUTTER</span></button><button aria-label=3D"filter by skill=
- nextjs" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs fon=
-t-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-=
-[1.03] transition  svelte-116z7kx">NEXTJS</span></button><button aria-label=
-=3D"filter by skill nodejs" class=3D"mb-1"><span class=3D"inline-flex items=
--center text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring=
--inset hover:scale-[1.03] transition  svelte-116z7kx">NODEJS</span></button=
-><button aria-label=3D"filter by skill Primefaces" class=3D"mb-1"><span cla=
-ss=3D"inline-flex items-center text-xs font-bold rounded-md frontend defaul=
-t px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx=
-">PRIMEFACES</span></button><button aria-label=3D"filter by skill razorhtml=
-" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold =
-rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] =
-transition  svelte-116z7kx">RAZORHTML</span></button><button aria-label=3D"=
-filter by skill reactjs" class=3D"mb-1"><span class=3D"inline-flex items-ce=
-nter text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-in=
-set hover:scale-[1.03] transition  svelte-116z7kx">REACTJS</span></button><=
-button aria-label=3D"filter by skill sveltekit" class=3D"mb-1"><span class=
-=3D"inline-flex items-center text-xs font-bold rounded-md frontend default =
+ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">HIBERNATE<=
+/span></button><button aria-label=3D"filter by skill java j2e" class=3D"mb-=
+1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md bac=
+kend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
+lte-116z7kx">JAVA J2E</span></button><button aria-label=3D"filter by skill =
+JUnits" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font=
+-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1=
+.03] transition  svelte-116z7kx">JUNITS</span></button><button aria-label=
+=3D"filter by skill kotlin" class=3D"mb-1"><span class=3D"inline-flex items=
+-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-=
+inset hover:scale-[1.03] transition  svelte-116z7kx">KOTLIN</span></button>=
+<button aria-label=3D"filter by skill log4j" class=3D"mb-1"><span class=3D"=
+inline-flex items-center text-xs font-bold rounded-md backend default px-2 =
+py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">LOG4J=
+</span></button><button aria-label=3D"filter by skill nestjs" class=3D"mb-1=
+"><span class=3D"inline-flex items-center text-xs font-bold rounded-md back=
+end default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svel=
+te-116z7kx">NESTJS</span></button><button aria-label=3D"filter by skill pyt=
+hon" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bo=
+ld rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03=
+] transition  svelte-116z7kx">PYTHON</span></button><button aria-label=3D"f=
+ilter by skill socket.io" class=3D"mb-1"><span class=3D"inline-flex items-c=
+enter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-in=
+set hover:scale-[1.03] transition  svelte-116z7kx">SOCKET.IO</span></button=
+><button aria-label=3D"filter by skill websocket" class=3D"mb-1"><span clas=
+s=3D"inline-flex items-center text-xs font-bold rounded-md backend default =
 px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">=
-SVELTEKIT</span></button><button aria-label=3D"filter by skill vuejs" class=
+WEBSOCKET</span></button> </div><div class=3D"flex flex-col"><h5 class=3D"s=
+tat-title capitalize text-center my-3">frontend</h5> <button aria-label=3D"=
+filter by skill angularjs" class=3D"mb-1"><span class=3D"inline-flex items-=
+center text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-=
+inset hover:scale-[1.03] transition  svelte-116z7kx">ANGULARJS</span></butt=
+on><button aria-label=3D"filter by skill flutter" class=3D"mb-1"><span clas=
+s=3D"inline-flex items-center text-xs font-bold rounded-md frontend default=
+ px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx"=
+>FLUTTER</span></button><button aria-label=3D"filter by skill nextjs" class=
 =3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transit=
-ion  svelte-116z7kx">VUEJS</span></button><button aria-label=3D"filter by s=
-kill webRTC" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs=
- font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:sc=
-ale-[1.03] transition  svelte-116z7kx">WEBRTC</span></button> </div><div cl=
-ass=3D"flex flex-col"><h5 class=3D"stat-title capitalize text-center my-3">=
-data</h5> <button aria-label=3D"filter by skill elk" class=3D"mb-1"><span c=
-lass=3D"inline-flex items-center text-xs font-bold rounded-md data default =
-px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">=
-ELK</span></button><button aria-label=3D"filter by skill mongodb" class=3D"=
-mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md =
-data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
-lte-116z7kx">MONGODB</span></button><button aria-label=3D"filter by skill m=
-ssql " class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-=
-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03]=
- transition  svelte-116z7kx">MSSQL </span></button><button aria-label=3D"fi=
-lter by skill mysql" class=3D"mb-1"><span class=3D"inline-flex items-center=
- text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hove=
-r:scale-[1.03] transition  svelte-116z7kx">MYSQL</span></button><button ari=
-a-label=3D"filter by skill nosql" class=3D"mb-1"><span class=3D"inline-flex=
- items-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ri=
-ng-inset hover:scale-[1.03] transition  svelte-116z7kx">NOSQL</span></butto=
-n><button aria-label=3D"filter by skill redis" class=3D"mb-1"><span class=
-=3D"inline-flex items-center text-xs font-bold rounded-md data default px-2=
- py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">REDI=
-S</span></button><button aria-label=3D"filter by skill sql" class=3D"mb-1">=
-<span class=3D"inline-flex items-center text-xs font-bold rounded-md data d=
-efault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-11=
-6z7kx">SQL</span></button> </div><div class=3D"flex flex-col"><h5 class=3D"=
-stat-title capitalize text-center my-3">devops</h5> <button aria-label=3D"f=
-ilter by skill ansible" class=3D"mb-1"><span class=3D"inline-flex items-cen=
-ter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset=
- hover:scale-[1.03] transition  svelte-116z7kx">ANSIBLE</span></button><but=
-ton aria-label=3D"filter by skill architecture" class=3D"mb-1"><span class=
-=3D"inline-flex items-center text-xs font-bold rounded-md devops default px=
--2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">AR=
-CHITECTURE</span></button><button aria-label=3D"filter by skill aws" class=
-=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
--md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transitio=
-n  svelte-116z7kx">AWS</span></button><button aria-label=3D"filter by skill=
- azure" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font=
--bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.=
-03] transition  svelte-116z7kx">AZURE</span></button><button aria-label=3D"=
-filter by skill circleci" class=3D"mb-1"><span class=3D"inline-flex items-c=
-enter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-ins=
-et hover:scale-[1.03] transition  svelte-116z7kx">CIRCLECI</span></button><=
-button aria-label=3D"filter by skill docker" class=3D"mb-1"><span class=3D"=
-inline-flex items-center text-xs font-bold rounded-md devops default px-2 p=
-y-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER=
-</span></button><button aria-label=3D"filter by skill github action" class=
-=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
--md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transitio=
-n  svelte-116z7kx">GITHUB ACTION</span></button><button aria-label=3D"filte=
-r by skill google cloud" class=3D"mb-1"><span class=3D"inline-flex items-ce=
-nter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inse=
-t hover:scale-[1.03] transition  svelte-116z7kx">GOOGLE CLOUD</span></butto=
-n><button aria-label=3D"filter by skill grpc" class=3D"mb-1"><span class=3D=
-"inline-flex items-center text-xs font-bold rounded-md devops default px-2 =
-py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">GRPC<=
-/span></button><button aria-label=3D"filter by skill jenkins" class=3D"mb-1=
-"><span class=3D"inline-flex items-center text-xs font-bold rounded-md devo=
-ps default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelt=
-e-116z7kx">JENKINS</span></button><button aria-label=3D"filter by skill kon=
-g" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold=
- rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] t=
-ransition  svelte-116z7kx">KONG</span></button><button aria-label=3D"filter=
- by skill kubernetes" class=3D"mb-1"><span class=3D"inline-flex items-cente=
-r text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset h=
-over:scale-[1.03] transition  svelte-116z7kx">KUBERNETES</span></button><bu=
-tton aria-label=3D"filter by skill linux" class=3D"mb-1"><span class=3D"inl=
-ine-flex items-center text-xs font-bold rounded-md devops default px-2 py-1=
- ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">LINUX</sp=
-an></button><button aria-label=3D"filter by skill microservices" class=3D"m=
-b-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md d=
-evops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sv=
-elte-116z7kx">MICROSERVICES</span></button><button aria-label=3D"filter by =
-skill rest" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs =
-font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale=
--[1.03] transition  svelte-116z7kx">REST</span></button><button aria-label=
-=3D"filter by skill terraform" class=3D"mb-1"><span class=3D"inline-flex it=
+ion  svelte-116z7kx">NEXTJS</span></button><button aria-label=3D"filter by =
+skill nodejs" class=3D"mb-1"><span class=3D"inline-flex items-center text-x=
+s font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:s=
+cale-[1.03] transition  svelte-116z7kx">NODEJS</span></button><button aria-=
+label=3D"filter by skill Primefaces" class=3D"mb-1"><span class=3D"inline-f=
+lex items-center text-xs font-bold rounded-md frontend default px-2 py-1 ri=
+ng-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">PRIMEFACES</=
+span></button><button aria-label=3D"filter by skill razorhtml" class=3D"mb-=
+1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md fro=
+ntend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sv=
+elte-116z7kx">RAZORHTML</span></button><button aria-label=3D"filter by skil=
+l reactjs" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs f=
+ont-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:scal=
+e-[1.03] transition  svelte-116z7kx">REACTJS</span></button><button aria-la=
+bel=3D"filter by skill sveltekit" class=3D"mb-1"><span class=3D"inline-flex=
+ items-center text-xs font-bold rounded-md frontend default px-2 py-1 ring-=
+1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">SVELTEKIT</span=
+></button><button aria-label=3D"filter by skill vuejs" class=3D"mb-1"><span=
+ class=3D"inline-flex items-center text-xs font-bold rounded-md frontend de=
+fault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116=
+z7kx">VUEJS</span></button><button aria-label=3D"filter by skill webRTC" cl=
+ass=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold roun=
+ded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tran=
+sition  svelte-116z7kx">WEBRTC</span></button> </div><div class=3D"flex fle=
+x-col"><h5 class=3D"stat-title capitalize text-center my-3">data</h5> <butt=
+on aria-label=3D"filter by skill elk" class=3D"mb-1"><span class=3D"inline-=
+flex items-center text-xs font-bold rounded-md data default px-2 py-1 ring-=
+1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">ELK</span></but=
+ton><button aria-label=3D"filter by skill mongodb" class=3D"mb-1"><span cla=
+ss=3D"inline-flex items-center text-xs font-bold rounded-md data default px=
+-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MO=
+NGODB</span></button><button aria-label=3D"filter by skill mssql " class=3D=
+"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md=
+ data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sv=
+elte-116z7kx">MSSQL </span></button><button aria-label=3D"filter by skill m=
+ysql" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-b=
+old rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] =
+transition  svelte-116z7kx">MYSQL</span></button><button aria-label=3D"filt=
+er by skill nosql" class=3D"mb-1"><span class=3D"inline-flex items-center t=
+ext-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:=
+scale-[1.03] transition  svelte-116z7kx">NOSQL</span></button><button aria-=
+label=3D"filter by skill redis" class=3D"mb-1"><span class=3D"inline-flex i=
+tems-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring=
+-inset hover:scale-[1.03] transition  svelte-116z7kx">REDIS</span></button>=
+<button aria-label=3D"filter by skill sql" class=3D"mb-1"><span class=3D"in=
+line-flex items-center text-xs font-bold rounded-md data default px-2 py-1 =
+ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">SQL</span>=
+</button> </div><div class=3D"flex flex-col"><h5 class=3D"stat-title capita=
+lize text-center my-3">devops</h5> <button aria-label=3D"filter by skill an=
+sible" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-=
+bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.0=
+3] transition  svelte-116z7kx">ANSIBLE</span></button><button aria-label=3D=
+"filter by skill architecture" class=3D"mb-1"><span class=3D"inline-flex it=
 ems-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 rin=
-g-inset hover:scale-[1.03] transition  svelte-116z7kx">TERRAFORM</span></bu=
-tton><button aria-label=3D"filter by skill tls" class=3D"mb-1"><span class=
-=3D"inline-flex items-center text-xs font-bold rounded-md devops default px=
--2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">TL=
-S</span></button><button aria-label=3D"filter by skill traefik" class=3D"mb=
+g-inset hover:scale-[1.03] transition  svelte-116z7kx">ARCHITECTURE</span><=
+/button><button aria-label=3D"filter by skill aws" class=3D"mb-1"><span cla=
+ss=3D"inline-flex items-center text-xs font-bold rounded-md devops default =
+px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">=
+AWS</span></button><button aria-label=3D"filter by skill azure" class=3D"mb=
 -1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md de=
 vops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
-lte-116z7kx">TRAEFIK</span></button> </div><div class=3D"flex flex-col"><h5=
- class=3D"stat-title capitalize text-center my-3">system</h5> <button aria-=
-label=3D"filter by skill bare metal" class=3D"mb-1"><span class=3D"inline-f=
+lte-116z7kx">AZURE</span></button><button aria-label=3D"filter by skill cir=
+cleci" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-=
+bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.0=
+3] transition  svelte-116z7kx">CIRCLECI</span></button><button aria-label=
+=3D"filter by skill docker" class=3D"mb-1"><span class=3D"inline-flex items=
+-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-i=
+nset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER</span></button><=
+button aria-label=3D"filter by skill github action" class=3D"mb-1"><span cl=
+ass=3D"inline-flex items-center text-xs font-bold rounded-md devops default=
+ px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx"=
+>GITHUB ACTION</span></button><button aria-label=3D"filter by skill google =
+cloud" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-=
+bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.0=
+3] transition  svelte-116z7kx">GOOGLE CLOUD</span></button><button aria-lab=
+el=3D"filter by skill grpc" class=3D"mb-1"><span class=3D"inline-flex items=
+-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-i=
+nset hover:scale-[1.03] transition  svelte-116z7kx">GRPC</span></button><bu=
+tton aria-label=3D"filter by skill jenkins" class=3D"mb-1"><span class=3D"i=
+nline-flex items-center text-xs font-bold rounded-md devops default px-2 py=
+-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">JENKINS=
+</span></button><button aria-label=3D"filter by skill kong" class=3D"mb-1">=
+<span class=3D"inline-flex items-center text-xs font-bold rounded-md devops=
+ default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-=
+116z7kx">KONG</span></button><button aria-label=3D"filter by skill kubernet=
+es" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bol=
+d rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] =
+transition  svelte-116z7kx">KUBERNETES</span></button><button aria-label=3D=
+"filter by skill linux" class=3D"mb-1"><span class=3D"inline-flex items-cen=
+ter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset=
+ hover:scale-[1.03] transition  svelte-116z7kx">LINUX</span></button><butto=
+n aria-label=3D"filter by skill microservices" class=3D"mb-1"><span class=
+=3D"inline-flex items-center text-xs font-bold rounded-md devops default px=
+-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MI=
+CROSERVICES</span></button><button aria-label=3D"filter by skill rest" clas=
+s=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounde=
+d-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transiti=
+on  svelte-116z7kx">REST</span></button><button aria-label=3D"filter by ski=
+ll terraform" class=3D"mb-1"><span class=3D"inline-flex items-center text-x=
+s font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:sca=
+le-[1.03] transition  svelte-116z7kx">TERRAFORM</span></button><button aria=
+-label=3D"filter by skill tls" class=3D"mb-1"><span class=3D"inline-flex it=
+ems-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 rin=
+g-inset hover:scale-[1.03] transition  svelte-116z7kx">TLS</span></button><=
+button aria-label=3D"filter by skill traefik" class=3D"mb-1"><span class=3D=
+"inline-flex items-center text-xs font-bold rounded-md devops default px-2 =
+py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">TRAEF=
+IK</span></button> </div><div class=3D"flex flex-col"><h5 class=3D"stat-tit=
+le capitalize text-center my-3">system</h5> <button aria-label=3D"filter by=
+ skill bare metal" class=3D"mb-1"><span class=3D"inline-flex items-center t=
+ext-xs font-bold rounded-md system default px-2 py-1 ring-1 ring-inset hove=
+r:scale-[1.03] transition  svelte-116z7kx">BARE METAL</span></button><butto=
+n aria-label=3D"filter by skill gcp" class=3D"mb-1"><span class=3D"inline-f=
 lex items-center text-xs font-bold rounded-md system default px-2 py-1 ring=
--1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">BARE METAL</sp=
-an></button><button aria-label=3D"filter by skill gcp" class=3D"mb-1"><span=
- class=3D"inline-flex items-center text-xs font-bold rounded-md system defa=
-ult px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7=
-kx">GCP</span></button> </div><div class=3D"flex flex-col"><h5 class=3D"sta=
-t-title capitalize text-center my-3">other</h5> <button aria-label=3D"filte=
-r by skill agile" class=3D"mb-1"><span class=3D"inline-flex items-center te=
-xt-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-inset hover:=
-scale-[1.03] transition  svelte-116z7kx">AGILE</span></button><button aria-=
-label=3D"filter by skill git" class=3D"mb-1"><span class=3D"inline-flex ite=
-ms-center text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-=
-inset hover:scale-[1.03] transition  svelte-116z7kx">GIT</span></button><bu=
-tton aria-label=3D"filter by skill kanban" class=3D"mb-1"><span class=3D"in=
-line-flex items-center text-xs font-bold rounded-md other default px-2 py-1=
- ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">KANBAN</s=
-pan></button><button aria-label=3D"filter by skill leaflet" class=3D"mb-1">=
-<span class=3D"inline-flex items-center text-xs font-bold rounded-md other =
-default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1=
-16z7kx">LEAFLET</span></button><button aria-label=3D"filter by skill maven"=
- class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold r=
-ounded-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tran=
-sition  svelte-116z7kx">MAVEN</span></button><button aria-label=3D"filter b=
-y skill qt" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs =
+-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">GCP</span></bu=
+tton> </div><div class=3D"flex flex-col"><h5 class=3D"stat-title capitalize=
+ text-center my-3">other</h5> <button aria-label=3D"filter by skill agile" =
+class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold ro=
+unded-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] trans=
+ition  svelte-116z7kx">AGILE</span></button><button aria-label=3D"filter by=
+ skill git" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs =
 font-bold rounded-md other default px-2 py-1 ring-1 ring-inset hover:scale-=
-[1.03] transition  svelte-116z7kx">QT</span></button><button aria-label=3D"=
-filter by skill redux" class=3D"mb-1"><span class=3D"inline-flex items-cent=
-er text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-inset h=
-over:scale-[1.03] transition  svelte-116z7kx">REDUX</span></button> </div><=
-/div> <div class=3D"modal-action"><form method=3D"dialog"><button class=3D"=
-btn">Fermer</button></form></div></div> <form method=3D"dialog" class=3D"mo=
-dal-backdrop" data-svelte-h=3D"svelte-k3gtt0"> <button>Close</button></form=
-></dialog></div> <div class=3D"px-2 self-start w-full" style=3D"grid-area: =
-experience;"><div class=3D"sm:columns-2"><ol class=3D"relative border-l-2 b=
-order-lime-200 dark:border-green-700 flex flex-col flex-shrink"><li class=
-=3D"ml-4  break-inside-avoid"><div class=3D"absolute w-3 h-3 bg-gray-200 ro=
-unded-full mt-5 -left-[6.5px] border border-white dark:border-gray-900 dark=
-:bg-gray-700"></div> <div class=3D"card dark:bg-neutral-800  rounded-sm hov=
-er:scale-[1.025] transition hover:cursor-pointer" aria-label=3D"open detail=
-s" role=3D"button" tabindex=3D"0"><div class=3D"card-body py-4"><time class=
-=3D"text-sm font-normal text-accent self-start -mb-2">Sept. 2020 -
+[1.03] transition  svelte-116z7kx">GIT</span></button><button aria-label=3D=
+"filter by skill kanban" class=3D"mb-1"><span class=3D"inline-flex items-ce=
+nter text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-inset=
+ hover:scale-[1.03] transition  svelte-116z7kx">KANBAN</span></button><butt=
+on aria-label=3D"filter by skill leaflet" class=3D"mb-1"><span class=3D"inl=
+ine-flex items-center text-xs font-bold rounded-md other default px-2 py-1 =
+ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">LEAFLET</s=
+pan></button><button aria-label=3D"filter by skill maven" class=3D"mb-1"><s=
+pan class=3D"inline-flex items-center text-xs font-bold rounded-md other de=
+fault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116=
+z7kx">MAVEN</span></button><button aria-label=3D"filter by skill qt" class=
+=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
+-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition=
+  svelte-116z7kx">QT</span></button><button aria-label=3D"filter by skill r=
+edux" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-b=
+old rounded-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03]=
+ transition  svelte-116z7kx">REDUX</span></button> </div></div> <div class=
+=3D"modal-action"><form method=3D"dialog"><button class=3D"btn">Fermer</but=
+ton></form></div></div> <form method=3D"dialog" class=3D"modal-backdrop" da=
+ta-svelte-h=3D"svelte-k3gtt0"> <button>Close</button></form></dialog></div>=
+ <div class=3D"px-2 self-start w-full" style=3D"grid-area: experience;"><di=
+v class=3D"sm:columns-2"><ol class=3D"relative border-l-2 border-lime-200 d=
+ark:border-green-700 flex flex-col flex-shrink"><li class=3D"ml-4  break-in=
+side-avoid"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -l=
+eft-[6.5px] border border-white dark:border-gray-900 dark:bg-gray-700"></di=
+v> <div class=3D"card dark:bg-neutral-800  rounded-sm hover:scale-[1.025] t=
+ransition hover:cursor-pointer" aria-label=3D"open details" role=3D"button"=
+ tabindex=3D"0"><div class=3D"card-body py-4"><time class=3D"text-sm font-n=
+ormal text-accent self-start -mb-2">Sept. 2020 -
 							Juil. 2030</time> <h3 class=3D"font-bold text-xl capitalize card-tit=
 le text-left">Voc On Steroid - Entrepreneur</h3> <div class=3D"flex gap-2 i=
 tems-center"><p class=3D"text-sm font-normal">Cr=C3=A9ation d'une applicati=
@@ -2433,7 +2429,7 @@ flow: hidden; white-space: nowrap; width: 1px; height: 1px;"></div></div>
 =09
 
 </body></html>
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/_app/immutable/assets/nodes/0.7r6AwCXP.css
@@ -4171,7 +4167,7 @@ b(38 38 38 / var(--tw-bg-opacity)); }
   .sm\:pb-2 { padding-bottom: 0.5rem; }
   .sm\:text-left { text-align: left; }
 }
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/_app/immutable/assets/HeadTags.MRTeinX4.css
@@ -4273,7 +4269,7 @@ rgb(31 41 55 / var(--tw-bg-opacity)); }
   .desktop-grid.svelte-r3efyy { display: grid; grid-template: "skill skill"=
  min-content "education experience" / 30% auto; gap: 0px; }
 }
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://voconsteroid.com/voconsteroidLogoNT384.png
@@ -4423,7 +4419,7 @@ AABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABG
 EQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAA
 YBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYFEURf8P1Rxy/6Nu9+AAAAAASUVORK5CYII=
 
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/boxing-glove.svg
@@ -4445,7 +4441,7 @@ Content-Location: https://cv.bnei.dev/boxing-glove.svg
 333c0 .92-1.221 1.208-2.326 1.208h-5C15.57 34 15 33.712 15 32.792v-3.333c0-=
 .921.57-1.459 1.674-1.459h5z"/>
 </svg>
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/reading.svg
@@ -4462,7 +4458,7 @@ Content-Location: https://cv.bnei.dev/reading.svg
 3-3-3z"/>
     </g>
 </svg>
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://cv.bnei.dev/strategy.png
@@ -4829,7 +4825,7 @@ FqIAAADQQhQAAABaiAIAAEALUQAAAGghCgAAAC1EAQAAoIUoAAAAtBAFAACAFqIAAADQQhQAAABa
 KJL0R+sQAABguFxVVdYZAADAkLEFAABAC1EAAABoIQoAAAAt9F9LL9PzoI2q/QAAAABJRU5ErkJg
 gg==
 
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON----
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://cv.bnei.dev/harmony.png
@@ -5622,4 +5618,4 @@ owdgNNkCABdQC1QaPRAhhBAJsQHoDzQbPRAjyQoANAHnksT1oIUQIonsB84jySd/kADgK+uAmqN/
 CyGE6JxqgWpgvdEDMQPZAmjLAVwCTAIGArmANIwXQghragV2AquBmag5X0l99O9Y/weMQl/eslRo
 8gAAAABJRU5ErkJggg==
 
-------MultipartBoundary--zwAfjZ3BGTFtw936rfmQieTwEsrwsxtV9trKoZrwON------
+------MultipartBoundary--Cw7qyPu2rvjUNEeknDQGzqmg6l1DgM1zKWemNTqGml------
