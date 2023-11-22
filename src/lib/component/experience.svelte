@@ -44,7 +44,7 @@
 	];
 </script>
 
-<div class={$snapshotMode && !$fullExperienceExport ? '' : 'sm:columns-2'}>
+<div class="sm:columns-2">
 	<ol
 		class="relative border-l-2 border-lime-200 dark:border-green-700 {$snapshotMode
 			? 'flex flex-col flex-shrink'

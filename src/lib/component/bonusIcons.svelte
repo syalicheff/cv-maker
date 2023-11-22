@@ -8,7 +8,7 @@
 	import K8s from './ui/svg/k8s.svelte';
 </script>
 
-<div class="flex {!$snapshotMode ? 'flex-col sm:flex-row' : 'flex-col'} items-center gap-2">
+<div class="flex flex-col {$snapshotMode ? 'sm:flex-row sm:justify-evenly' : ''}  items-center gap-2">
 	<div class="stats {$snapshotMode ? '' : 'shadow'} w-min">
 		<div class="stat">
 			<FootballKick width={44} />

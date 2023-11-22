@@ -88,11 +88,12 @@ export const experience: IExperience[] = [
 				title: 'CSV Export',
 				description: `Improvement of the CSV export of courses. Optimization of NoSQL queries and javascript data processing.`,
 				skills: [
-					// { name: 'nodejs', category: 'backend', },
-					// { name: 'Express', category: 'backend', },
-					// { name: 'ReactJS', category: 'frontend' },
-					// { name: 'MongoDB', category: 'data' }
-				]
+					{ name: 'nodejs', category: 'backend' },
+					{ name: 'express', category: 'backend' },
+					{ name: 'reactjs', category: 'frontend' },
+					{ name: 'mongodb', category: 'data' }
+				],
+				snapshot: true
 			},
 			{
 				title: 'Addition of fields',
@@ -120,7 +121,8 @@ export const experience: IExperience[] = [
 					{ name: 'flask', category: 'backend' },
 					{ name: 'angularjs', category: 'frontend' },
 					{ name: 'mongodb', category: 'data' }
-				]
+				],
+				snapshot: true
 			}
 		]
 	},
@@ -210,7 +212,8 @@ export const experience: IExperience[] = [
 			{
 				title: 'React',
 				description: `Introduction to React programming language.`,
-				skills: [{ name: 'reactjs', category: 'frontend' }]
+				skills: [{ name: 'reactjs', category: 'frontend' }],
+				snapshot: true
 			},
 			{
 				title: 'AI Integration',
@@ -225,7 +228,8 @@ export const experience: IExperience[] = [
 					{ name: 'websocket', category: 'backend' },
 					{ name: 'socket.io', category: 'backend' },
 					{ name: 'webRTC', category: 'frontend' }
-				]
+				],
+				snapshot: true
 			},
 			{
 				title: 'Other',

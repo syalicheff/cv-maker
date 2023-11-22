@@ -88,10 +88,10 @@ export const experience: IExperience[] = [
 				title: 'Export CSV',
 				description: `Amélioration de l'export CSV des cours. Optimisation des requêtes NoSQL et du traitement en javascript des données.`,
 				skills: [
-					// { name: 'nodejs', category: 'backend', },
-					// { name: 'Express', category: 'backend', },
-					// { name: 'ReactJS', category: 'frontend' },
-					// { name: 'MongoDB', category: 'data' }
+					{ name: 'nodejs', category: 'backend' },
+					{ name: 'express', category: 'backend' },
+					{ name: 'reactjs', category: 'frontend' },
+					{ name: 'mongodb', category: 'data' }
 				]
 			},
 			{
@@ -120,7 +120,8 @@ export const experience: IExperience[] = [
 					{ name: 'flask', category: 'backend' },
 					{ name: 'angularjs', category: 'frontend' },
 					{ name: 'mongodb', category: 'data' }
-				]
+				],
+				snapshot: true
 			}
 		]
 	},
@@ -215,7 +216,8 @@ export const experience: IExperience[] = [
 				skills: [
 					{ name: 'reactjs', category: 'frontend' },
 					{ name: 'nextjs', category: 'frontend' }
-				]
+				],
+				snapshot: true
 			},
 			{
 				title: "Intégration d'IA",
@@ -223,14 +225,15 @@ export const experience: IExperience[] = [
 				skills: [{ name: 'python', category: 'backend' }]
 			},
 			{
-				title: 'Web realtime',
+				title: 'Web temps réel',
 				description: `Présentation des différentes technologies permettant le temps réel pour le web. Implémentation de projets en temps réel.`,
 				skills: [
 					{ name: 'redis', category: 'data' },
 					{ name: 'websocket', category: 'backend' },
 					{ name: 'socket.io', category: 'backend' },
-					{ name: 'webRTC', category: 'frontend' }
-				]
+					{ name: 'webrtc', category: 'frontend' }
+				],
+				snapshot: true
 			},
 			{
 				title: 'Autres',

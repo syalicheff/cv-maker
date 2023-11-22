@@ -74,21 +74,13 @@
 			<Lang {langs} />
 			<div class="divider {$snapshotMode ? 'my-14' : 'my-1'}"></div>
 			<Hobby {hobbies} />
-			{#if $snapshotMode}
-				<!-- <div class="divider {$snapshotMode ? 'my-14' : 'my-1'}"></div> -->
-				<div class="mt-2">
-					<BonusIcons />
-				</div>
-			{/if}
 			<div class="mb-4 sm:mb-0"></div>
 		</div>
 	</div>
 </div>
-{#if !$snapshotMode}
-	<div class="ml-2 pt-2 pb-12 sm:pb-2">
-		<BonusIcons />
-	</div>
-{/if}
+<div class="ml-2 pt-2 pb-12 sm:pb-2">
+	<BonusIcons />
+</div>
 
 <style>
 	@media (min-width: 640px) {
