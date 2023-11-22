@@ -12,7 +12,18 @@ const selectedSkillStore = () => {
 
 	const { set, update, subscribe } = selectedSkills;
 
-	const reset = () => set([]);
+	const reset = () => {
+		if (browser) {
+			const currentUrl = new URL(window.location.href);
+
+			currentUrl.searchParams.delete('skills');
+			goto(currentUrl, {
+				noScroll: true
+			});
+		}
+
+		set([]);
+	};
 
 	const add = (skill: ISkill) => {
 		update((list) => {

@@ -51,10 +51,7 @@
 			: ''} "
 	>
 		{#each experience.sort((a, b) => b.endDate.getTime() - a.endDate.getTime()) as item, i (item.enterprise)}
-			<li
-				class="ml-4 {i !== 0 ? 'mt-2' : ''} {!$snapshotMode ? 'break-inside-avoid' : ''}"
-				transition:fly
-			>
+			<li class="ml-4 {i !== 0 ? 'mt-2' : ''} break-inside-avoid" transition:fly>
 				<div
 					class="absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -left-[6.5px] border border-white dark:border-gray-900 dark:bg-gray-700"
 				></div>
@@ -96,7 +93,7 @@
 								</div>
 							{/if}
 						</div>
-						{#if $snapshotMode}
+						{#if $snapshotMode || $fullExperienceExport}
 							<ul class="ml-4 mt-4">
 								{#each item.missions.filter(({ snapshot }) => $fullExperienceExport || snapshot) || [] as mission, i (mission.title)}
 									{#if i !== 0}

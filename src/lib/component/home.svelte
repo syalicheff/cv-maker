@@ -66,7 +66,7 @@
 		</div>
 		<div class="divider sm:hidden mx-2 {$snapshotMode ? 'my-14' : 'my-1'}"></div>
 		<div
-			class="px-2 {$snapshotMode ? 'self-start' : 'self-center'} w-full"
+			class="px-2 {$snapshotMode || $fullExperienceExport ? 'self-start' : 'self-center'} w-full"
 			style="grid-area: education;"
 		>
 			<Education {education} />
