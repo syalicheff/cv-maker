@@ -22,6 +22,9 @@
 	import SkillBadge from './ui/skillBadge.svelte';
 	import { fly } from 'svelte/transition';
 	import { snapshotMode } from '../../store';
+	import { page } from '$app/stores';
+
+	$: fullExperience = $page.url.searchParams.has('full');
 
 	export let experience: IExperience[] = [
 		{
@@ -44,13 +47,13 @@
 	];
 </script>
 
-<div class={$snapshotMode ? '' : 'sm:columns-2'}>
+<div class={$snapshotMode && !fullExperience ? '' : 'sm:columns-2'}>
 	<ol
 		class="relative border-l-2 border-lime-200 dark:border-green-700 {$snapshotMode
 			? 'flex flex-col flex-shrink'
 			: ''} "
 	>
-		{#each experience.sort((a, b) => b.endDate.getTime() - a.endDate.getTime()) as item, i}
+		{#each experience.sort((a, b) => b.endDate.getTime() - a.endDate.getTime()) as item, i (item.enterprise)}
 			<li class="ml-4 {i !== 0 ? 'mt-2' : ''} break-inside-avoid" transition:fly>
 				<div
 					class="absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -left-[6.5px] border border-white dark:border-gray-900 dark:bg-gray-700"
@@ -95,7 +98,7 @@
 						</div>
 						{#if $snapshotMode}
 							<ul class="ml-4 mt-4">
-								{#each item.missions.filter(({ snapshot }) => snapshot) || [] as mission, i}
+								{#each item.missions.filter(({ snapshot }) => fullExperience || snapshot) || [] as mission, i (mission.title)}
 									{#if i !== 0}
 										<div class="divider"></div>
 									{/if}
@@ -104,7 +107,7 @@
 
 										<p class="mb-2 text-sm font-normal">{mission.description}</p>
 										<div class="flex flex-wrap gap-2">
-											{#each mission.skills || [] as skill}
+											{#each mission.skills || [] as skill (skill.name)}
 												<SkillBadge {skill} />
 											{/each}
 										</div>
@@ -125,7 +128,7 @@
 					</div>
 					<h3 class="font-bold text-lg text-center w-[85%]">Missions : {item.enterprise}</h3>
 					<ul class="ml-4 mt-4">
-						{#each item.missions || [] as mission, i}
+						{#each item.missions || [] as mission, i (mission.title)}
 							{#if i !== 0}
 								<div class="divider"></div>
 							{/if}
@@ -134,7 +137,7 @@
 
 								<p class="mb-2 text-sm font-normal">{mission.description}</p>
 								<div class="flex flex-wrap gap-2">
-									{#each mission.skills || [] as skill}
+									{#each mission.skills || [] as skill (skill.name)}
 										<SkillBadge {skill} />
 									{/each}
 								</div>

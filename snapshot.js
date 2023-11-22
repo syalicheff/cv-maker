@@ -17,8 +17,11 @@ const fs = require('fs');
 	await Promise.all([
 		saveToPdf(await browser.newPage()),
 		saveToPdf(await browser.newPage(), true),
+		saveToPdf(await browser.newPage(), true),
+		true,
 		saveToMhtml(await browser.newPage()),
-		saveToMhtml(await browser.newPage(), true)
+		saveToMhtml(await browser.newPage(), true),
+		saveToMhtml(await browser.newPage(), true, true)
 	]);
 
 	console.log('Created PDFs and MHTMLs!');
@@ -33,11 +36,12 @@ const fs = require('fs');
  * @param {boolean} en - Whether to save the PDF in English.
  * @return {Promise<void>} - A promise that resolves when the PDF is saved.
  */
-const saveToPdf = async (page, en = false) => {
-	await page.goto(`${url}/${en ? 'en' : ''}?snapshot`);
+const saveToPdf = async (page, en = false, full = false) => {
+	await page.goto(`${url}/${en ? 'en' : ''}?snapshot${full ? '&full' : ''}`);
 	await page.setViewport({ width: 1080, height: 1024 });
+	const fileName = path + '/' + (en ? 'cv-en' : 'cv') + (full ? '-full' : '') + '.pdf';
 	await page.pdf({
-		path: `${path}/${en ? 'cv-en.pdf' : 'cv.pdf'}`,
+		path: fileName,
 		scale: 0.5,
 		landscape: false,
 		pageRanges: '1',
@@ -52,12 +56,13 @@ const saveToPdf = async (page, en = false) => {
  * @param {boolean} en - Determines if the page is in English (default: false).
  * @return {Promise<void>} - A promise that resolves when the save is complete.
  */
-const saveToMhtml = async (page, en = false) => {
-	await page.goto(`${url}/${en ? 'en' : ''}?snapshot`);
+const saveToMhtml = async (page, en = false, full = false) => {
+	await page.goto(`${url}/${en ? 'en' : ''}?snapshot${full ? '&full' : ''}`);
 	const session = await page.target().createCDPSession();
 	await session.send('Page.enable');
 	const { data } = await session.send('Page.captureSnapshot', { format: 'mhtml' });
-	await fs.writeFile(`${path}/${en ? 'cv-en.mhtml' : 'cv.mhtml'}`, data, 'utf8', (err) => {
+	const fileName = path + '/' + (en ? 'cv-en' : 'cv') + (full ? '-full' : '') + '.mhtml';
+	await fs.writeFile(fileName, data, 'utf8', (err) => {
 		if (err) console.error({ err });
 	});
 };

@@ -26,7 +26,12 @@
 
 	let reset = true;
 
+	let shiftKeyPressed = false;
+
 	$: if ($selectedSkills.length === 0) reset = true;
+	$: fileName = `cv${$page.url.pathname.includes('en') ? '-en' : ''}${
+		shiftKeyPressed ? '-full' : ''
+	}`;
 </script>
 
 <div class="sm:w-28 sm:h-24">
@@ -70,19 +75,16 @@
 				? 'Download in pdf or mhtml (recommended) format'
 				: 'Télécharger au format pdf ou mhtml (recommandé)'}
 		</p>
-		<div class="flex justify-center gap-8">
-			<a
-				href={$page.url.pathname.includes('en') ? '/cv-en.pdf' : '/cv.pdf'}
-				class="btn btn-ghost"
-				download
-			>
+		<!-- svelte-ignore a11y-no-static-element-interactions -->
+		<div
+			class="flex justify-center gap-8"
+			on:keydown={(e) => e.key === 'Shift' && (shiftKeyPressed = true)}
+			on:keyup={(e) => e.key === 'Shift' && (shiftKeyPressed = false)}
+		>
+			<a href={fileName + '.pdf'} class="btn btn-ghost" download>
 				<Pdf width={22} />
 			</a>
-			<a
-				href={$page.url.pathname.includes('en') ? '/cv-en.mhtml' : '/cv.mhtml'}
-				class="btn btn-ghost"
-				download
-			>
+			<a href={fileName + '.mhtml'} class="btn btn-ghost" download>
 				<Html width={22} />
 			</a>
 		</div>
