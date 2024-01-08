@@ -12,8 +12,8 @@ pipeline {
       stage('extract') {
         steps {
           script {
-            def packageJson = readJSON file: 'package.json'
-            def version = packageJson.version
+            def props = readJSON file: 'package.json'
+            def version = packageJson['version']
             echo "The version of this project is ${version}"
           }
         }
