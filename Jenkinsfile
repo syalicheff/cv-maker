@@ -3,7 +3,10 @@ pipeline {
     stages {
         stage('build') {
       steps {
-        sh 'node --version'
+        nodejs(nodeJSInstallationName: '20') {
+            sh 'pnpm install'
+            sh 'pnpm build'
+        }
       }
         }
     }
